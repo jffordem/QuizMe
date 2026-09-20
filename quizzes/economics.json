@@ -1,0 +1,187 @@
+{
+  "id": "economics",
+  "title": "Economics",
+  "version": 1,
+  "questions": [
+    {
+      "q": "Economics: The social science that deals with the:",
+      "answer": "production, distribution, and consumption of goods and services.",
+      "distractors": [
+        "GDP of developing nations.",
+        "functioning of market ecnomies.",
+        "advantages and disadvantages of capitalism."
+      ]
+    },
+    {
+      "q": "Market Economy:",
+      "answer": "production is owned and operated for profit; citizens run and manage businesses; driven by supply and demand",
+      "distractors": [
+        "production is owned by the state and operated for public good; citizens work in businesses",
+        "production is traditional and multigenerational",
+        "production is planned by a central committe; citizens work; the state predicts supply and demand"
+      ]
+    },
+    {
+      "q": "Capitalism:",
+      "answer": "an economic and political system in which a country's trade and industry are controlled by private owners for profit",
+      "distractors": [
+        "production is traditional and multigenerational",
+        "production is planned by a central committe; citizens work; the state predicts supply and demand",
+        "production is managed by the state; individuals can buy into businesses with state approval"
+      ]
+    },
+    {
+      "q": "Command Economy:",
+      "answer": "production is controlled by the state",
+      "distractors": [
+        "production is traditional and multigenerational",
+        "production is driven by supply and demand",
+        "production is controlled by popular vote of the citizens"
+      ]
+    },
+    {
+      "q": "Which is not a Command Economy:",
+      "answer": "South Korea",
+      "distractors": [
+        "Cuba",
+        "North Korea",
+        "Iran"
+      ]
+    },
+    {
+      "q": "Mixed Economy:",
+      "answer": "production is a combination of both private and state-run businesses",
+      "distractors": [
+        "production is traditional and multigenerational",
+        "production is controlled by the state",
+        "production is controlled by supply and demand"
+      ]
+    },
+    {
+      "q": "Which is not a Mixed Economy",
+      "answer": "Cuba",
+      "distractors": [
+        "United States",
+        "United Kingdom",
+        "Canada"
+      ]
+    },
+    {
+      "q": "Traditional Economy:",
+      "answer": "production is the result of ritual, habit and custom; often generational",
+      "distractors": [
+        "production is controlled by the state",
+        "production is controlled by supply and demand",
+        "production is a combination of both private and state-run businesses"
+      ]
+    },
+    {
+      "q": "Gross Domestic Product (GDP):",
+      "answer": "the amount of goods & services produced by a state in one year",
+      "distractors": [
+        "the total amount of money printed by the state in one year",
+        "the average amount of money each citizen makes per year",
+        "the amount of goods & services exported in one year"
+      ]
+    },
+    {
+      "q": "Per-capita GDP:",
+      "answer": "Total GDP number divided by the population",
+      "distractors": [
+        "Total GDP number divided by live births per 1000",
+        "Amount of money the average person has in savings",
+        "Total GDP number normalized by the literacy rate"
+      ]
+    },
+    {
+      "q": "Which is not a characteristic of Developed Countries:",
+      "answer": "economy is dependent on natural resources",
+      "distractors": [
+        "high literacy rates",
+        "long life expectancy",
+        "stable economy"
+      ]
+    },
+    {
+      "q": "Which is not a characteristic of Developing Countries:",
+      "answer": "plentiful energy and power",
+      "distractors": [
+        "high poverty rate",
+        "low literacy rate",
+        "unstable economy"
+      ]
+    },
+    {
+      "q": "An Embargo is",
+      "answer": "suspension of trade with another country",
+      "distractors": [
+        "evicting people from another country",
+        "taxing the goods from another country",
+        "not allowing citizens to travel to another country"
+      ]
+    },
+    {
+      "q": "Boom/Bust Cycle:",
+      "answer": "alternating periods of economic growth and contraction",
+      "distractors": [
+        "defaulting on loans to another country after a conflict",
+        "alternating national investment between stocks and bonds",
+        "registering a complaint against another nation at The Hague"
+      ]
+    },
+    {
+      "q": "Recession: decrease in GDP for",
+      "answer": "six months",
+      "distractors": [
+        "one year",
+        "3 months",
+        "six quarters"
+      ]
+    },
+    {
+      "q": "Depression:",
+      "answer": "a long and persistent recession",
+      "distractors": [
+        "a drop of GDP by 20% or more",
+        "a decrease in per-captita GDP from one generation to the next",
+        "a recession that occurs during an election year"
+      ]
+    },
+    {
+      "q": "Literacy Rate: usually defined as the percent of",
+      "answer": "the population over the age of 15 who can read and write",
+      "distractors": [
+        "the adult population who can read and write",
+        "the population over the age of 15 who regularly attend school",
+        "the population who can pass a literacy test"
+      ]
+    },
+    {
+      "q": "Infant Mortality Rate:",
+      "answer": "the number of infant deaths in a year per 1000 births",
+      "distractors": [
+        "the number of children who survive to age 5 per 1000 births",
+        "the number of mothers who die during childbirth per 1000 births",
+        "the number of mothers who have prenatal care per 1000 births"
+      ]
+    },
+    {
+      "q": "Africa's economy depends on",
+      "answer": "abundant natural resources",
+      "distractors": [
+        "a large, inexpensive labor force",
+        "the number of developing countries",
+        "the average price of oil"
+      ]
+    },
+    {
+      "q": "The Middle East's economy depends on",
+      "answer": "petroleum production",
+      "distractors": [
+        "the average global temperature",
+        "the stability of the Saudi royal family",
+        "a two-state solution in Israel"
+      ]
+    }
+  ]
+}
