@@ -30,6 +30,19 @@ button.primary {
   font-weight: 600;
 }
 
+/* Every row reserves the same right-hand column, so quiz buttons stay the same
+   width whether or not the row has a Reset link. */
+.row {
+  display: grid;
+  grid-template-columns: 1fr 3.25rem;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.reset {
+  padding: 0.5rem 0;
+}
+
 .back {
   display: block;
   margin-bottom: 0.75rem;

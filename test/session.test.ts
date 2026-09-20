@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { masteredCount, progressIsStale, REQUIRED_STREAK, Session } from "../src/session.ts";
+import { hasProgress, masteredCount, progressIsStale, REQUIRED_STREAK, Session } from "../src/session.ts";
 import { makeQuiz, seeded } from "./helpers.ts";
 
 /** Answer the current question correctly or incorrectly. */
@@ -158,5 +158,29 @@ describe("Session progress", () => {
     const session = new Session(quiz, junk as never);
     expect(session.mastered).toBe(0);
     expect(Object.values(session.toProgress().questions).every((p) => p.streak === 0 && p.seen === 0)).toBe(true);
+  });
+});
+
+describe("hasProgress", () => {
+  it("is false with nothing saved, or for an untouched session", () => {
+    const quiz = makeQuiz();
+    expect(hasProgress(quiz, null)).toBe(false);
+    expect(hasProgress(quiz, new Session(quiz).toProgress())).toBe(false);
+  });
+
+  it("is true once any answer is recorded, right or wrong", () => {
+    const quiz = makeQuiz();
+    const session = new Session(quiz, null, seeded(20));
+    session.next();
+    answer(session, false);
+    expect(hasProgress(quiz, session.toProgress())).toBe(true);
+  });
+
+  it("is false for progress recorded against another quiz version", () => {
+    const quiz = makeQuiz();
+    const session = new Session(quiz, null, seeded(21));
+    session.next();
+    answer(session, true);
+    expect(hasProgress(makeQuiz({ version: 2 }), session.toProgress())).toBe(false);
   });
 });

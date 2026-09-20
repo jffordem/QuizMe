@@ -248,6 +248,92 @@ describe("playing a quiz", () => {
   });
 });
 
+describe("resetting a quiz", () => {
+  const PROGRESS_KEY = "quizme.progress.capitals";
+  const seedProgress = () => {
+    // Play one wrong answer so there is something to erase, then go back to the list.
+    buttonWith("Capitals").click();
+    answerWrong();
+    buttonWith("Back to quizzes").click();
+  };
+
+  beforeEach(() => {
+    localStorage.setItem("quizme.termsAccepted", TERMS_VERSION);
+    start();
+  });
+
+  it("offers no Reset for a quiz with no progress", () => {
+    expect(buttons().some((b) => b.textContent === "Reset")).toBe(false);
+  });
+
+  it("offers Reset once there is progress", () => {
+    seedProgress();
+    expect(buttons().some((b) => b.textContent === "Reset")).toBe(true);
+  });
+
+  it("asks for confirmation and shows what will be erased", () => {
+    seedProgress();
+    buttonWith("Reset").click();
+    expect(text()).toContain("Reset progress?");
+    expect(text()).toContain("Capitals (0 of 3 mastered)");
+    expect(localStorage.getItem(PROGRESS_KEY)).not.toBeNull(); // nothing erased yet
+  });
+
+  it("Cancel keeps the progress", () => {
+    seedProgress();
+    buttonWith("Reset").click();
+    buttonWith("Cancel").click();
+    expect(text()).toContain("Quizzes");
+    expect(localStorage.getItem(PROGRESS_KEY)).not.toBeNull();
+    expect(buttons().some((b) => b.textContent === "Reset")).toBe(true);
+  });
+
+  it("Escape cancels", () => {
+    seedProgress();
+    buttonWith("Reset").click();
+    key("Escape");
+    expect(text()).toContain("Quizzes");
+    expect(localStorage.getItem(PROGRESS_KEY)).not.toBeNull();
+  });
+
+  it("Enter does not erase anything (Cancel has the focus)", () => {
+    seedProgress();
+    buttonWith("Reset").click();
+    key("Enter");
+    expect(localStorage.getItem(PROGRESS_KEY)).not.toBeNull();
+  });
+
+  it("confirming erases the progress and returns to a fresh list", () => {
+    seedProgress();
+    buttonWith("Reset").click();
+    buttonWith("Reset progress").click();
+    expect(localStorage.getItem(PROGRESS_KEY)).toBeNull();
+    expect(text()).toContain("Quizzes");
+    expect(text()).toContain("0 of 3 mastered");
+    expect(buttons().some((b) => b.textContent === "Reset")).toBe(false);
+  });
+
+  it("resets a fully mastered quiz so it can be played again from the start", () => {
+    buttonWith("Capitals").click();
+    let guard = 0;
+    while (root.querySelector(".question")) {
+      answerRight();
+      vi.advanceTimersByTime(1000);
+      if (++guard > 20) throw new Error("quiz did not finish");
+    }
+    buttonWith("Back to list").click();
+    expect(text()).toContain("3 of 3 mastered");
+
+    buttonWith("Reset").click();
+    buttonWith("Reset progress").click();
+    expect(text()).toContain("0 of 3 mastered");
+
+    buttonWith("Capitals").click();
+    expect(root.querySelector(".question")).not.toBeNull();
+    expect(text()).toContain("Mastered 0/3");
+  });
+});
+
 describe("quiz list", () => {
   beforeEach(() => localStorage.setItem("quizme.termsAccepted", TERMS_VERSION));
 
