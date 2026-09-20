@@ -1,0 +1,18 @@
+{
+  "name": "quizme",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Multiple-choice study quizzes that run in the browser",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "vite": "^8.3.0",
+    "vitest": "^5.0.1"
+  }
+}
