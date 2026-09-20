@@ -1,0 +1,295 @@
+{
+  "id": "middle-east",
+  "title": "Middle East",
+  "version": 1,
+  "questions": [
+    {
+      "q": "What is a goal of O.P.E.C.?",
+      "answer": "Regulate the supply of oil",
+      "distractors": [
+        "Maintain peace in the Middle East",
+        "Prevent Russia from exporting oil",
+        "Maximize the profitability of oil"
+      ]
+    },
+    {
+      "q": "What is NOT a dominant religion in the Middle East?",
+      "answer": "Hindi",
+      "distractors": [
+        "Muslims",
+        "Jews",
+        "Christians"
+      ]
+    },
+    {
+      "q": "O.P.E.C. stands for:",
+      "answer": "Organization of the Petroleum Exporting Countries",
+      "distractors": [
+        "Organization of the Petroleum Expiditing Countries",
+        "Organized Petrol Exclusion Consortium",
+        "Optimum Petroleum Exporting Consolidation"
+      ]
+    },
+    {
+      "q": "Primary export from the Middle East:",
+      "answer": "petroleum",
+      "distractors": [
+        "tourism",
+        "agriculture",
+        "cultural relics"
+      ]
+    },
+    {
+      "q": "The goal of the World Trade Organization (WTO) is to...",
+      "answer": "liberalize trade",
+      "distractors": [
+        "normalize relations",
+        "ensure stability",
+        "manage tariffs"
+      ]
+    },
+    {
+      "q": "Muhammad was born in what city?",
+      "answer": "Mecca",
+      "distractors": [
+        "Jerusalem",
+        "Galilee",
+        "Tehran"
+      ]
+    },
+    {
+      "q": "Muhammad was raised by his...",
+      "answer": "grandfather",
+      "distractors": [
+        "uncle",
+        "parents",
+        "priests"
+      ]
+    },
+    {
+      "q": "Muhammad is best known for...",
+      "answer": "founding Islam",
+      "distractors": [
+        "praying toward Mecca",
+        "gathering followers",
+        "trading with caravans"
+      ]
+    },
+    {
+      "q": "Muhammad married a...",
+      "answer": "wealthy widow",
+      "distractors": [
+        "beautiful young girl",
+        "priestess",
+        "servant"
+      ]
+    },
+    {
+      "q": "Muhammad died in...",
+      "answer": "Medina",
+      "distractors": [
+        "Mecca",
+        "Jerusalem",
+        "Baghdad"
+      ]
+    },
+    {
+      "q": "Which of the following does NOT define the Middle East:",
+      "answer": "Race",
+      "distractors": [
+        "Religion",
+        "Language",
+        "Economics"
+      ]
+    },
+    {
+      "q": "Before Muhammad the Middle East was...",
+      "answer": "animistic and polythestic",
+      "distractors": [
+        "unified and monotheiestic",
+        "deterministic and druidic",
+        "christian and monotheiestic"
+      ]
+    },
+    {
+      "q": "Middle East climate is...",
+      "answer": "hot and dry",
+      "distractors": [
+        "humid and tropic",
+        "temperate and cool",
+        "equatorial"
+      ]
+    },
+    {
+      "q": "Civil and religious ruler of a Muslim state:",
+      "answer": "Caliph",
+      "distractors": [
+        "Mullah",
+        "Imam",
+        "Ayatollah"
+      ]
+    },
+    {
+      "q": "Customary procedures of living; the customs of Muhammad:",
+      "answer": "Sharia",
+      "distractors": [
+        "Caliphate",
+        "Halal",
+        "Shabbat"
+      ]
+    },
+    {
+      "q": "Authority is passed from Muhammad to his bloodline:",
+      "answer": "Shia",
+      "distractors": [
+        "Sunni",
+        "Sufi",
+        "Sikh"
+      ]
+    },
+    {
+      "q": "Authority is passed by consensus of the Muslim community by voting:",
+      "answer": "Sunni",
+      "distractors": [
+        "Shia",
+        "Sufi",
+        "Sikh"
+      ]
+    },
+    {
+      "q": "Shiite religious leader in Iran:",
+      "answer": "Ayatollah",
+      "distractors": [
+        "Caliphate",
+        "Prime Minister",
+        "Grand Imam"
+      ]
+    },
+    {
+      "q": "Islamic law based on the teachings of the prophet Muhammad:",
+      "answer": "Sunna",
+      "distractors": [
+        "Talmud",
+        "Koran",
+        "Torah"
+      ]
+    },
+    {
+      "q": "Which is NOT a teaching of Muhammad",
+      "answer": "Intolerance of non-believers",
+      "distractors": [
+        "Everyone is equal, no one is rich, or poor",
+        "Faith matters more than nationality or tribe",
+        "Find your beautiful miracle"
+      ]
+    },
+    {
+      "q": "Square building in Mecca, built by Abraham, and the focus of Muslim worship:",
+      "answer": "Kaaba",
+      "distractors": [
+        "Temple",
+        "Shrine",
+        "Grand Mosque"
+      ]
+    },
+    {
+      "q": "Muhammad's emigration from Mecca to Medina in 622:",
+      "answer": "Hijra",
+      "distractors": [
+        "Kaaba",
+        "Haaj",
+        "Pilgrimage"
+      ]
+    },
+    {
+      "q": "Founder of Islam, prophet of God:",
+      "answer": "Muhammad",
+      "distractors": [
+        "Khomeini",
+        "Suleimani",
+        "Eloheim"
+      ]
+    },
+    {
+      "q": "Head of the Muslim community:",
+      "answer": "Imam",
+      "distractors": [
+        "Caliph",
+        "Rabbi",
+        "Ayatollah"
+      ]
+    },
+    {
+      "q": "Journey to a sacred place or shrine:",
+      "answer": "Pilgrimage",
+      "distractors": [
+        "Penance",
+        "Kaaba",
+        "Transubstantiation"
+      ]
+    },
+    {
+      "q": "Arabic word for God:",
+      "answer": "Allah",
+      "distractors": [
+        "Eloheim",
+        "Muhammad",
+        "Yahweh"
+      ]
+    },
+    {
+      "q": "Place of Muslim worship:",
+      "answer": "Mosque",
+      "distractors": [
+        "Church",
+        "Temple",
+        "Sanctuary"
+      ]
+    },
+    {
+      "q": "Religion based on the teachings of the prophet Muhammad",
+      "answer": "Islam",
+      "distractors": [
+        "Judaism",
+        "Hindi",
+        "Jain"
+      ]
+    },
+    {
+      "q": "A believer in Islam:",
+      "answer": "Muslim",
+      "distractors": [
+        "Mormon",
+        "Mooney",
+        "Sikh"
+      ]
+    },
+    {
+      "q": "The sacred book of Islam:",
+      "answer": "Koran",
+      "distractors": [
+        "Torah",
+        "Bible",
+        "Ahura Mazda"
+      ]
+    },
+    {
+      "q": "Community of Muslim believers:",
+      "answer": "Ummah",
+      "distractors": [
+        "Caliphate",
+        "Kabbutz",
+        "Hadith"
+      ]
+    },
+    {
+      "q": "Sayings and teachings of Muhammad:",
+      "answer": "Hadith",
+      "distractors": [
+        "Koran",
+        "Torah",
+        "Dead Sea Scrolls"
+      ]
+    }
+  ]
+}

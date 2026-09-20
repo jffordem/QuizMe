@@ -1,0 +1,232 @@
+{
+  "id": "mockingbird-1",
+  "title": "To Kill a Mockingbird 1",
+  "version": 1,
+  "questions": [
+    {
+      "q": "What is Scout's real name?",
+      "answer": "Jean Louise Finch",
+      "distractors": [
+        "Louise Marie Finch",
+        "Louise Scout Finch",
+        "Lee Mae Finch"
+      ]
+    },
+    {
+      "q": "What is the verdict in the Tom Robinson case?",
+      "answer": "Guilty",
+      "distractors": [
+        "Innocent",
+        "The jury is hung.",
+        "The judge calls a mistrial."
+      ]
+    },
+    {
+      "q": "Whose house burns down?",
+      "answer": "Miss Maudie's",
+      "distractors": [
+        "Aunt Alexandra's",
+        "Atticus's",
+        "Mr. Underwood's"
+      ]
+    },
+    {
+      "q": "Who is the editor of the local newspaper?",
+      "answer": "Mr. Underwood",
+      "distractors": [
+        "Mr. Raymond",
+        "Atticus",
+        "Heck Tate"
+      ]
+    },
+    {
+      "q": "Who insists that Bob Ewell's death is an accident?",
+      "answer": "Heck Tate",
+      "distractors": [
+        "Atticus",
+        "Scout",
+        "Boo Radley"
+      ]
+    },
+    {
+      "q": "What is Boo's real name?",
+      "answer": "Arthur",
+      "distractors": [
+        "Hector",
+        "Riley",
+        "Robert"
+      ]
+    },
+    {
+      "q": "What does Scout first find in the knot-hole?",
+      "answer": "Chewing gum",
+      "distractors": [
+        "Bird's nest",
+        "Gun",
+        "Small bug"
+      ]
+    },
+    {
+      "q": "What does Dill find in Dolphus Raymond's bottle?",
+      "answer": "Coca-Cola",
+      "distractors": [
+        "Wine",
+        "Whiskey",
+        "Water"
+      ]
+    },
+    {
+      "q": "Why does Atticus admire Mrs. Dubose?",
+      "answer": "Because she has courage",
+      "distractors": [
+        "Because she is committed to racial equality",
+        "Because she is beautiful",
+        "Because she is a proud Confederate"
+      ]
+    },
+    {
+      "q": "Who founded Finch's Landing?",
+      "answer": "Simon Finch",
+      "distractors": [
+        "Atticus",
+        "Uncle Jack",
+        "Jasper Finch"
+      ]
+    },
+    {
+      "q": "How did Miss Caroline learn her educational techniques?",
+      "answer": "From college courses",
+      "distractors": [
+        "From long experience",
+        "From a magazine article",
+        "From talking to other teachers"
+      ]
+    },
+    {
+      "q": "Who is the president of the United States at the time that the events of the story occur?",
+      "answer": "Franklin D. Roosevelt",
+      "distractors": [
+        "Theodore Roosevelt",
+        "Harry Truman",
+        "John F. Kennedy"
+      ]
+    },
+    {
+      "q": "Who tells Jem that it is a sin to kill mockingbirds?",
+      "answer": "Atticus",
+      "distractors": [
+        "Miss Maudie and Aunt Alexandra",
+        "Scout",
+        "Dill"
+      ]
+    },
+    {
+      "q": "Where does Dill live during the school year?",
+      "answer": "Mississippi",
+      "distractors": [
+        "Arkansas",
+        "Georgia",
+        "Boston"
+      ]
+    },
+    {
+      "q": "On what writer did Harper Lee base Dill?",
+      "answer": "Truman Capote",
+      "distractors": [
+        "Ernest Hemingway",
+        "Mary McCarthy",
+        "Gustave Flaubert"
+      ]
+    },
+    {
+      "q": "Who tucks Scout in at the end of the novel?",
+      "answer": "Atticus",
+      "distractors": [
+        "Aunt Alexandra",
+        "Boo Radley",
+        "Heck Tate"
+      ]
+    },
+    {
+      "q": "Who beat Mayella Ewell?",
+      "answer": "Bob Ewell",
+      "distractors": [
+        "Boo Radley",
+        "Tom Robinson",
+        "Heck Tate"
+      ]
+    },
+    {
+      "q": "Whose actions lead Mr. Cunningham to disperse the lynch mob?",
+      "answer": "Scout's",
+      "distractors": [
+        "Atticus's",
+        "Jem's",
+        "Mr. Underwood's"
+      ]
+    },
+    {
+      "q": "How old is Jem when the action of the novel starts?",
+      "answer": "9",
+      "distractors": [
+        "8",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "q": "What are Jem and Scout shocked to discover about Atticus?",
+      "answer": "That he is the best shot in Maycomb County",
+      "distractors": [
+        "That he can play the fiddle",
+        "That he can swim faster than any man in Maycomb",
+        "That he is a prize-winning songwriter"
+      ]
+    },
+    {
+      "q": "Who takes the children to the black church?",
+      "answer": "Calpurnia",
+      "distractors": [
+        "Miss Maudie",
+        "Helen Robinson",
+        "Reverend Sykes"
+      ]
+    },
+    {
+      "q": "Where does Boo leave presents for Scout and Jem?",
+      "answer": "In a hole in an oak tree",
+      "distractors": [
+        "In a box on his porch",
+        "In their mailbox",
+        "On their windowsills"
+      ]
+    },
+    {
+      "q": "Who mends Jem's pants?",
+      "answer": "Boo",
+      "distractors": [
+        "Miss Maudie",
+        "Aunt Alexandra",
+        "Scout"
+      ]
+    },
+    {
+      "q": "Who runs away from home?",
+      "answer": "Dill",
+      "distractors": [
+        "Scout",
+        "Jem",
+        "Francis"
+      ]
+    },
+    {
+      "q": "For what does Uncle Jack reprimand Scout on Christmas Eve?",
+      "answer": "Cursing",
+      "distractors": [
+        "Refusing to play with Francis",
+        "Not dressing in a ladylike way",
+        "Opening her presents before she was supposed to"
+      ]
+    }
+  ]
+}

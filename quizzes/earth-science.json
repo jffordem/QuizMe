@@ -1,0 +1,348 @@
+{
+  "id": "earth-science",
+  "title": "Earth Science",
+  "version": 1,
+  "questions": [
+    {
+      "q": "Drainage Basin:",
+      "answer": "Land that drains and guides water to a river.",
+      "distractors": [
+        "Mountains that surround lakes.",
+        "Region containing a river system.",
+        "A river delta that drains from a large valley."
+      ]
+    },
+    {
+      "q": "Water vapor changes into liquid water:",
+      "answer": "Condensation",
+      "distractors": [
+        "Precipitation",
+        "Sublimation",
+        "Evaporation"
+      ]
+    },
+    {
+      "q": "Solid or liquid water falls from the air to Earth:",
+      "answer": "Precipitation",
+      "distractors": [
+        "Sublimation",
+        "Condensation",
+        "Evaporation"
+      ]
+    },
+    {
+      "q": "Liquid water changes to water vapor:",
+      "answer": "Evaporation",
+      "distractors": [
+        "Condensation",
+        "Precipitation",
+        "Sublimation"
+      ]
+    },
+    {
+      "q": "Plants release water vapor through their leaves:",
+      "answer": "Transpiration",
+      "distractors": [
+        "Evaporation",
+        "Sublimation",
+        "Condensation"
+      ]
+    },
+    {
+      "q": "Rainwater soaks into the ground:",
+      "answer": "Infiltration",
+      "distractors": [
+        "Condensation",
+        "Precipitation",
+        "Sublimation"
+      ]
+    },
+    {
+      "q": "Water located within gaps and pores in rocks below the Earth's surface:",
+      "answer": "Ground water",
+      "distractors": [
+        "Water table",
+        "Spring water",
+        "Artesian water"
+      ]
+    },
+    {
+      "q": "Which is not an example of precipitation:",
+      "answer": "Tsunami",
+      "distractors": [
+        "Rain",
+        "Snow",
+        "Sleet"
+      ]
+    },
+    {
+      "q": "Surface water is found...",
+      "answer": "on continents and islands",
+      "distractors": [
+        "in geysers",
+        "in Artesian wells",
+        "in clouds"
+      ]
+    },
+    {
+      "q": "Source of energy for the water cycle:",
+      "answer": "the Sun",
+      "distractors": [
+        "the tides",
+        "the Earth's core",
+        "planetary rotation"
+      ]
+    },
+    {
+      "q": "Stream's Base Level",
+      "answer": "The lowest point in a stream.",
+      "distractors": [
+        "Where a stream carries its load.",
+        "The average cross-section of a stream.",
+        "When a channel drops less than 7% per mile."
+      ]
+    },
+    {
+      "q": "Fossil fuel impact on global warming",
+      "answer": "Pollutes the air.",
+      "distractors": [
+        "Increases sequestered CO2.",
+        "Decreases available nitrogen for plants.",
+        "Lowers available fossil fuel levels."
+      ]
+    },
+    {
+      "q": "Which is not a side-effect of global climate change",
+      "answer": "Decreased GDP",
+      "distractors": [
+        "Melting glaciers",
+        "Rising sea levels",
+        "Higher rates of disease"
+      ]
+    },
+    {
+      "q": "Springs form where",
+      "answer": "pressure makes water come out of the ground.",
+      "distractors": [
+        "steam pockets break the surface of the ground.",
+        "underground rivers are exposed at cliff faces.",
+        "drilling causes shifts in rock layers."
+      ]
+    },
+    {
+      "q": "Stream Discharge is measured by...",
+      "answer": "the volume of water flowing past a point in a stream.",
+      "distractors": [
+        "the amount of rainwater flowing from a drainage basin.",
+        "the amount of minerals suspended in the stream.",
+        "the rate of accumulation of river deltas formed by the stream."
+      ]
+    },
+    {
+      "q": "Flood Plain",
+      "answer": "Valley floor where a stream could flood.",
+      "distractors": [
+        "Mountain sides where streams cause erosion.",
+        "Valley floor where a meandering stream covers 10% of the area.",
+        "Basin associated with prior flooding."
+      ]
+    },
+    {
+      "q": "Depositional feature where a river enters a lake or ocean",
+      "answer": "Delta",
+      "distractors": [
+        "Aquifer",
+        "Spring",
+        "Isthmus"
+      ]
+    },
+    {
+      "q": "Aquifer",
+      "answer": "Permeable rock layer that freely transmits ground water",
+      "distractors": [
+        "Region above the zone of saturation",
+        "Area where springs are likely to form",
+        "Permeable rock layer liberated by fraking"
+      ]
+    },
+    {
+      "q": "Stream Channel",
+      "answer": "A course that a stream follows",
+      "distractors": [
+        "A meandering stream",
+        "A path formed by glacial erosion",
+        "A stream that runs dry in the summer"
+      ]
+    },
+    {
+      "q": "Which is not a non-renewable resource?",
+      "answer": "electricity",
+      "distractors": [
+        "coal",
+        "petroleum",
+        "natural gas"
+      ]
+    },
+    {
+      "q": "Which is not a renewable resource?",
+      "answer": "natural gas",
+      "distractors": [
+        "wind",
+        "water",
+        "solar"
+      ]
+    },
+    {
+      "q": "Karst caverns are formed by...",
+      "answer": "Erosion",
+      "distractors": [
+        "Deposition",
+        "Acidic reaction",
+        "Mining"
+      ]
+    },
+    {
+      "q": "Which is commonly found in karst coverns",
+      "answer": "Limestone",
+      "distractors": [
+        "Natural gas",
+        "Igneous rock",
+        "Helium pockets"
+      ]
+    },
+    {
+      "q": "What is the most common atmospheric gas?",
+      "answer": "Nitrogen",
+      "distractors": [
+        "Hydrogen",
+        "Oxygen",
+        "Ozone"
+      ]
+    },
+    {
+      "q": "Which is not an effect of mining on the environment?",
+      "answer": "increased lightning strikes",
+      "distractors": [
+        "increased greenhouse gasses",
+        "increased salinization of soil",
+        "increased soil erosion"
+      ]
+    },
+    {
+      "q": "Sinkholes form...",
+      "answer": "when a cave roof collapses.",
+      "distractors": [
+        "when underground rivers erode lava tubes.",
+        "when salt mines are abandoned.",
+        "when a cave has a buildup of hydrogen gas."
+      ]
+    },
+    {
+      "q": "A stream carries its load to...",
+      "answer": "the ocean.",
+      "distractors": [
+        "a watershed.",
+        "an isthmus.",
+        "an underground river."
+      ]
+    },
+    {
+      "q": "Which does not cause groundwater pollution?",
+      "answer": "Landfills",
+      "distractors": [
+        "Sewage",
+        "Pesticides"
+      ]
+    },
+    {
+      "q": "We limit development in flood plains...",
+      "answer": "to reduce risk to property and lives due to flooding.",
+      "distractors": [
+        "to allow wildlife to restore ecological balance.",
+        "because insurance companies won't cover flood plains.",
+        "to allow future dam development."
+      ]
+    },
+    {
+      "q": "Which is not a factor for considering electric cars?",
+      "answer": "It can be recharged with more energy.",
+      "distractors": [
+        "It doesn't produce CO2.",
+        "The motor generates more torque.",
+        "They are typically more expensive."
+      ]
+    },
+    {
+      "q": "Lifespan of a hydroelectric dam is limited by...",
+      "answer": "sediment buildup behind the turbines.",
+      "distractors": [
+        "expensive turbines wearing out.",
+        "increase over time of the stream bed level.",
+        "increased production of nuclear plants."
+      ]
+    },
+    {
+      "q": "Features when a stream profile drops fast:",
+      "answer": "Rapids and waterfalls",
+      "distractors": [
+        "Deltas and deposition",
+        "Meandering stream bed",
+        "Steam and geysers"
+      ]
+    },
+    {
+      "q": "Where is the water table found?",
+      "answer": "Top of the zone of saturation.",
+      "distractors": [
+        "Where artesian wells form.",
+        "In a porous rock layer.",
+        "At the top of a dam"
+      ]
+    },
+    {
+      "q": "Water Cycle explains...",
+      "answer": "The process of how rain and water work.",
+      "distractors": [
+        "How underground rivers form.",
+        "The introduction of water from comets.",
+        "How polar ice caps form."
+      ]
+    },
+    {
+      "q": "Artesian well",
+      "answer": "Relies on gravity.",
+      "distractors": [
+        "Forms above the zone of saturation.",
+        "Relies on underground rivers.",
+        "Is where cometary fragments impact."
+      ]
+    },
+    {
+      "q": "Geothermal energy comes from...",
+      "answer": "the Earth's core",
+      "distractors": [
+        "discarded cores from nuclear power plants",
+        "radioactive decay in the mantle",
+        "tectonic pressure"
+      ]
+    },
+    {
+      "q": "A renewable resource is...",
+      "answer": "replaced at the same rate they are removed.",
+      "distractors": [
+        "sequestered by planting more trees.",
+        "owned and regulated by the government.",
+        "used to replace fossil fuels."
+      ]
+    },
+    {
+      "q": "Meandering stream",
+      "answer": "A sinuous river",
+      "distractors": [
+        "A network of streams",
+        "A watershed",
+        "A potential delta"
+      ]
+    }
+  ]
+}

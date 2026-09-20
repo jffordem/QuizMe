@@ -1,0 +1,1099 @@
+{
+  "id": "biology-1",
+  "title": "Biology 1",
+  "version": 1,
+  "questions": [
+    {
+      "q": "High cholesterol levels are considered a major risk factor for heart disease. If it is so bad for humans, why does the body make cholesterol in the first place?",
+      "answer": "Cholesterol is the basis for many important molecules such as sex hormones.",
+      "distractors": [
+        "Cholesterol is the primary fuel that cells burn to produce ATP during exercise.",
+        "Cholesterol is the raw material for the amino acids that build muscle protein.",
+        "Cholesterol is the main storage form of glucose in the liver.",
+        "Cholesterol is required to build ATP molecules for cellular energy storage.",
+        "Cholesterol acts as the primary catalyst for digesting fats in the small intestine.",
+        "Cholesterol is used to transport oxygen in red blood cells."
+      ]
+    },
+    {
+      "q": "A nucleotide is made of which of the following chemical components?",
+      "answer": "a nitrogenous base, a phosphate group, and a pentose sugar",
+      "distractors": [
+        "a nitrogenous base, an amino group, and a hexose sugar",
+        "a phosphate group, a glycerol molecule, and a nitrogenous base",
+        "a pentose sugar, a carboxyl group, and two fatty acid chains",
+        "an amino acid, a fatty acid, and a phosphate group",
+        "a nitrogenous base, a glycerol molecule, and a fatty acid chain",
+        "a pentose sugar, an amino acid, and a hexose sugar"
+      ]
+    },
+    {
+      "q": "What is the process by which monomers are linked together to form polymers?",
+      "answer": "Dehydration or condensation reactions",
+      "distractors": [
+        "Denaturation reactions",
+        "Neutralization reactions",
+        "Isomerization reactions",
+        "Hydrolysis reactions",
+        "Oxidation-reduction reactions",
+        "Phosphorylation reactions"
+      ]
+    },
+    {
+      "q": "Carbohydrates are used in our bodies main for...",
+      "answer": "Energy storage and release",
+      "distractors": [
+        "Storing hereditary information in the cell nucleus",
+        "Transporting oxygen through the bloodstream",
+        "Insulating the body and cushioning organs",
+        "Long-term structural support of cell membranes",
+        "Catalyzing biochemical reactions",
+        "Carrying genetic information"
+      ]
+    },
+    {
+      "q": "Protein Molecules are polymers (AKA chains) of...",
+      "answer": "Amino acid molecules",
+      "distractors": [
+        "Glycerol molecules",
+        "Disaccharide molecules",
+        "Purine and pyrimidine molecules",
+        "Nucleotide molecules",
+        "Monosaccharide molecules",
+        "Fatty acid molecules"
+      ]
+    },
+    {
+      "q": "The differences between DNA and RNA are...",
+      "answer": "RNA molecules consisting of a singular polynucleotide chain, whilst DNA molecules contain two, organized into a double helix. They contain different sugars too.",
+      "distractors": [
+        "DNA contains the sugar ribose and the base uracil, while RNA contains deoxyribose and thymine.",
+        "DNA is found only in prokaryotes, while RNA is found only in eukaryotes.",
+        "DNA and RNA are both double-stranded helices, differing only in the number of bases they contain.",
+        "DNA is single-stranded and found only in the cytoplasm, while RNA is double-stranded and found only in the nucleus.",
+        "DNA and RNA both contain the same sugar and bases, differing only in the number of phosphate groups attached.",
+        "RNA contains thymine while DNA contains uracil, and both are always double-stranded."
+      ]
+    },
+    {
+      "q": "Lipids differ from other large biological molecules from the fact that they are...",
+      "answer": "Not true polymers",
+      "distractors": [
+        "Always soluble in water because they are polar",
+        "Composed of repeating nucleotide subunits",
+        "Composed entirely of carbon and hydrogen atoms with no oxygen",
+        "The only biomolecules that contain nitrogen",
+        "Built exclusively from monosaccharide subunits",
+        "Unable to store any chemical energy"
+      ]
+    },
+    {
+      "q": "A polysaccharide that is used for storing energy in human muscle and liver cells is...",
+      "answer": "Glycogen",
+      "distractors": [
+        "Amylopectin",
+        "Peptidoglycan",
+        "Hyaluronic acid",
+        "Starch",
+        "Cellulose",
+        "Chitin"
+      ]
+    },
+    {
+      "q": "In what polysaccharide form do plants store glucose to be available later as an energy source?",
+      "answer": "Starch",
+      "distractors": [
+        "Lignin",
+        "Glucagon",
+        "Pectin",
+        "Glycogen",
+        "Cellulose",
+        "Chitin"
+      ]
+    },
+    {
+      "q": "Enzyme molecules require a specific shape to perform their catalytic function. Which of the following might alter the shape of an enzymatic protein?",
+      "answer": "Changes in salt concentrations of pH, heating the protein, mixing in a chemical that removes hydrogen bonds, and denaturing the protein.",
+      "distractors": [
+        "Diluting the enzyme in a buffer of constant pH and salt concentration.",
+        "Lowering the concentration of the enzyme's product while holding temperature and pH constant.",
+        "Supplying additional substrate molecules to the active site at a steady rate.",
+        "Increasing the concentration of the enzyme's substrate while keeping temperature and pH constant.",
+        "Adding more of the enzyme's cofactor without changing temperature or pH.",
+        "Storing the enzyme at a stable, constant temperature and neutral pH."
+      ]
+    },
+    {
+      "q": "According to the second law of thermodynamics, which of the following is true?",
+      "answer": "The decrease in entropy associated with life must be compensated for by increased entropy in the environment which life exists.",
+      "distractors": [
+        "The total energy of the universe increases each time a living organism grows.",
+        "Energy is destroyed whenever it is converted from one form to another.",
+        "Order can increase in any system without a corresponding increase in disorder elsewhere.",
+        "Energy can be created within living systems to offset any increase in entropy.",
+        "Entropy always decreases in any closed system over time.",
+        "Living organisms are exempt from the laws of thermodynamics because they are highly organized."
+      ]
+    },
+    {
+      "q": "In general, the hydrolysis of ATP drives cellular work by...",
+      "answer": "Releasing free energy that can be coupled to other reactions",
+      "distractors": [
+        "Providing carbon atoms that are incorporated into the products of other reactions",
+        "Acting as an electron carrier that is reduced during glycolysis",
+        "Serving as a permanent structural component of the enzymes it activates",
+        "Directly synthesizing new proteins from amino acids",
+        "Converting NAD+ into NADH for use in the electron transport chain",
+        "Storing free energy for later release during photosynthesis"
+      ]
+    },
+    {
+      "q": "Enzyme activity is affected by pH because...",
+      "answer": "High or low pH may disrupt hydrogen bonding or ionic interactions and thus change the shape of the active site",
+      "distractors": [
+        "Extreme pH breaks the peptide bonds linking the enzyme's amino acids, destroying its primary structure",
+        "Acidic or basic conditions add or remove phosphate groups from the substrate",
+        "pH changes the amount of activation energy the substrate must supply, independent of the enzyme",
+        "pH changes the number of substrate molecules available to bind the enzyme",
+        "pH alters the genetic code that produces the enzyme",
+        "pH determines how quickly the enzyme is transported across the cell membrane"
+      ]
+    },
+    {
+      "q": "The binding of an allosteric inhibitor to an enzyme causes the rate of product formation by the enzyme to decrease. Which of the following best explains why this decrease occurs?",
+      "answer": "The allosteric inhibitor causes a structural change in the enzyme that prevents the substrate from binding at the active site",
+      "distractors": [
+        "The allosteric inhibitor is converted into product, which uses up the available enzyme",
+        "The allosteric inhibitor binds the substrate and prevents it from reaching the enzyme",
+        "The allosteric inhibitor permanently digests the enzyme's peptide bonds, destroying the protein",
+        "The allosteric inhibitor binds directly to the active site, physically blocking the substrate",
+        "The allosteric inhibitor chemically destroys the substrate before it can react",
+        "The allosteric inhibitor lowers the temperature of the surrounding reaction environment"
+      ]
+    },
+    {
+      "q": "Activation energy is a barrier to chemical reactions proceeding. Which of the following removes or diminishes this barrier?",
+      "answer": "Enzymes",
+      "distractors": [
+        "Adding a competitive inhibitor",
+        "Increasing the amount of free energy released by the reaction",
+        "Raising the entropy of the surrounding water",
+        "Increasing the entropy of the products",
+        "Removing water from the reaction",
+        "Cooling the reactants to slow molecular motion"
+      ]
+    },
+    {
+      "q": "Kinetic energy is often described as",
+      "answer": "Energy of motion",
+      "distractors": [
+        "Energy stored in a stretched spring",
+        "The total amount of matter in a system",
+        "Energy that is lost as disorder increases",
+        "Energy stored in chemical bonds",
+        "Energy due to an object's position",
+        "Energy released during nuclear decay"
+      ]
+    },
+    {
+      "q": "The key to enzyme function is...",
+      "answer": "Enzyme shape",
+      "distractors": [
+        "The total number of amino acids in the chain",
+        "The number of substrate molecules present",
+        "Enzyme solubility in lipids",
+        "Enzyme color",
+        "Enzyme molecular weight",
+        "Enzyme concentration alone, regardless of shape"
+      ]
+    },
+    {
+      "q": "Biochemical pathways are",
+      "answer": "A fixed sequence of enzyme catalyzed reactions",
+      "distractors": [
+        "A single enzyme that converts one substrate into many products",
+        "A network of channels through which enzymes travel between organelles",
+        "A set of reactions that all occur simultaneously within one enzyme's active site",
+        "A random collection of unrelated chemical reactions",
+        "A single reaction catalyzed by many different enzymes",
+        "A sequence of reactions that occur without any enzymes"
+      ]
+    },
+    {
+      "q": "Cells use ATP to",
+      "answer": "Drive endergonic reactions, transport metabolites against their concentration gradients, and facilitate movement.",
+      "distractors": [
+        "Store excess energy for months as fat reserves.",
+        "Form the structural framework of the cytoskeleton.",
+        "Act as the final electron acceptor in cellular respiration.",
+        "Store genetic information for future cell divisions.",
+        "Build the phospholipid bilayer of the cell membrane.",
+        "Directly catalyze the breakdown of glucose without any enzymes."
+      ]
+    },
+    {
+      "q": "You have a friend who lost 7 kg (about 15 pounds) of fat on a regimen of strict diet and exercise. How did the fat leave her body?",
+      "answer": "It was released as CO2 and H2O",
+      "distractors": [
+        "It was excreted as urea in urine",
+        "It was turned into energy, which was radiated away as heat",
+        "It was converted to glycogen and stored in the muscles",
+        "It was converted entirely into muscle tissue",
+        "It was excreted directly as solid fat in waste",
+        "It was stored permanently in the liver"
+      ]
+    },
+    {
+      "q": "Why are carbohydrates and fats considered high energy foods?",
+      "answer": "They have a lot of electrons associated with hydrogen",
+      "distractors": [
+        "They contain many peptide bonds that release energy when broken",
+        "They contain many ionic bonds that release energy when dissolved",
+        "They are converted directly into ATP during digestion",
+        "They contain large amounts of nitrogen in their structure",
+        "They are composed mostly of phosphate groups",
+        "They rapidly release oxygen when broken down"
+      ]
+    },
+    {
+      "q": "Substrate-level phosphorylation accounts for approximately what percentage of the ATP formed by the reactions of glycolysis?",
+      "answer": "100%",
+      "distractors": [
+        "About 75%",
+        "About 25%",
+        "0%, because glycolysis makes no ATP directly",
+        "About 50%",
+        "About 10%",
+        "About 90%, with the rest coming from the electron transport chain"
+      ]
+    },
+    {
+      "q": "One function of both alcohol fermentation and lactic acid fermentation is to",
+      "answer": "Oxidize NADH to NAD+",
+      "distractors": [
+        "Convert pyruvate into acetyl-CoA for entry into the Krebs cycle",
+        "Reduce oxygen to water at the end of a transport chain",
+        "Convert ADP into ATP through chemiosmosis",
+        "Produce large amounts of ATP directly through the electron transport chain",
+        "Reduce NAD+ to NADH for use in the Krebs cycle",
+        "Generate oxygen for use in aerobic respiration"
+      ]
+    },
+    {
+      "q": "The final electron acceptor of the electron transport chain that functions in aerobic oxidative phosphorylation is",
+      "answer": "Oxygen",
+      "distractors": [
+        "Water",
+        "Cytochrome c",
+        "Ubiquinone (coenzyme Q)",
+        "Carbon dioxide",
+        "NADH",
+        "Pyruvate"
+      ]
+    },
+    {
+      "q": "When a glucose molecule loses a hydrogen atom as the result of an oxidation-reduction reaction, the molecule becomes",
+      "answer": "Oxidized",
+      "distractors": [
+        "Denatured",
+        "Polymerized",
+        "Isomerized",
+        "Reduced",
+        "Hydrolyzed",
+        "Phosphorylated"
+      ]
+    },
+    {
+      "q": "In the absence of oxygen, yeast cells can obtain energy by fermentation, resulting in the production of",
+      "answer": "ATP, CO2, and ethanol (ethyl alcohol)",
+      "distractors": [
+        "ATP, O2, and ethanol",
+        "ATP, CO2, and acetic acid",
+        "ATP, H2, and lactic acid",
+        "ATP, O2, and lactic acid",
+        "ATP, CO2, and lactic acid",
+        "ATP, H2O, and methane"
+      ]
+    },
+    {
+      "q": "Energy released by the electron transport chain is used to pump H+ into which location in eukaryotic cells?",
+      "answer": "mitochondrial intermembrane space",
+      "distractors": [
+        "thylakoid lumen",
+        "lumen of the endoplasmic reticulum",
+        "peroxisome",
+        "mitochondrial matrix",
+        "cytoplasm outside the mitochondria",
+        "nucleus"
+      ]
+    },
+    {
+      "q": "During aerobic respiration, H2O is formed. Where does the oxygen atom for the formation of the water come from?",
+      "answer": "Molecular oxygen (O2)",
+      "distractors": [
+        "Pyruvate",
+        "NADH",
+        "Acetyl-CoA",
+        "Glucose molecules",
+        "Carbon dioxide",
+        "The phosphate groups of ATP"
+      ]
+    },
+    {
+      "q": "The ATP made during fermentation is generated by which of the following?",
+      "answer": "Substrate level phosphorylation",
+      "distractors": [
+        "The electron transport chain and ATP synthase",
+        "The Calvin cycle",
+        "Hydrolysis of NADH",
+        "Oxidative phosphorylation",
+        "Chemiosmosis",
+        "Photophosphorylation"
+      ]
+    },
+    {
+      "q": "What do anabolic steroids do?",
+      "answer": "They signal muscle cells to make more proteins by binding to androgenic receptor proteins within muscle tissue.",
+      "distractors": [
+        "They are broken down into amino acids that muscle cells directly incorporate into new proteins.",
+        "They activate enzymes that convert fat directly into muscle tissue.",
+        "They increase muscle mass by lowering the body's production of insulin.",
+        "They block androgenic receptors in muscle tissue, preventing any protein synthesis.",
+        "They increase the number of red blood cells by binding to receptors in the bone marrow.",
+        "They inhibit muscle cells from making proteins to conserve cellular energy."
+      ]
+    },
+    {
+      "q": "What is an enzyme?",
+      "answer": "A protein capable of speeding up specific chemical reactions by lowering the activation energy required, while remaining unaltered in the process.",
+      "distractors": [
+        "A lipid molecule that dissolves substrates so they react more quickly.",
+        "A protein that shifts the equilibrium of a reaction toward the products.",
+        "A protein that is consumed as fuel to supply the energy for a reaction.",
+        "A protein that permanently changes shape after each reaction it catalyzes.",
+        "A carbohydrate that stores energy for use in catalyzed reactions.",
+        "A nucleic acid that stores the instructions for building other proteins."
+      ]
+    },
+    {
+      "q": "What is a macromolecule, and what are the four main types found in living things?",
+      "answer": "A very large molecule; the four main types are nucleic acids, proteins, lipids, and carbohydrates.",
+      "distractors": [
+        "A very large molecule; the four main types are proteins, lipids, carbohydrates, and water.",
+        "A very large molecule; the four main types are proteins, lipids, vitamins, and minerals.",
+        "A very small molecule; the four main types are amino acids, monosaccharides, nucleotides, and fatty acids.",
+        "A very small molecule; the four main types are ions, salts, minerals, and vitamins.",
+        "A very large molecule; the four main types are enzymes, hormones, vitamins, and minerals.",
+        "A single-celled organism; the four main types are bacteria, archaea, fungi, and protists."
+      ]
+    },
+    {
+      "q": "What is a monomer?",
+      "answer": "A simple molecule that can join together to become a polymer.",
+      "distractors": [
+        "An enzyme that joins smaller molecules into chains.",
+        "A molecule made of exactly one atom, such as a single carbon.",
+        "A short polymer of fewer than ten repeating subunits.",
+        "A large molecule made of many repeating subunits.",
+        "A molecule formed only through hydrolysis reactions.",
+        "A type of enzyme that breaks polymers apart."
+      ]
+    },
+    {
+      "q": "What is a polymer?",
+      "answer": "A large molecule formed of long chains of similar molecules called monomers.",
+      "distractors": [
+        "A single subunit that serves as the building block of larger molecules.",
+        "A mixture of unrelated molecules dissolved in water.",
+        "A ring-shaped molecule that cannot be broken down by enzymes.",
+        "A small molecule that cannot combine with other molecules.",
+        "A single amino acid that has not yet bonded to another.",
+        "A short chain of exactly two monomers joined together."
+      ]
+    },
+    {
+      "q": "What is hydrolysis?",
+      "answer": "The process of breaking down a polymer by adding a molecule of water, attaching a hydrogen to one subunit and a hydroxyl to the other; essentially the reverse of a dehydration reaction.",
+      "distractors": [
+        "The process of dissolving a polymer in water without breaking any of its covalent bonds.",
+        "The process of breaking a polymer apart by removing a molecule of water from adjacent subunits.",
+        "The process of oxidizing a polymer by transferring electrons to oxygen.",
+        "The process of joining monomers together by removing a molecule of water.",
+        "The process of breaking down a polymer using only heat, without involving water.",
+        "The process of forming a polymer by adding electrons to its monomers."
+      ]
+    },
+    {
+      "q": "What is a protein?",
+      "answer": "A long chain of amino acids linked by peptide bonds end to end, whose function and shape are critically affected by its particular sequence of amino acids.",
+      "distractors": [
+        "A three-carbon glycerol backbone joined to three long fatty acid chains by ester bonds.",
+        "A double strand of nucleotides held together by hydrogen bonds between paired bases.",
+        "A four-ring hydrocarbon skeleton used as a precursor to hormones.",
+        "A long chain of nucleotides linked by phosphodiester bonds, whose function is determined by its base sequence.",
+        "A long chain of monosaccharides linked by glycosidic bonds, used mainly for energy storage.",
+        "A long chain of fatty acids linked to a glycerol backbone."
+      ]
+    },
+    {
+      "q": "What is keratin?",
+      "answer": "A structural protein that forms hair, horns, nails, and feathers.",
+      "distractors": [
+        "A storage protein found in egg whites and seeds.",
+        "A hormone protein secreted by the pancreas that regulates blood sugar.",
+        "An enzyme found in saliva that begins the digestion of starch.",
+        "A structural protein found only in bones, tendons, and cartilage.",
+        "A transport protein that carries oxygen through the bloodstream.",
+        "A contractile protein found in muscle tissue."
+      ]
+    },
+    {
+      "q": "Where is collagen found in the body?",
+      "answer": "In bones, tendons, and cartilage.",
+      "distractors": [
+        "In blood plasma, where it carries hormones through the circulation.",
+        "In the nucleus, where it packages DNA into chromosomes.",
+        "Only in the lens of the eye, where it focuses light.",
+        "In hair, horns, nails, and feathers.",
+        "Only in muscle fibers, where it enables contraction.",
+        "Only in red blood cells, where it binds oxygen."
+      ]
+    },
+    {
+      "q": "What are contractile proteins, and where are they found?",
+      "answer": "Proteins such as actin and myosin, found in muscle tissue.",
+      "distractors": [
+        "Proteins such as amylase and pepsin, found in the digestive tract.",
+        "Proteins such as albumin and fibrinogen, found in blood plasma.",
+        "Proteins such as ovalbumin and casein, found in eggs and milk.",
+        "Proteins such as collagen and keratin, found in connective tissue.",
+        "Proteins such as hemoglobin, found in red blood cells.",
+        "Proteins such as antibodies, found in white blood cells."
+      ]
+    },
+    {
+      "q": "What is an example of a transport protein, and what does it do?",
+      "answer": "Hemoglobin, found in red blood cells, which transports oxygen through the body.",
+      "distractors": [
+        "Collagen, found in connective tissue, which resists stretching.",
+        "Amylase, found in saliva, which breaks down starch.",
+        "Ovalbumin, found in egg white, which stores amino acids for the developing embryo.",
+        "Actin, found in muscle cells, which enables contraction.",
+        "Keratin, found in skin cells, which provides structural support.",
+        "An antibody, found in white blood cells, which attacks invaders."
+      ]
+    },
+    {
+      "q": "What are defensive proteins, and where do they come from?",
+      "answer": "Proteins such as antibodies, produced by white blood cells to attack invaders.",
+      "distractors": [
+        "Proteins such as insulin and glucagon, produced by the pancreas to regulate blood sugar.",
+        "Proteins such as amylase and lipase, produced by digestive glands to break down food.",
+        "Proteins such as collagen and elastin, produced by connective tissue cells to provide strength.",
+        "Proteins such as hemoglobin, produced by red blood cells to transport oxygen.",
+        "Proteins such as actin and myosin, produced by muscle cells to enable movement.",
+        "Proteins such as keratin, produced by skin cells to provide structure."
+      ]
+    },
+    {
+      "q": "What is the basic structure of an amino acid?",
+      "answer": "A small molecule with a central carbon atom attached to an amino group, a carboxyl group, a hydrogen atom, and a functional group.",
+      "distractors": [
+        "A small molecule with a central carbon atom attached to a hydroxyl group, two hydrogen atoms, and a fatty acid chain.",
+        "A long chain of carbon atoms with a carboxyl group at one end and a hydrophobic tail.",
+        "A glycerol backbone attached to two fatty acids and a phosphate group.",
+        "A small molecule with a central carbon atom attached to two phosphate groups and a nitrogenous base.",
+        "A ring-shaped molecule made only of carbon and hydrogen atoms.",
+        "A five-carbon sugar attached to a nitrogenous base and a phosphate group."
+      ]
+    },
+    {
+      "q": "What are the standard abbreviations for the four groups attached to an amino acid's central carbon?",
+      "answer": "Amino group (-NH2), carboxyl group (-COOH), hydrogen (H), and functional group (R)",
+      "distractors": [
+        "Amino group (-NH2), carboxyl group (-COOH), hydroxyl group (-OH), and functional group (R)",
+        "Amino group (-NH2), sulfhydryl group (-SH), hydrogen (H), and functional group (R)",
+        "Amino group (-NH2), carboxyl group (-COOH), hydrogen (H), and phosphate group (-PO4)",
+        "Amino group (-NH3), carboxyl group (-COH), hydrogen (H2), and functional group (X)",
+        "Amino group (-NH2), phosphate group (-PO4), hydrogen (H), and sugar group (S)",
+        "Carboxyl group (-NH2), amino group (-COOH), oxygen (O), and functional group (R)"
+      ]
+    },
+    {
+      "q": "What is a peptide bond?",
+      "answer": "A covalent bond that links two amino acids together.",
+      "distractors": [
+        "A covalent bond that links a phosphate group to a sugar in a nucleic acid backbone.",
+        "A covalent ester bond that links glycerol to a fatty acid.",
+        "A weak bond between the R groups of two amino acids that stabilizes the folded protein.",
+        "A hydrogen bond that links two nucleotides together.",
+        "An ionic bond that links a fatty acid to glycerol.",
+        "A covalent bond that links two monosaccharides together."
+      ]
+    },
+    {
+      "q": "What is the primary structure of a protein?",
+      "answer": "The sequence of amino acids in a polypeptide chain, linked by peptide bonds.",
+      "distractors": [
+        "The total number of polypeptide chains that make up the protein.",
+        "The location and shape of the protein's active site.",
+        "The specific ions and cofactors bound to the folded protein.",
+        "The folding of a polypeptide chain into coils and sheets held by hydrogen bonds.",
+        "The three-dimensional shape formed by nonpolar amino acids folding away from water.",
+        "The arrangement of multiple polypeptide chains into one functional protein."
+      ]
+    },
+    {
+      "q": "What is the secondary structure of a protein?",
+      "answer": "The folding of a polypeptide backbone into coils (alpha-helices) and sheets (beta-pleated sheets) held together by hydrogen bonds, not involving the R groups.",
+      "distractors": [
+        "The chemical modification of a protein after synthesis, such as the addition of sugar or phosphate groups.",
+        "The binding of a cofactor or coenzyme to the protein's active site.",
+        "The random coiling of the polypeptide when a protein is denatured by heat.",
+        "The linear sequence of amino acids linked by peptide bonds.",
+        "The three-dimensional folding caused by nonpolar R groups avoiding water.",
+        "The combination of two or more separate polypeptide chains into one protein."
+      ]
+    },
+    {
+      "q": "What is the tertiary structure of a protein?",
+      "answer": "The overall three-dimensional shape formed as nonpolar amino acid functional groups fold away from the surrounding water.",
+      "distractors": [
+        "The attachment of a non-protein group, such as heme, to a polypeptide chain.",
+        "The chemical joining of amino acids by peptide bonds during translation.",
+        "The pairing of two separate polypeptide chains by hydrogen bonds between their backbones.",
+        "The linear sequence of amino acids in a polypeptide chain.",
+        "The coiling of the polypeptide backbone into alpha-helices and beta-pleated sheets.",
+        "The assembly of two or more polypeptide chains into a single functional protein."
+      ]
+    },
+    {
+      "q": "What is the quaternary structure of a protein?",
+      "answer": "The spatial arrangement that occurs when a protein is composed of more than one polypeptide chain.",
+      "distractors": [
+        "The addition of carbohydrate groups to a single polypeptide chain in the Golgi apparatus.",
+        "The number of amino acids found in the longest chain of a protein.",
+        "The sequence of codons in the mRNA that encodes the protein.",
+        "The sequence of amino acids linked by peptide bonds in a single chain.",
+        "The folding of a single polypeptide backbone into helices and sheets.",
+        "The three-dimensional shape caused by nonpolar amino acids avoiding water."
+      ]
+    },
+    {
+      "q": "What is a nucleic acid?",
+      "answer": "A nucleotide polymer; a long chain of nucleotides that serves as the storage unit for genetic information in cells.",
+      "distractors": [
+        "A phosphate polymer that stores chemical energy in its bonds.",
+        "A monosaccharide polymer that provides structural support to plant cell walls.",
+        "An amino acid polymer that folds into an enzyme that copies DNA.",
+        "An amino acid polymer that serves as the primary catalyst for cellular reactions.",
+        "A monosaccharide polymer used to store short-term energy in cells.",
+        "A fatty acid polymer used to build cell membranes."
+      ]
+    },
+    {
+      "q": "What are the three components of a nucleotide?",
+      "answer": "A 5-carbon sugar, a phosphate group, and a nitrogen-containing base.",
+      "distractors": [
+        "A 6-carbon sugar, a phosphate group, and a nitrogen-containing base.",
+        "A 5-carbon sugar, an amino group, and a nitrogen-containing base.",
+        "A 5-carbon sugar, a phosphate group, and a fatty acid chain.",
+        "A 6-carbon sugar, an amino group, and a fatty acid tail.",
+        "A phosphate group, a glycerol backbone, and two fatty acid chains.",
+        "An amino acid, a carboxyl group, and a nitrogen-containing base."
+      ]
+    },
+    {
+      "q": "What are the key structural features of DNA?",
+      "answer": "A double helix of nucleotides using deoxyribose sugar, pairing adenine with thymine and guanine with cytosine.",
+      "distractors": [
+        "A double helix of nucleotides using ribose sugar, pairing adenine with uracil and guanine with cytosine.",
+        "A double helix of nucleotides using deoxyribose sugar, pairing adenine with cytosine and guanine with thymine.",
+        "A double helix of nucleotides using deoxyribose sugar, held together by covalent bonds between the paired bases.",
+        "A single strand of nucleotides using ribose sugar, pairing adenine with uracil and guanine with cytosine.",
+        "A double helix of amino acids using deoxyribose sugar, pairing purines only with purines.",
+        "A single-stranded molecule using deoxyribose sugar that pairs adenine with guanine."
+      ]
+    },
+    {
+      "q": "What are the key structural features of RNA?",
+      "answer": "It consists of the sugar ribose and the pyrimidine uracil; small RNA molecules help regulate how DNA information is used, while large RNA molecules carry that information to the protein-making machinery.",
+      "distractors": [
+        "It consists of the sugar deoxyribose and the base uracil, and stores genetic information permanently in the nucleus.",
+        "It consists of the sugar ribose and the pyrimidine thymine, and is usually a long double helix.",
+        "It consists of the sugar ribose and the pyrimidine uracil, and its only role is to make copies of DNA during replication.",
+        "It consists of the sugar deoxyribose and the pyrimidine thymine, and is always organized into a double helix.",
+        "It consists of the sugar ribose and the purine guanine only, and never leaves the nucleus.",
+        "It consists of the sugar ribose and the pyrimidine cytosine, and directly catalyzes protein folding."
+      ]
+    },
+    {
+      "q": "What is a carbohydrate, chemically speaking?",
+      "answer": "An organic compound made of carbon, hydrogen, and oxygen atoms, typically in an approximate ratio of 1:2:1 (as in CH2O).",
+      "distractors": [
+        "An organic compound made of long hydrocarbon chains with very few oxygen atoms and no ring structures.",
+        "An organic compound made of carbon, hydrogen, oxygen, and nitrogen, containing an amino group and a carboxyl group.",
+        "An organic compound made of a five-carbon sugar, a nitrogenous base, and a phosphate group.",
+        "An organic compound made of a nitrogen-containing ring with a phosphate group attached.",
+        "An organic compound composed mainly of amino acids linked by peptide bonds.",
+        "An organic compound made of glycerol and fatty acid chains."
+      ]
+    },
+    {
+      "q": "What is a monosaccharide?",
+      "answer": "A single sugar unit.",
+      "distractors": [
+        "A single amino acid unit.",
+        "A fatty acid attached to glycerol.",
+        "Three sugar units bonded together.",
+        "Two sugar units bonded together.",
+        "A chain of many sugar units.",
+        "A sugar unit bonded to a fatty acid."
+      ]
+    },
+    {
+      "q": "What is a disaccharide?",
+      "answer": "Two sugar units bonded together.",
+      "distractors": [
+        "A sugar unit bonded to a phosphate group.",
+        "Two amino acids bonded together.",
+        "Two fatty acids bonded to glycerol.",
+        "A single sugar unit.",
+        "A chain of many sugar units.",
+        "A sugar unit bonded to an amino acid."
+      ]
+    },
+    {
+      "q": "What is a polysaccharide?",
+      "answer": "Multiple sugar units bonded together.",
+      "distractors": [
+        "A sugar unit bonded to glycerol.",
+        "A chain of amino acids linked by peptide bonds.",
+        "A chain of many fatty acids bonded together.",
+        "A single sugar unit.",
+        "Two sugar units bonded together.",
+        "A sugar unit bonded to a nucleotide."
+      ]
+    },
+    {
+      "q": "What two kinds of subunits make up a fat molecule?",
+      "answer": "Fatty acids and glycerol.",
+      "distractors": [
+        "Fatty acids and amino acids.",
+        "Cholesterol and glycerol.",
+        "Fatty acids and monosaccharides.",
+        "Amino acids and glycerol.",
+        "Monosaccharides and glycerol.",
+        "Nucleotides and a phosphate group."
+      ]
+    },
+    {
+      "q": "Besides fats, what are two other types of lipids?",
+      "answer": "Phospholipids and cholesterol.",
+      "distractors": [
+        "Cellulose and chitin.",
+        "Hemoglobin and collagen.",
+        "DNA and ATP.",
+        "Glycogen and starch.",
+        "Amino acids and nucleotides.",
+        "Monosaccharides and disaccharides."
+      ]
+    },
+    {
+      "q": "What is kinetic energy?",
+      "answer": "Energy in motion.",
+      "distractors": [
+        "The energy required to start a chemical reaction.",
+        "Energy that is released only when an object is at rest.",
+        "Energy stored in the position of an object relative to a force such as gravity.",
+        "Energy stored for future use.",
+        "Energy released only during chemical reactions.",
+        "Energy stored only in a molecule's chemical bonds."
+      ]
+    },
+    {
+      "q": "What is potential energy?",
+      "answer": "Energy that is stored for future use.",
+      "distractors": [
+        "Energy that is currently being used to do work.",
+        "Energy that is released only as light.",
+        "Energy that has been dispersed into the surroundings as heat.",
+        "Energy in motion.",
+        "Energy that has already been used to perform work.",
+        "Energy that can only exist inside living cells."
+      ]
+    },
+    {
+      "q": "What is the general definition of energy?",
+      "answer": "The capacity to perform tasks (do work).",
+      "distractors": [
+        "A measure of how quickly a chemical reaction proceeds.",
+        "The force exerted on an object by gravity.",
+        "The mass of the electrons in a molecule.",
+        "The physical substance from which all matter is made.",
+        "A molecule that stores genetic information.",
+        "The force that holds atoms together in a molecule."
+      ]
+    },
+    {
+      "q": "What does the first law of thermodynamics state?",
+      "answer": "Energy cannot be created or destroyed, only converted from one form to another, so the total energy in the universe never changes.",
+      "distractors": [
+        "Every energy conversion is perfectly efficient, so no energy is lost as heat.",
+        "The total amount of disorder in the universe never changes.",
+        "Energy can be created by living organisms as they grow and reproduce.",
+        "Energy is constantly being created and destroyed as it converts between forms.",
+        "Entropy in the universe is always decreasing over time.",
+        "All energy in a system is eventually converted into matter."
+      ]
+    },
+    {
+      "q": "What is an example of energy transfer that happens when you eat?",
+      "answer": "You transfer potential energy from the food into your own body.",
+      "distractors": [
+        "You transfer all of the food's potential energy into your body with no energy lost as heat.",
+        "Energy stored in the food is destroyed as it digests and replaced by new energy from the sun.",
+        "You absorb kinetic energy from the food's motion as you chew.",
+        "You transfer kinetic energy from your body into the food.",
+        "You destroy potential energy stored in the food as it digests.",
+        "You create new energy that did not previously exist in the food."
+      ]
+    },
+    {
+      "q": "What does the second law of thermodynamics concern?",
+      "answer": "The transformation of potential energy into heat.",
+      "distractors": [
+        "The conversion of matter into energy in stars.",
+        "The maximum rate at which a reaction can proceed.",
+        "The transfer of electrons between molecules.",
+        "The conservation of total energy in a closed system.",
+        "The prevention of any energy transformation in living systems.",
+        "The creation of new potential energy within a closed system."
+      ]
+    },
+    {
+      "q": "What does the law of increasing disorder state?",
+      "answer": "Disorder (entropy) in a closed system, like the universe, is continuously increasing.",
+      "distractors": [
+        "Disorder in an open system, such as a cell, can never decrease.",
+        "Disorder in a closed system fluctuates randomly with no overall direction.",
+        "Disorder in a system increases only when its temperature falls.",
+        "Disorder (entropy) in a closed system is continuously decreasing.",
+        "Disorder in a system remains constant unless energy is added.",
+        "Disorder only increases in living systems, never in non-living ones."
+      ]
+    },
+    {
+      "q": "What is activation energy?",
+      "answer": "The energy a molecule must gain to undergo a specific chemical reaction.",
+      "distractors": [
+        "The energy that an enzyme absorbs from the environment and stores permanently.",
+        "The difference in free energy between the reactants and the products.",
+        "The total energy released when ATP is hydrolyzed.",
+        "The energy released after a chemical reaction is complete.",
+        "The energy stored permanently within a product molecule.",
+        "The energy required to break a peptide bond specifically."
+      ]
+    },
+    {
+      "q": "What is catalysis?",
+      "answer": "An enzyme-mediated process in which subunits of polymers are positioned so their bonds undergo chemical reactions.",
+      "distractors": [
+        "A process in which the products of a reaction bind the enzyme and shut it down.",
+        "A process in which electrons are transferred between substrates to store energy.",
+        "A process in which an enzyme is consumed as it converts substrates into products.",
+        "A process in which a polymer is broken down by adding water.",
+        "A process in which two monomers combine without any enzyme involvement.",
+        "A process in which an enzyme is permanently altered to speed up a reaction."
+      ]
+    },
+    {
+      "q": "What is an enzyme's active site?",
+      "answer": "The region of an enzyme's surface where a specific set of substrates bind for a particular chemical reaction, which the enzyme also helps facilitate.",
+      "distractors": [
+        "The region of an enzyme where a regulatory molecule binds, away from the substrate.",
+        "The region of the cell where enzymes are produced by ribosomes.",
+        "The region of an enzyme's interior that is hidden from the substrate and stabilizes its folded shape.",
+        "The region on a substrate that binds to an enzyme.",
+        "The region of an enzyme that is altered permanently after each reaction.",
+        "The region of a substrate where the products are released."
+      ]
+    },
+    {
+      "q": "What is a binding site?",
+      "answer": "The site on a substrate or reactant that binds to an enzyme.",
+      "distractors": [
+        "The region of an enzyme that is altered permanently when a substrate binds.",
+        "The location in the nucleus where mRNA is made from DNA.",
+        "The region of a hormone where it is synthesized by the cell.",
+        "The region of an enzyme's surface where substrates bind for a chemical reaction.",
+        "The region of a polymer where hydrolysis occurs.",
+        "The region of a cell membrane where hormones attach."
+      ]
+    },
+    {
+      "q": "How do enzymes generally function, in terms of substrates and products?",
+      "answer": "Reactants attach to the enzyme's active site; the substrates are converted into a product, which then separates and diffuses away, freeing the enzyme to work again.",
+      "distractors": [
+        "The enzyme adds its own atoms to the substrates and is used up as part of the product.",
+        "Substrates are broken apart outside the enzyme, and the pieces then bind to the active site as inactive fragments.",
+        "The enzyme binds the substrate and converts it into a product, but must then be replaced by a newly synthesized enzyme molecule.",
+        "Reactants permanently bond to the enzyme, forming a single fused molecule.",
+        "The enzyme is consumed and destroyed after each reaction it catalyzes.",
+        "Products bind to the enzyme's active site before being converted back into reactants."
+      ]
+    },
+    {
+      "q": "What is a biochemical pathway?",
+      "answer": "A sequence of chemical reactions in which the product of one reaction becomes the substrate of the next.",
+      "distractors": [
+        "A channel in the cell membrane through which substrates enter the cell.",
+        "A single enzyme that binds many different substrates in turn.",
+        "A group of reactions that occur in different cells with no shared molecules.",
+        "A single reaction that produces many unrelated products at once.",
+        "A random series of reactions with no fixed order.",
+        "A pathway in which each reaction runs independently of the others' products."
+      ]
+    },
+    {
+      "q": "What effect can higher temperatures have on an enzyme?",
+      "answer": "They can weaken the enzyme's bonds, causing it to lose its proper shape and denature.",
+      "distractors": [
+        "They lower the activation energy by enlarging the enzyme's active site.",
+        "They make the enzyme bind its substrate more tightly by strengthening its hydrogen bonds.",
+        "They change the enzyme's amino acid sequence so that it catalyzes a different reaction.",
+        "They always increase the enzyme's reaction rate with no upper limit.",
+        "They permanently strengthen the enzyme's active site.",
+        "They have no effect on enzyme shape or function."
+      ]
+    },
+    {
+      "q": "What is a repressor?",
+      "answer": "A protein that regulates transcription of mRNA from DNA by binding to the operator, preventing RNA polymerase from attaching to the promoter.",
+      "distractors": [
+        "A protein that binds mRNA to prevent it from attaching to the ribosome.",
+        "An enzyme that removes introns from mRNA after transcription.",
+        "A small molecule that binds to the promoter and makes DNA replicate faster.",
+        "A protein that binds to DNA to make it more accessible for transcription.",
+        "A protein that increases the rate of translation at the ribosome.",
+        "A protein that permanently deletes a gene from the DNA sequence."
+      ]
+    },
+    {
+      "q": "What is an activator, in the context of gene regulation?",
+      "answer": "A regulatory protein that binds to DNA, making it more accessible for transcription.",
+      "distractors": [
+        "A regulatory protein that binds to the ribosome to speed up the translation of mRNA.",
+        "A protein that unwinds the DNA double helix at the replication fork.",
+        "A protein that cuts DNA at the promoter so genes can be transcribed.",
+        "A regulatory protein that binds to the operator to block RNA polymerase.",
+        "A protein that breaks down mRNA after it is transcribed.",
+        "A protein that directly synthesizes new DNA strands."
+      ]
+    },
+    {
+      "q": "What is feedback inhibition?",
+      "answer": "A regulatory mechanism in which a biochemical pathway is regulated by the amount of product that the pathway produces.",
+      "distractors": [
+        "A regulatory mechanism in which the product activates the first enzyme in the pathway to speed up further production.",
+        "A regulatory mechanism in which the substrate at the start of a pathway shuts off the last enzyme.",
+        "A regulatory mechanism in which enzymes are made more slowly when the cell is deprived of oxygen.",
+        "A regulatory mechanism in which a pathway speeds up as more substrate becomes available.",
+        "A regulatory mechanism in which enzymes are permanently deactivated after one use.",
+        "A regulatory mechanism that only functions in the absence of oxygen."
+      ]
+    },
+    {
+      "q": "What is adenosine triphosphate (ATP)?",
+      "answer": "A molecule composed of ribose, adenine, and a triphosphate group; the chief energy currency of cells, formed from ADP and phosphate using energy from photosynthesis or food, and used to drive endergonic reactions.",
+      "distractors": [
+        "A molecule composed of glucose and three phosphate groups; the main long-term energy storage molecule of animal cells.",
+        "A molecule composed of ribose, guanine, and a monophosphate group; the chief carrier of electrons in cellular respiration.",
+        "A molecule composed of adenine, glycerol, and three fatty acids; the main structural component of the cell membrane.",
+        "A molecule composed of deoxyribose, thymine, and a diphosphate group used to store genetic information.",
+        "A molecule composed of glycerol and three fatty acid chains used for long-term energy storage.",
+        "A molecule composed of a 6-carbon sugar and two phosphate groups used only during fermentation."
+      ]
+    },
+    {
+      "q": "What is cellular respiration?",
+      "answer": "The process by which energy in a glucose molecule is released through oxidation, as hydrogen atoms are lost by glucose and gained by oxygen.",
+      "distractors": [
+        "The process by which animals take in oxygen from the air and release CO2 through lungs or gills.",
+        "The process by which cells build large molecules from small ones, using energy from ATP.",
+        "The process by which ATP is broken down to release energy, without involving glucose or oxygen.",
+        "The process by which plants capture light energy to build glucose from CO2 and water.",
+        "The process by which polymers are broken down into monomers using water.",
+        "The process by which proteins are folded into their final three-dimensional shape."
+      ]
+    },
+    {
+      "q": "What is a redox reaction?",
+      "answer": "A chemical process in which electrons move from one substrate to another.",
+      "distractors": [
+        "A chemical process in which two monomers are joined and a molecule of water is released.",
+        "A chemical process in which atoms are rearranged without any change in energy.",
+        "A chemical process in which one molecule transfers its phosphate group to another.",
+        "A chemical process in which water is added to break a polymer apart.",
+        "A chemical process in which a substrate is permanently destroyed without forming a product.",
+        "A chemical process in which only protons, never electrons, are exchanged."
+      ]
+    },
+    {
+      "q": "What happens to an atom during oxidation, and what does it occur simultaneously with?",
+      "answer": "An electron is lost from one atom to another; oxidation occurs simultaneously with reduction.",
+      "distractors": [
+        "An electron is lost from one atom to another; oxidation occurs simultaneously with phosphorylation.",
+        "A proton is gained by one atom from another; oxidation occurs simultaneously with reduction.",
+        "An electron is gained by one atom from another; oxidation occurs simultaneously with hydrolysis.",
+        "An electron is gained by one atom from another; oxidation occurs simultaneously with reduction.",
+        "A proton is lost from one atom to another; oxidation occurs simultaneously with hydrolysis.",
+        "An electron is lost from one atom to another; oxidation occurs simultaneously with dehydration."
+      ]
+    },
+    {
+      "q": "What is an oxidation-reduction (redox) reaction pair?",
+      "answer": "A pair of reactions in living systems where electrons lost from one atom are gained by another atom.",
+      "distractors": [
+        "A pair of reactions in which one substrate is split into two identical halves.",
+        "A pair of reactions where a phosphate group is removed from one molecule and added to another.",
+        "A pair of reactions in which electrons are gained by both atoms at the same time.",
+        "A pair of reactions where protons, not electrons, are exchanged between atoms.",
+        "A single reaction where an atom simultaneously loses and gains the same electron.",
+        "A pair of reactions that only occur in the absence of enzymes."
+      ]
+    },
+    {
+      "q": "What happens during Stage 1 of cellular respiration?",
+      "answer": "Coupled reactions make ATP; this stage is better known as glycolysis.",
+      "distractors": [
+        "Acetyl-CoA is oxidized to CO2 in the matrix, releasing NADH, FADH2, and one ATP per turn.",
+        "Protons flow back through ATP synthase, driving the phosphorylation of ADP.",
+        "Pyruvate is reduced to lactic acid or ethanol to regenerate NAD+.",
+        "Oxygen is used in the mitochondrion to make NADH and FADH2.",
+        "Electrons are passed down a chain of membrane proteins to pump protons.",
+        "Pyruvate is converted into acetyl-CoA and CO2."
+      ]
+    },
+    {
+      "q": "What happens during Stage 2 of cellular respiration?",
+      "answer": "An aerobic stage, taking place in the mitochondrion, that uses NADH and FADH2.",
+      "distractors": [
+        "A stage that occurs in the chloroplast, using light energy to make NADPH.",
+        "A stage in which pyruvate is exported from the cell and converted back to glucose.",
+        "A stage that takes place on the ribosome, using NADH to synthesize proteins.",
+        "An anaerobic stage, taking place in the cytoplasm, better known as glycolysis.",
+        "A stage that occurs only in the absence of oxygen, producing lactic acid.",
+        "A stage that occurs in the nucleus, producing new DNA strands."
+      ]
+    },
+    {
+      "q": "What is substrate-level phosphorylation?",
+      "answer": "Generation of ATP by coupling its synthesis to a strongly exergonic (energy-yielding) reaction.",
+      "distractors": [
+        "Generation of ATP by ATP synthase as protons flow down a gradient across a membrane.",
+        "Generation of ATP by transferring a phosphate group from NADH to ADP.",
+        "Generation of ATP by reducing oxygen to water at the end of a chain of proteins.",
+        "Generation of ATP using only the electron transport chain and a proton gradient.",
+        "Generation of ATP by directly absorbing light energy.",
+        "Generation of ATP by breaking down ATP itself into ADP and phosphate."
+      ]
+    },
+    {
+      "q": "What is Acetyl-CoA?",
+      "answer": "The product of the transition between glycolysis and the Krebs cycle, formed when pyruvate is oxidized by NAD+, also producing CO2 and NADH.",
+      "distractors": [
+        "The 4-carbon sugar that combines with a 2-carbon fragment at the start of the Krebs cycle.",
+        "The 3-carbon molecule produced when glucose is split in glycolysis.",
+        "The electron carrier that delivers electrons from the Krebs cycle to the electron transport chain.",
+        "The final product of the Krebs cycle, formed when citrate is broken down completely.",
+        "The first product of glycolysis, formed directly from glucose.",
+        "The molecule that directly accepts electrons at the end of the electron transport chain."
+      ]
+    },
+    {
+      "q": "What is the Krebs cycle, and by what other names is it known?",
+      "answer": "Also called the citric acid cycle or the tricarboxylic acid (TCA) cycle; it works in three phases and is named after the scientist who discovered it.",
+      "distractors": [
+        "Also called the Calvin cycle; it takes place in the stroma of the chloroplast and fixes carbon into sugar.",
+        "Also called oxidative phosphorylation; it takes place in the inner mitochondrial membrane and makes most of the cell's ATP.",
+        "Also called the Cori cycle; it recycles lactate from muscle to the liver.",
+        "Also called glycolysis; it works in a single phase and takes place in the cytoplasm.",
+        "Also called the electron transport chain; it works in four phases and takes place in the intermembrane space.",
+        "Also called fermentation; it works in two phases and requires no enzymes."
+      ]
+    },
+    {
+      "q": "What happens in Phase 1 of the Krebs cycle?",
+      "answer": "The 2-carbon acetyl-CoA fragment produced by pyruvate attaches to a 4-carbon sugar, forming a 6-carbon sugar.",
+      "distractors": [
+        "The 6-carbon sugar is split into two 3-carbon molecules, generating two ATP.",
+        "A 4-carbon sugar is converted into pyruvate, and NADH is used to make lactic acid.",
+        "Protons flow through ATP synthase, phosphorylating ADP.",
+        "Two carbon atoms are removed as CO2, and one ATP molecule is made.",
+        "Two carbon atoms are expelled as CO2, leaving only a 4-carbon sugar behind.",
+        "Electrons are passed to oxygen to form water."
+      ]
+    },
+    {
+      "q": "What happens in Phase 2 of the Krebs cycle?",
+      "answer": "Two carbons are quickly removed as CO2, their electrons donate to NAD+, and one ATP molecule is made.",
+      "distractors": [
+        "Acetyl-CoA is formed from pyruvate as CO2 is released.",
+        "Protons are pumped into the intermembrane space by membrane protein complexes.",
+        "The 4-carbon sugar is regenerated and can accept another 2-carbon acetyl fragment.",
+        "A 2-carbon acetyl-CoA fragment attaches to a 4-carbon sugar to form a 6-carbon sugar.",
+        "Two carbon atoms are expelled as CO2, leaving only a 4-carbon sugar, with more energetic electrons captured as NADH or FADH2.",
+        "Oxygen accepts electrons to form water at the end of the chain."
+      ]
+    },
+    {
+      "q": "What happens in Phase 3 of the Krebs cycle?",
+      "answer": "Two more carbon atoms are expelled as CO2, and more energetic electrons are extracted and carried away as NADH or FADH2, leaving only the 4-carbon sugar.",
+      "distractors": [
+        "Glucose is oxidized to two pyruvate molecules with a net gain of two ATP.",
+        "Oxygen is reduced to water as electrons reach the end of a membrane chain.",
+        "Lactic acid is formed to regenerate NAD+ when oxygen is absent.",
+        "A 2-carbon acetyl-CoA fragment attaches to a 4-carbon sugar to form a 6-carbon sugar.",
+        "Two carbons are quickly removed as CO2 and one ATP molecule is made.",
+        "Pyruvate is converted into acetyl-CoA for the first time."
+      ]
+    },
+    {
+      "q": "What is the intermembrane space of a mitochondrion?",
+      "answer": "The outer compartment of a mitochondrion that lies between its two membranes.",
+      "distractors": [
+        "The folded inner membrane of the mitochondrion that bears the electron transport chain.",
+        "The space between the two membranes of the nuclear envelope.",
+        "The fluid inside a chloroplast that surrounds the thylakoids.",
+        "The innermost compartment of a mitochondrion, enclosed by the inner membrane.",
+        "The fluid-filled space inside the nucleus.",
+        "The space between the cell membrane and the cell wall."
+      ]
+    },
+    {
+      "q": "What is the electron transport chain?",
+      "answer": "A series of membrane-associated protein complexes embedded in the inner mitochondrial membrane that uses electrons from glucose oxidation to drive proton-pumping channels.",
+      "distractors": [
+        "A series of enzymes in the mitochondrial matrix that oxidize acetyl-CoA to CO2.",
+        "A single protein in the outer mitochondrial membrane that pumps ATP out of the mitochondrion.",
+        "A series of reactions in the cytoplasm that convert pyruvate to ethanol or lactic acid.",
+        "A series of enzymes in the cytoplasm that break glucose into pyruvate.",
+        "A single membrane channel that directly converts glucose into ATP without electrons.",
+        "A series of reactions in the Krebs cycle that produce CO2 as the final product."
+      ]
+    },
+    {
+      "q": "What is fermentation, in terms of its final electron acceptor?",
+      "answer": "A catabolic process in which the final electron acceptor is an organic molecule (such as pyruvate), not oxygen.",
+      "distractors": [
+        "A catabolic process in which the final electron acceptor is inorganic, such as sulfate or nitrate, rather than oxygen.",
+        "A process in which oxygen is reduced to water at the end of the electron transport chain.",
+        "A process in which glucose is oxidized completely to CO2 using the Krebs cycle.",
+        "A catabolic process in which the final electron acceptor is always oxygen.",
+        "An anabolic process that builds glucose from CO2 and water using light energy.",
+        "A process that occurs exclusively inside the mitochondrion."
+      ]
+    }
+  ]
+}

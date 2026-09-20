@@ -1,0 +1,205 @@
+{
+  "id": "hunger-games",
+  "title": "Hunger Games",
+  "version": 1,
+  "questions": [
+    {
+      "q": "Male tribute from District 11. Strong and resourceful.",
+      "answer": "Thresh",
+      "distractors": [
+        "Rue",
+        "Cato",
+        "Foxface"
+      ]
+    },
+    {
+      "q": "The citizens of District 11 sent Katniss bread because...",
+      "answer": "she helped Rue",
+      "distractors": [
+        "she helped Peeta",
+        "she killed Cato",
+        "Haymitch made them"
+      ]
+    },
+    {
+      "q": "Female tribute from District 5. Had a sly, fox-like appearance.",
+      "answer": "Foxface",
+      "distractors": [
+        "Rue",
+        "Madge",
+        "Thresh"
+      ]
+    },
+    {
+      "q": "Daughter of District 12's major who gave Katniss a mockingjay pin.",
+      "answer": "Madge",
+      "distractors": [
+        "Prim",
+        "Peeta",
+        "Effie"
+      ]
+    },
+    {
+      "q": "Katniss' stylist for the Games.",
+      "answer": "Cinna",
+      "distractors": [
+        "Madge",
+        "Effie",
+        "Gale"
+      ]
+    },
+    {
+      "q": "Katniss' sister, who was selected as District 12's tribute.",
+      "answer": "Prim",
+      "distractors": [
+        "Gale",
+        "Madge",
+        "Hob"
+      ]
+    },
+    {
+      "q": "Escort and advisor to the District 12 tributes.",
+      "answer": "Effie",
+      "distractors": [
+        "Cinna",
+        "Haymitch",
+        "Snow"
+      ]
+    },
+    {
+      "q": "Male tribute from District 12, has a crush on Katniss.",
+      "answer": "Peeta",
+      "distractors": [
+        "Gale",
+        "Cato",
+        "Haymitch"
+      ]
+    },
+    {
+      "q": "Former winner from District 12; trainer and alcoholic.",
+      "answer": "Haymitch",
+      "distractors": [
+        "Gale",
+        "Hob",
+        "Cinna"
+      ]
+    },
+    {
+      "q": "Katnis' best friend and fellow hunter.",
+      "answer": "Gale",
+      "distractors": [
+        "Peeta",
+        "Haymitch",
+        "Hob"
+      ]
+    },
+    {
+      "q": "Female tribute from District 11, young and small.",
+      "answer": "Rue",
+      "distractors": [
+        "Foxface",
+        "Angela",
+        "Effie"
+      ]
+    },
+    {
+      "q": "Female tribute from District 12, talented hunter.",
+      "answer": "Katniss",
+      "distractors": [
+        "Foxface",
+        "Prim",
+        "Madge"
+      ]
+    },
+    {
+      "q": "Katniss triggers the trap on the Career's supplies by...",
+      "answer": "shooting a sack of apples",
+      "distractors": [
+        "throwing rocks",
+        "tricking Foxface",
+        "throwing a grenade"
+      ]
+    },
+    {
+      "q": "Katniss protests Rue's death by...",
+      "answer": "singing and placing flowers around her.",
+      "distractors": [
+        "going on a killing spree.",
+        "attacking the Careers with Tracker Jackers.",
+        "returning to the cornucopia."
+      ]
+    },
+    {
+      "q": "Male tribute from District 2; a Career and main antagonist.",
+      "answer": "Cato",
+      "distractors": [
+        "Cinna",
+        "Thresh",
+        "Foxface"
+      ]
+    },
+    {
+      "q": "Making something look bad in comparison to something else.",
+      "answer": "Name-calling propaganda",
+      "distractors": [
+        "Card-stacking propaganda",
+        "Transfer propaganda",
+        "Testimonial propaganda"
+      ]
+    },
+    {
+      "q": "Appeal to emotion.",
+      "answer": "Glittering generality propaganda",
+      "distractors": [
+        "Testimonial propaganda",
+        "Bandwagon propaganda",
+        "Plain folks propaganda"
+      ]
+    },
+    {
+      "q": "Where the speaker is seen as an average person.",
+      "answer": "Plain folks propaganda",
+      "distractors": [
+        "Testimonial propaganda",
+        "Bandwagon propaganda",
+        "Transfer propaganda"
+      ]
+    },
+    {
+      "q": "Positive reviews from ordinary people.",
+      "answer": "Testimonial propaganda",
+      "distractors": [
+        "Plain folks propaganda",
+        "Bandwagon propaganda",
+        "Glittering generality propaganda"
+      ]
+    },
+    {
+      "q": "Carries over approval or authority.",
+      "answer": "Transfer propaganda",
+      "distractors": [
+        "Card-stacking propaganda",
+        "Testimonial propaganda",
+        "Name-calling propaganda"
+      ]
+    },
+    {
+      "q": "Encourages people to think in a certain way.",
+      "answer": "Bandwagon propaganda",
+      "distractors": [
+        "Transfer propaganda",
+        "Glittering generality propaganda",
+        "Plain folks propaganda"
+      ]
+    },
+    {
+      "q": "Manipulates information so it looks the best.",
+      "answer": "Card-stacking propaganda",
+      "distractors": [
+        "Transfer propaganda",
+        "Bandwagon propaganda",
+        "Name-calling propaganda"
+      ]
+    }
+  ]
+}
