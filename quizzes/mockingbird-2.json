@@ -1,0 +1,187 @@
+{
+  "id": "mockingbird-2",
+  "title": "To Kill a Mockingbird 2",
+  "version": 1,
+  "questions": [
+    {
+      "q": "Who attacks Scout and Jem on their way back from the pageant?",
+      "answer": "Bob Ewell",
+      "distractors": [
+        "Tom Robinson",
+        "Charles Baker Harris",
+        "Hector Tate"
+      ]
+    },
+    {
+      "q": "How old was Jem when he broke his arm?",
+      "answer": "12",
+      "distractors": [
+        "11",
+        "13",
+        "14"
+      ]
+    },
+    {
+      "q": "What did Jem aspire to be?",
+      "answer": "A football player.",
+      "distractors": [
+        "A lawyer.",
+        "A teacher.",
+        "A clown."
+      ]
+    },
+    {
+      "q": "What is the profession of Atticus Finch?",
+      "answer": "Lawyer",
+      "distractors": [
+        "Teacher",
+        "Policeman",
+        "Farmer"
+      ]
+    },
+    {
+      "q": "What is in Dolphus Raymond's brown paper bag?",
+      "answer": "Cola",
+      "distractors": [
+        "Beer",
+        "Rum",
+        "Orange Juice"
+      ]
+    },
+    {
+      "q": "What is the real name of Boo Radley?",
+      "answer": "Arthur",
+      "distractors": [
+        "James",
+        "Jacob",
+        "Thomas"
+      ]
+    },
+    {
+      "q": "How did Tom Robinson die?",
+      "answer": "He was killed trying to escape prison.",
+      "distractors": [
+        "He was killed by a mob.",
+        "He killed himself.",
+        "He was murdered by Bob Ewell."
+      ]
+    },
+    {
+      "q": "Which of the Finch's neighbours does a lot of gardening?",
+      "answer": "Miss Maudie Atkinson",
+      "distractors": [
+        "Miss Rachel Haverford",
+        "Mrs Henry Lafayette Dubose",
+        "Miss Stephanie Crawford"
+      ]
+    },
+    {
+      "q": "What did Atticus do before settling in to his legal practice?",
+      "answer": "He was member of the state legislature.",
+      "distractors": [
+        "He was a prosecuting attorney.",
+        "He was a farmer, and shot wild game for dinner.",
+        "He was a law professor."
+      ]
+    },
+    {
+      "q": "When Jem and Dill exclude Scout, she starts spending more time with...",
+      "answer": "Maudie Atkinson",
+      "distractors": [
+        "Boo Radley",
+        "Atticus",
+        "Calpurnia"
+      ]
+    },
+    {
+      "q": "Why did Atticus shoot the rabid dog?",
+      "answer": "Rabies is a deadly disease.",
+      "distractors": [
+        "He wanted to impress his children.",
+        "The dog was annoying him.",
+        "He wanted to practice shooting."
+      ]
+    },
+    {
+      "q": "What is the real name of the narrator, Scout?",
+      "answer": "Jean-Louise",
+      "distractors": [
+        "Mary-Jane",
+        "Chloe-Beth",
+        "Stacey-Jo"
+      ]
+    },
+    {
+      "q": "How does Mr. Radley keep Boo from leaving trinkets for the kids?",
+      "answer": "He fills the knot hole with concrete.",
+      "distractors": [
+        "He threatens them with a gun.",
+        "He shouts at them.",
+        "He does nothing."
+      ]
+    },
+    {
+      "q": "What does Atticus mean when he says 'Maycolmb's Disease'?",
+      "answer": "Racism",
+      "distractors": [
+        "Laziness",
+        "Influenza",
+        "Communism"
+      ]
+    },
+    {
+      "q": "What is the real name of Scout's brother, Jem?",
+      "answer": "Jeremy",
+      "distractors": [
+        "Jimmy",
+        "Reginald",
+        "Jeremiah"
+      ]
+    },
+    {
+      "q": "According to Tom Robinson's testimony, Mayella Ewell tried to...",
+      "answer": "kiss him",
+      "distractors": [
+        "rob him",
+        "hit him",
+        "give him a chiffarobe"
+      ]
+    },
+    {
+      "q": "What is something Boo Radley did NOT give to Scout and Jem?",
+      "answer": "pocketknife",
+      "distractors": [
+        "gum",
+        "pennies",
+        "watch"
+      ]
+    },
+    {
+      "q": "How is the defendant proven to be innocent?",
+      "answer": "He can't use his left hand",
+      "distractors": [
+        "He wasn't in town on the night of the incident",
+        "He was at work on the night of the incident",
+        "He doesn't know where the plaintiff lives"
+      ]
+    },
+    {
+      "q": "What is the name of the man put on trial?",
+      "answer": "Tom Robinson",
+      "distractors": [
+        "Bob Ewell",
+        "Burris Ewell",
+        "Dolphus Raymond"
+      ]
+    },
+    {
+      "q": "You never really understand a person...",
+      "answer": "until you climb into his skin and walk around in it.",
+      "distractors": [
+        "until you talk to him and hear his story.",
+        "until you walk a day in his shoes.",
+        "until you see things through his eyes."
+      ]
+    }
+  ]
+}

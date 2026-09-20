@@ -1,0 +1,187 @@
+{
+  "id": "english-1",
+  "title": "English 1",
+  "version": 1,
+  "questions": [
+    {
+      "q": "Introduces the main idea",
+      "answer": "Thesis",
+      "distractors": [
+        "Antithesis",
+        "Hypothesis",
+        "Topic sentence"
+      ]
+    },
+    {
+      "q": "Quotation or examples from the text",
+      "answer": "Concrete Detail",
+      "distractors": [
+        "Citations",
+        "Appendix",
+        "Commentary"
+      ]
+    },
+    {
+      "q": "To make understandable",
+      "answer": "Clarify",
+      "distractors": [
+        "Discern",
+        "Collaborate",
+        "Cite"
+      ]
+    },
+    {
+      "q": "To work jointly with others",
+      "answer": "Collaborate",
+      "distractors": [
+        "Co-locate",
+        "Citations",
+        "Teleconference"
+      ]
+    },
+    {
+      "q": "Sequence of letters you type to access a website",
+      "answer": "Uniform Resource Locator",
+      "distractors": [
+        "File Transfer Protocol",
+        "Hypertext Markup",
+        "Universal Raster Language"
+      ]
+    },
+    {
+      "q": "Final thoughts on the matter",
+      "answer": "Concluding Sentence",
+      "distractors": [
+        "Antithesis",
+        "Determination",
+        "Corroboration"
+      ]
+    },
+    {
+      "q": "Margins in MLA format",
+      "answer": "Double-space with one-inch margins",
+      "distractors": [
+        "Double-space with half-inch margins",
+        "Any format is acceptable",
+        "Single-space"
+      ]
+    },
+    {
+      "q": "MLA Font & Size",
+      "answer": "Times New Roman, 12pt, double-space",
+      "distractors": [
+        "Any font and size are acceptable",
+        "Courier, 12pt, double-space",
+        "Lucida Console, 12pt, double-space"
+      ]
+    },
+    {
+      "q": "Order for Works Cited",
+      "answer": "Alphabetical",
+      "distractors": [
+        "Chronological",
+        "Any order is acceptable",
+        "Enumerated"
+      ]
+    },
+    {
+      "q": "Describe, portray or set forth with accuracy or in detail",
+      "answer": "Delineate",
+      "distractors": [
+        "Elaborate",
+        "Determine",
+        "Integrate"
+      ]
+    },
+    {
+      "q": "To study the nature and relationship of the parts of something",
+      "answer": "Analyze",
+      "distractors": [
+        "Categorize",
+        "Describe",
+        "Verify"
+      ]
+    },
+    {
+      "q": "To form, coordinate, or blend into a functioning or unified whole",
+      "answer": "Integrate",
+      "distractors": [
+        "Verify",
+        "Infer",
+        "Delineate"
+      ]
+    },
+    {
+      "q": "To deduce, or conclude from evidence and reasoning rather than from explicit statements",
+      "answer": "Infer",
+      "distractors": [
+        "Apply",
+        "Verify",
+        "Comment"
+      ]
+    },
+    {
+      "q": "To use ideas, theories, or problem-solving techniques to solve new situations",
+      "answer": "Apply",
+      "distractors": [
+        "Analyze",
+        "Verify",
+        "Categorize"
+      ]
+    },
+    {
+      "q": "To establish the truth or accuracy of something",
+      "answer": "Verify",
+      "distractors": [
+        "Integrate",
+        "Delineate",
+        "Analyze"
+      ]
+    },
+    {
+      "q": "Discussion or explanation",
+      "answer": "Commentary",
+      "distractors": [
+        "Concrete Detail",
+        "Inference",
+        "Categorize"
+      ]
+    },
+    {
+      "q": "To conclude after reasoning/observation",
+      "answer": "Determine",
+      "distractors": [
+        "Analyze",
+        "Delineate",
+        "Categorize"
+      ]
+    },
+    {
+      "q": "Special indenting on a works cited page",
+      "answer": "Hanging indent",
+      "distractors": [
+        "Indent all text 1/2in",
+        "Any format is acceptable",
+        "Two TAB characters"
+      ]
+    },
+    {
+      "q": "To express indirectly",
+      "answer": "Imply",
+      "distractors": [
+        "Analyze",
+        "Delineate",
+        "Integrate"
+      ]
+    },
+    {
+      "q": "To expand something in detail",
+      "answer": "Elaborate",
+      "distractors": [
+        "Delineate",
+        "Analyze",
+        "Concrete Detail"
+      ]
+    }
+  ]
+}

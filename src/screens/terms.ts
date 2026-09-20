@@ -1,8 +1,8 @@
 // Terms & Disclaimer. TERMS.md is the single source of the text; it is imported
 // at build time and rendered as plain text (no innerHTML).
 import terms from "../../TERMS.md?raw";
-import { el, type Screen } from "../app";
-import { getTermsAccepted, setTermsAccepted } from "../storage";
+import { el, type Screen } from "../app.ts";
+import { getTermsAccepted, setTermsAccepted } from "../storage.ts";
 
 /** Bump when TERMS.md changes materially, so everyone is asked to accept again. */
 export const TERMS_VERSION = "1";

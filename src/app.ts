@@ -13,15 +13,16 @@ export interface Ctx {
   later(fn: () => void, ms: number): void;
 }
 
-export function createApp(root: HTMLElement): { ctx: Ctx; current(): Screen | null } {
+export function createApp(root: HTMLElement): { ctx: Ctx; current(): Screen | null; dispose(): void } {
   let epoch = 0;
   let currentScreen: Screen | null = null;
   let keyHandler: KeyHandler | null = null;
 
-  window.addEventListener("keydown", (e) => {
+  const onKeyDown = (e: KeyboardEvent) => {
     if (e.ctrlKey || e.metaKey || e.altKey) return;
     keyHandler?.(e);
-  });
+  };
+  window.addEventListener("keydown", onKeyDown);
 
   const ctx: Ctx = {
     root,
@@ -43,7 +44,7 @@ export function createApp(root: HTMLElement): { ctx: Ctx; current(): Screen | nu
     },
   };
 
-  return { ctx, current: () => currentScreen };
+  return { ctx, current: () => currentScreen, dispose: () => window.removeEventListener("keydown", onKeyDown) };
 }
 
 /** Small DOM helper: element with optional class and text. */

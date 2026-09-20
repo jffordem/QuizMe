@@ -30,6 +30,61 @@ button.primary {
   font-weight: 600;
 }
 
+.status {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
+
+.question {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+button.choice {
+  width: 100%;
+  text-align: left;
+}
+
+/* After answering, choices stay fully readable; the (correct) / (your answer)
+   text carries the meaning, bold just emphasizes it. */
+button.choice:disabled {
+  color: CanvasText;
+  cursor: default;
+}
+
+button.choice.correct {
+  font-weight: 600;
+}
+
+.streak {
+  font-size: 0.9rem;
+}
+
+.feedback {
+  min-height: 1.5em;
+  font-weight: 600;
+}
+
+.actions {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.errors {
+  white-space: pre-wrap;
+  font-size: 0.85rem;
+}
+
 .link-btn {
   background: none;
   border: none;
