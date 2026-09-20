@@ -30,6 +30,12 @@ button.primary {
   font-weight: 600;
 }
 
+.back {
+  display: block;
+  margin-bottom: 0.75rem;
+  padding: 0.25rem 0;
+}
+
 .status {
   display: flex;
   justify-content: space-between;

@@ -23,6 +23,12 @@ export function questionScreen(session: Session, hooks: QuestionHooks): Screen {
     if (!question) return;
     const result = session.last;
 
+    // Progress is saved after every answer, so leaving loses nothing but the
+    // question currently on screen.
+    const back = el("button", "link-btn back", "‹ Back to quizzes");
+    back.title = "Back to quizzes (Esc)";
+    back.addEventListener("click", hooks.toList);
+
     const status = el("div", "status");
     status.append(
       el("span", undefined, session.quiz.title),
@@ -60,7 +66,7 @@ export function questionScreen(session: Session, hooks: QuestionHooks): Screen {
       }
     }
 
-    ctx.root.append(status, el("p", "question", question.q), choices, streak, feedback);
+    ctx.root.append(back, status, el("p", "question", question.q), choices, streak, feedback);
 
     if (result && !result.correct) {
       continueButton = el("button", "primary", "Continue");

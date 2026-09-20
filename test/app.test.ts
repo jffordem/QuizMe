@@ -122,7 +122,8 @@ describe("playing a quiz", () => {
 
   it("answers with number keys, then moves on by itself after a correct answer", () => {
     const first = currentQuestion();
-    const index = buttons().findIndex((b) => b.textContent?.includes(`. ${first.answer}`));
+    const choiceButtons = buttons().filter((b) => b.classList.contains("choice"));
+    const index = choiceButtons.findIndex((b) => b.textContent?.includes(`. ${first.answer}`));
     key(String(index + 1));
     expect(text()).toContain("Correct.");
     expect(text()).toContain("(correct)");
@@ -188,6 +189,37 @@ describe("playing a quiz", () => {
   it("goes back to the list with Escape", () => {
     key("Escape");
     expect(text()).toContain("Quizzes");
+  });
+
+  it("has a Back button that returns to the list", () => {
+    buttonWith("Back to quizzes").click();
+    expect(text()).toContain("Quizzes");
+    expect(root.querySelector(".question")).toBeNull();
+  });
+
+  it("Back works after answering, keeps progress, and cancels the pending auto-advance", () => {
+    answerRight();
+    buttonWith("Back to quizzes").click();
+    vi.advanceTimersByTime(2000);
+    expect(text()).toContain("Quizzes");
+    expect(root.querySelector(".question")).toBeNull();
+    expect(JSON.parse(localStorage.getItem("quizme.progress.capitals")!).version).toBe(1);
+  });
+
+  it("Back works from the wrong-answer feedback state", () => {
+    answerWrong();
+    buttonWith("Back to quizzes").click();
+    expect(text()).toContain("Quizzes");
+  });
+
+  it("resuming a quiz after Back keeps its saved streaks", () => {
+    answerRight();
+    buttonWith("Back to quizzes").click();
+    buttonWith("Capitals").click();
+    // One question now has streak 1/2 saved; it is one of the three still to master.
+    const saved = JSON.parse(localStorage.getItem("quizme.progress.capitals")!);
+    expect(Object.values(saved.questions as Record<string, { streak: number }>).some((p) => p.streak === 1)).toBe(true);
+    expect(text()).toContain("Mastered 0/3");
   });
 
   it("finishes the quiz, reports what was missed, and can start over", () => {
