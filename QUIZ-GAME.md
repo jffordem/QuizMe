@@ -1,4 +1,4 @@
-# Quiz Game — Design
+# QuizMe — Design
 
 A study-quiz web app the kids can open with a link. No install, no server, no accounts. Plain text interface, keyboard-first.
 
@@ -228,7 +228,7 @@ Modeled on MorseGames (`TERMS.md`, `src/terms.ts`), with one simplification.
 
 **Draft text** (short enough to read in one screen; it becomes `TERMS.md`):
 
-> **Quiz Game: Terms & Disclaimer**
+> **QuizMe: Terms & Disclaimer**
 >
 > 1. **Entertainment only.** This is a free hobby project made for fun. It is not intended for instruction, tutoring, or test preparation, and it is not a substitute for your course materials, textbooks, or instructors.
 > 2. **No guarantee of correctness.** Quiz questions and answers may be wrong, incomplete, out of date, or badly worded. Check anything that matters against an authoritative source.
