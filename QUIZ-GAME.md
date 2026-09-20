@@ -2,7 +2,7 @@
 
 A study-quiz web app the kids can open with a link. No install, no server, no accounts. Plain text interface, keyboard-first.
 
-**Status:** Draft 5. All questions resolved. Items marked **OPEN** still need a decision.
+**Status:** v1 built. This document is kept as the design reference; where it differs from the code, the code wins.
 
 ---
 
@@ -60,7 +60,7 @@ private repo ──(merge to main)──▶ GitHub Actions ──▶ GitHub Page
 | Quiz data | JSON files in `quizzes/`, imported at build time (`import.meta.glob`) | The build produces the quiz list automatically and can **validate every quiz, failing the deploy on a bad one**. No hand-maintained index. |
 | Progress | `localStorage` per device | No backend, no privacy concerns. Per-device is acceptable. |
 | Styling | One small CSS file, system fonts, respects light/dark, no animation | Text interface. Readable on a phone, but tuned for a laptop keyboard. |
-| Tests | Vitest on the pure logic (`session.ts`, choice selection, validation) | Vitest is the natural pairing with Vite, and the logic has no DOM dependency. |
+| Tests | Vitest: unit tests on the pure logic (`session.ts`, `choices.ts`, `quiz.ts`), a test that validates every shipped quiz, and screen-level tests in happy-dom that drive the real UI | Vitest pairs naturally with Vite. The screen tests catch wiring bugs (key handling, timers, terms round trip) that unit tests can't. CI runs the tests, the build, and the converter's Python tests. |
 | Workflow | Branch + PR for every change; deploy on merge to `main` | `main` is protected in all repos. |
 
 ### Note: everything is public
@@ -78,26 +78,32 @@ private repo ──(merge to main)──▶ GitHub Actions ──▶ GitHub Page
 | **TypeScript + Vite, no framework** (MorseGames' approach; it has no UI framework, only TypeScript and Vite) | **Chosen for v1.** Four plain text screens don't need a framework, and the setup is copied from MorseGames. |
 | **React + TypeScript + Vite** | Reasonable, not needed. The app is deliberately plain text, so React's extra UI options go unused, and it adds a dependency and JSX. The pure logic (`session.ts`, `choices.ts`, validation) is framework-independent, so switching later would only rewrite `src/screens/`. Worth choosing up front if you want the practice or expect the UI to grow. |
 
-### Repo layout (proposed)
+### Repo layout
 
 ```
 QuizMe/
 ├── index.html
-├── package.json / tsconfig.json / vite.config.ts
-├── .github/workflows/deploy.yml     # copied from MorseGames
+├── package.json / tsconfig.json / vite.config.ts   # vite.config.ts also holds the build-time quiz validation
+├── .github/workflows/
+│   ├── deploy.yml          # copied from MorseGames; Node 22
+│   └── ci.yml              # PRs: tests, build, converter tests
 ├── src/
-│   ├── main.ts             # screen switching
+│   ├── main.ts             # entry: finds the page elements, calls startApp
+│   ├── flow.ts             # wires the screens together (start, play, done, terms)
+│   ├── app.ts              # screen switching; drops stale timers and key handlers on every switch
 │   ├── screens/            # terms.ts, list.ts, question.ts, done.ts (each builds its own DOM)
-│   ├── session.ts          # pure: pool, streaks, next question
+│   ├── session.ts          # pure: pool, streaks, next question, progress
 │   ├── choices.ts          # pure: build the 2-4 choices for a question
 │   ├── quiz.ts             # types + validation
+│   ├── text.ts             # normalize + question key (progress is keyed by question text)
+│   ├── library.ts          # loads the bundled quizzes/*.json
 │   ├── storage.ts          # localStorage wrapper, tolerant of it being unavailable
-│   └── style.css
-├── quizzes/
-│   └── hunger-games.json
+│   └── styles.css
+├── quizzes/                # one JSON file per quiz, named after its id
 ├── scripts/
-│   └── convert_legacy.py   # old JSON/YAML/TSV -> canonical JSON
-├── test/
+│   ├── convert_legacy.py   # old JSON/YAML/TSV -> canonical JSON; --merge pools wrong answers
+│   └── test_convert_legacy.py
+├── test/                   # unit, shipped-quiz, and happy-dom screen tests
 ├── TERMS.md                # terms text; rendered by the app, so the only copy
 ├── QUIZ-GAME.md
 └── README.md               # how to add a quiz
@@ -188,6 +194,7 @@ The interface is plain text on a plain page. No icons, colors that carry meaning
    
    Streak on this question: 1/2
    ```
+   A "‹ Back to quizzes" link sits above the status line. Leaving loses only the question on screen, because progress is saved after every answer.
 3. **Feedback,** inline on the same screen.
    - Right: one line ("Correct."), then auto-advance after about a second.
    - Wrong: mark the correct answer and wait for Enter/Space/click.
@@ -209,7 +216,7 @@ The required streak is a constant, not a setting. Adjust after real use.
 
 ### 5.3 Input
 
-- Keyboard: `1`–`4` to answer, Enter/Space to continue, `Esc` back to the list.
+- Keyboard: `1`–`4` to answer, Enter/Space to continue, `Esc` (or the Back link) back to the list.
 - Click/tap also works. Answers are full-width buttons so phones are usable.
 
 ### 5.4 Terms notice (one-time)
@@ -251,7 +258,7 @@ I'm not a lawyer, and this is a plain hobby-project disclaimer, not legal advice
 
 Validation runs at build time and names the file and question at fault: missing `answer`, duplicate questions, an `answer` also listed in `distractors`, fewer than two possible choices, duplicate quiz `id`. A bad quiz fails the build instead of reaching the kids.
 
-`scripts/convert_legacy.py` handles the old formats (YAML `Q/A/B/C/D`, both legacy JSON shapes, TSV), so the existing collection can be brought over once. Converted quizzes get neutral ids and titles (the current file names include a child's name).
+`scripts/convert_legacy.py` handles the old formats (YAML `Q/A/B/C/D`, both legacy JSON shapes, TSV), so the existing collection can be brought over once. Converted quizzes get neutral ids and titles (the old file names include a child's name). `--merge` combines several versions of one quiz (same questions, different wrong answers) into one quiz with a larger pool of wrong answers per question, which is what makes repeat rounds vary.
 
 Later possibility: the kids write their own quizzes, either as PRs against the repo or through a paste-in importer. Not v1.
 
@@ -270,10 +277,10 @@ Later possibility: the kids write their own quizzes, either as PRs against the r
 
 ## 8. Phases
 
-### v1: playable
+### v1: playable (built)
 - Repo, Vite/TS scaffold, deploy workflow copied from MorseGames.
 - Terms notice (§5.4), before anything else is usable.
-- Quiz list, question flow, mastery rule, choice building (4.2), local progress, done screen.
+- Quiz list, question flow with a Back link, mastery rule, choice building (4.2), local progress, done screen.
 - Build-time validation, and tests for session, choices and validation.
 - Legacy converter, and the existing quizzes imported.
 
@@ -308,4 +315,4 @@ Later possibility: the kids write their own quizzes, either as PRs against the r
 | Terms / disclaimer | One-time acceptance screen: entertainment only, no guarantee of correctness, no warranty, no data collection. Text in `TERMS.md`, rendered by the app (§5.4). |
 
 ### Open
-None. Ready to scaffold v1.
+None.
