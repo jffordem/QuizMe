@@ -1,0 +1,127 @@
+{
+  "id": "star-trek-tng",
+  "title": "Star Trek: The Next Generation",
+  "version": 1,
+  "questions": [
+    {
+      "q": "Who is captain of the Federation starship Enterprise in Star Trek: The Next Generation?",
+      "answer": "Jean-Luc Picard",
+      "distractors": [
+        "James T. Kirk",
+        "Benjamin Sisko",
+        "Kathryn Janeway",
+        "Christopher Pike",
+        "Jonathan Archer",
+        "Michael Burnham"
+      ]
+    },
+    {
+      "q": "Who serves as the Enterprise-D's first officer, addressed by Picard as \"Number One\"?",
+      "answer": "William T. Riker",
+      "distractors": [
+        "Data",
+        "Worf",
+        "Geordi La Forge",
+        "Tasha Yar",
+        "Wesley Crusher",
+        "Ro Laren"
+      ]
+    },
+    {
+      "q": "What kind of being is Lieutenant Commander Data?",
+      "answer": "An android",
+      "distractors": [
+        "A hologram",
+        "A Vulcan",
+        "A Borg drone",
+        "A Betazoid",
+        "A cyborg",
+        "A Q"
+      ]
+    },
+    {
+      "q": "Which member of the Enterprise-D's crew is a Klingon?",
+      "answer": "Worf",
+      "distractors": [
+        "Martok",
+        "Gowron",
+        "Kor",
+        "Duras",
+        "Kang",
+        "Koloth"
+      ]
+    },
+    {
+      "q": "Who is the ship's counselor, an empath from the planet Betazed?",
+      "answer": "Deanna Troi",
+      "distractors": [
+        "Beverly Crusher",
+        "Tasha Yar",
+        "Guinan",
+        "Ro Laren",
+        "Ezri Dax",
+        "Keiko O'Brien"
+      ]
+    },
+    {
+      "q": "What is Geordi La Forge's position for most of the series?",
+      "answer": "Chief engineer",
+      "distractors": [
+        "Chief medical officer",
+        "Chief of security",
+        "Helmsman",
+        "Science officer",
+        "Communications officer",
+        "Chief of operations"
+      ]
+    },
+    {
+      "q": "Who runs the bar in Ten Forward?",
+      "answer": "Guinan",
+      "distractors": [
+        "Quark",
+        "Neelix",
+        "Rom",
+        "Morn",
+        "Nog",
+        "Ro Laren"
+      ]
+    },
+    {
+      "q": "Which cybernetic collective did the Enterprise-D first encounter in the episode \"Q Who\"?",
+      "answer": "The Borg",
+      "distractors": [
+        "The Dominion",
+        "The Romulans",
+        "The Cardassians",
+        "The Ferengi",
+        "The Breen",
+        "Species 8472"
+      ]
+    },
+    {
+      "q": "After the Borg captured Captain Picard, what name did they give him?",
+      "answer": "Locutus of Borg",
+      "distractors": [
+        "Hugh",
+        "Seven of Nine",
+        "Third of Five",
+        "Lore",
+        "Icheb",
+        "The Borg Queen"
+      ]
+    },
+    {
+      "q": "What is the registry number of the Enterprise-D?",
+      "answer": "NCC-1701-D",
+      "distractors": [
+        "NCC-1701",
+        "NCC-1701-A",
+        "NCC-1701-E",
+        "NCC-74656",
+        "NX-74205",
+        "NCC-1031"
+      ]
+    }
+  ]
+}
