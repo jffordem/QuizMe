@@ -180,7 +180,7 @@ The interface is plain text on a plain page. No icons, colors that carry meaning
 ### 5.1 Screens
 
 0. **Terms notice** (first visit only, see §5.4). A single page of text and one button. Nothing else is usable until it's accepted.
-1. **Quiz list.** Titles as a plain list, each with a status line ("12 of 30 mastered"). Click, or press the number, to start. A "Terms" link in the footer reopens the notice.
+1. **Quiz list.** Titles as a plain list, each with a status line ("12 of 30 mastered"). Click, or press the number, to start. A "Terms" link in the footer reopens the notice. Any quiz with saved progress also shows a "Reset" link. It asks for confirmation (Cancel is the default) and then erases that quiz's progress, so it can be practiced again from the start; this works for a partly finished quiz as well as a mastered one.
 2. **Question.**
    ```
    Hunger Games                        Mastered 12/30

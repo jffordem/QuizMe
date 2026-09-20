@@ -5,6 +5,7 @@ import type { Library, Quiz } from "./quiz.ts";
 import { doneScreen } from "./screens/done.ts";
 import { listScreen } from "./screens/list.ts";
 import { questionScreen } from "./screens/question.ts";
+import { resetScreen } from "./screens/reset.ts";
 import { acceptTermsScreen, readTermsScreen, termsAccepted } from "./screens/terms.ts";
 import { Session } from "./session.ts";
 import { clearProgress, loadProgress, saveProgress } from "./storage.ts";
@@ -16,8 +17,20 @@ export function startApp(
 ): { dispose(): void } {
   const { ctx, current, dispose } = createApp(root);
 
-  const list = () => listScreen(library, { play });
+  const list = () => listScreen(library, { play, reset: confirmReset });
   const showList = () => ctx.show(list());
+
+  function confirmReset(quiz: Quiz): void {
+    ctx.show(
+      resetScreen(quiz, {
+        confirm: () => {
+          clearProgress(quiz.id);
+          showList();
+        },
+        cancel: showList,
+      }),
+    );
+  }
 
   function play(quiz: Quiz): void {
     const session = new Session(quiz, loadProgress(quiz.id));

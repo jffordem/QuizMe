@@ -1,14 +1,15 @@
 import { el, type Screen } from "../app.ts";
 import type { Library, Quiz } from "../quiz.ts";
-import { masteredCount, progressIsStale } from "../session.ts";
+import { hasProgress, masteredCount, progressIsStale, type QuizProgress } from "../session.ts";
 import { loadProgress } from "../storage.ts";
 
 export interface ListHooks {
   play(quiz: Quiz): void;
+  /** Ask to erase this quiz's progress (the flow shows a confirmation first). */
+  reset(quiz: Quiz): void;
 }
 
-function status(quiz: Quiz): string {
-  const stored = loadProgress(quiz.id);
+function status(quiz: Quiz, stored: QuizProgress | null): string {
   const base = `${masteredCount(quiz, stored)} of ${quiz.questions.length} mastered`;
   return progressIsStale(quiz, stored) ? `${base} (quiz was updated; starting fresh)` : base;
 }
@@ -28,9 +29,22 @@ export function listScreen(library: Library, hooks: ListHooks): Screen {
     ctx.root.append(el("h2", undefined, "Quizzes"));
     const menu = el("div", "menu");
     library.quizzes.forEach((quiz, i) => {
-      const button = el("button", "choice", `${i + 1}. ${quiz.title} — ${status(quiz)}`);
-      button.addEventListener("click", () => hooks.play(quiz));
-      menu.append(button);
+      const stored = loadProgress(quiz.id);
+      const row = el("div", "row");
+
+      const open = el("button", "choice", `${i + 1}. ${quiz.title} — ${status(quiz, stored)}`);
+      open.addEventListener("click", () => hooks.play(quiz));
+      row.append(open);
+
+      // Only quizzes with something to erase get a Reset link.
+      if (hasProgress(quiz, stored)) {
+        const reset = el("button", "link-btn reset", "Reset");
+        reset.title = `Reset progress for ${quiz.title}`;
+        reset.setAttribute("aria-label", `Reset progress for ${quiz.title}`);
+        reset.addEventListener("click", () => hooks.reset(quiz));
+        row.append(reset);
+      }
+      menu.append(row);
     });
     ctx.root.append(menu);
 

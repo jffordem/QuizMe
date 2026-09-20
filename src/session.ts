@@ -54,6 +54,16 @@ export function progressIsStale(quiz: Quiz, stored: QuizProgress | null): boolea
   return stored !== null && stored.version !== quiz.version;
 }
 
+/** True if the saved progress records any answers for this version of the quiz. */
+export function hasProgress(quiz: Quiz, stored: QuizProgress | null): boolean {
+  const progress = applicable(quiz, stored);
+  if (!progress) return false;
+  return quiz.questions.some((q) => {
+    const p = sanitize(progress.questions[questionKey(q.q)]);
+    return p.seen > 0 || p.retired;
+  });
+}
+
 /** How many of a quiz's questions are retired in the given saved progress. */
 export function masteredCount(quiz: Quiz, stored: QuizProgress | null): number {
   const progress = applicable(quiz, stored);
