@@ -52,6 +52,17 @@
       ]
     },
     {
+      "q": "Lt. Cmdr. Barclay is a Starfleet officer who suffers from what condition?",
+      "answer": "Holodeck addiction",
+      "distractors": [
+        "Klingon blood fever",
+        "Post-traumatic stress disorder",
+        "Borg assimilation",
+        "Romulan mind control",
+        "Vulcan nerve pinch"
+      ]
+    },
+    {
       "q": "Who is the ship's counselor, an empath from the planet Betazed?",
       "answer": "Deanna Troi",
       "distractors": [
@@ -112,15 +123,17 @@
       ]
     },
     {
-      "q": "What is the registry number of the Enterprise-D?",
-      "answer": "NCC-1701-D",
+      "q": "What class of starship is the Enterprise-D?",
+      "answer": "Galaxy class",
       "distractors": [
-        "NCC-1701",
-        "NCC-1701-A",
-        "NCC-1701-E",
-        "NCC-74656",
-        "NX-74205",
-        "NCC-1031"
+        "Sovereign class",
+        "Intrepid class",
+        "Defiant class",
+        "Excelsior class",
+        "Constitution class",
+        "Hyperion class",
+        "Ambassador class",
+        "Nebula class"
       ]
     }
   ]
