@@ -1,0 +1,121 @@
+{
+  "id": "star-trek-tos",
+  "title": "Star Trek: The Original Series",
+  "version": 1,
+  "questions": [
+    {
+      "q": "Who is captain of the starship Enterprise in Star Trek: The Original Series?",
+      "answer": "James T. Kirk",
+      "distractors": [
+        "Jean-Luc Picard",
+        "Christopher Pike",
+        "Benjamin Sisko",
+        "Kathryn Janeway",
+        "Jonathan Archer",
+        "Matt Decker"
+      ]
+    },
+    {
+      "q": "Spock, the Enterprise's science officer, is half human and half what?",
+      "answer": "Vulcan",
+      "distractors": [
+        "Romulan",
+        "Andorian",
+        "Betazoid",
+        "Tellarite",
+        "Klingon"
+      ]
+    },
+    {
+      "q": "Who is the Enterprise's chief medical officer, nicknamed \"Bones\"?",
+      "answer": "Leonard McCoy",
+      "distractors": [
+        "Beverly Crusher",
+        "Julian Bashir",
+        "Phlox",
+        "Katherine Pulaski",
+        "Christine Chapel"
+      ]
+    },
+    {
+      "q": "Who is the Enterprise's chief engineer?",
+      "answer": "Montgomery Scott",
+      "distractors": [
+        "Geordi La Forge",
+        "Miles O'Brien",
+        "B'Elanna Torres",
+        "Charles Tucker",
+        "Hikaru Sulu"
+      ]
+    },
+    {
+      "q": "Who is the Enterprise's communications officer?",
+      "answer": "Nyota Uhura",
+      "distractors": [
+        "Janice Rand",
+        "Christine Chapel",
+        "Hoshi Sato",
+        "Tasha Yar",
+        "Deanna Troi"
+      ]
+    },
+    {
+      "q": "What is the registry number of Kirk's Enterprise?",
+      "answer": "NCC-1701",
+      "distractors": [
+        "NCC-1701-A",
+        "NCC-1701-D",
+        "NCC-1864",
+        "NCC-1017",
+        "NX-01",
+        "NCC-74656"
+      ]
+    },
+    {
+      "q": "What class of starship is Kirk's Enterprise?",
+      "answer": "Constitution class",
+      "distractors": [
+        "Galaxy class",
+        "Excelsior class",
+        "Miranda class",
+        "Sovereign class",
+        "Intrepid class",
+        "Ambassador class"
+      ]
+    },
+    {
+      "q": "What small, furry, rapidly breeding creatures overrun the Enterprise and space station K-7?",
+      "answer": "Tribbles",
+      "distractors": [
+        "Horta",
+        "Gorn",
+        "Mugato",
+        "Tholians",
+        "Sehlats"
+      ]
+    },
+    {
+      "q": "What phrase traditionally accompanies the Vulcan salute?",
+      "answer": "Live long and prosper.",
+      "distractors": [
+        "Infinite diversity in infinite combinations.",
+        "Logic above all.",
+        "Peace through reason.",
+        "Walk in harmony.",
+        "May your path be logical."
+      ]
+    },
+    {
+      "q": "Which genetically engineered 20th-century tyrant is revived from suspended animation in the episode \"Space Seed\"?",
+      "answer": "Khan Noonien Singh",
+      "distractors": [
+        "Harry Mudd",
+        "Gary Mitchell",
+        "Charlie Evans",
+        "Kor",
+        "Trelane",
+        "Lazarus"
+      ]
+    }
+  ]
+}
