@@ -1,0 +1,347 @@
+{
+  "id": "biology-2",
+  "title": "Biology 2",
+  "version": 1,
+  "questions": [
+    {
+      "q": "What do we mean when we use the terms monohybrid cross and dihybrid cross?",
+      "answer": "A dihybrid cross involves organisms that are heterozygous for two characters, and a monohybrid cross involves only one.",
+      "distractors": [
+        "A monohybrid cross involves a single parent, whereas a dihybrid cross involves two parents.",
+        "A monohybrid cross produces a single progeny, whereas a dihybrid cross produces two progeny.",
+        "A monohybrid cross is performed for one generation, whereas a dihybrid cross is performed for two generations.",
+        "A monohybrid cross results in a 9:3:3:1 ratio, whereas a dihybrid cross gives a 3:1 ratio.",
+        "A monohybrid cross uses true-breeding plants, whereas a dihybrid cross uses hybrids."
+      ]
+    },
+    {
+      "q": "A dihybrid cross between two individuals that are heterozygous for both traits (AaBb x AaBb) produces offspring in what phenotypic ratio?",
+      "answer": "9:3:3:1",
+      "distractors": ["3:1", "1:2:1", "1:1:1:1", "9:7", "1:1", "12:3:1"]
+    },
+    {
+      "q": "A monohybrid cross between two heterozygotes (Aa x Aa) produces offspring in what phenotypic ratio?",
+      "answer": "3 dominant : 1 recessive",
+      "distractors": [
+        "1 dominant : 1 recessive",
+        "1 dominant : 3 recessive",
+        "all dominant",
+        "9 dominant : 3 mixed : 1 recessive",
+        "1 dominant : 2 intermediate : 1 recessive"
+      ]
+    },
+    {
+      "q": "A monohybrid cross between two heterozygotes (Aa x Aa) produces offspring in what genotypic ratio?",
+      "answer": "1 AA : 2 Aa : 1 aa",
+      "distractors": [
+        "3 AA : 1 aa",
+        "1 AA : 1 aa",
+        "2 AA : 1 Aa : 1 aa",
+        "1 AA : 3 Aa",
+        "all Aa"
+      ]
+    },
+    {
+      "q": "Cystic fibrosis affects the lungs, the pancreas, the digestive system, and other organs, resulting in symptoms ranging from breathing difficulties to recurrent infections. Which of the following terms best describes this?",
+      "answer": "pleiotropy",
+      "distractors": [
+        "incomplete dominance",
+        "multiple alleles",
+        "epistasis",
+        "codominance",
+        "polygenic inheritance",
+        "sex linkage"
+      ]
+    },
+    {
+      "q": "What is epistasis?",
+      "answer": "One gene alters or masks the phenotypic effect of a different gene.",
+      "distractors": [
+        "A single gene affects many different characteristics.",
+        "Both alleles are fully and separately expressed in a heterozygote.",
+        "The heterozygote has a phenotype intermediate between the two homozygotes.",
+        "The effects of many genes add together to produce a single trait.",
+        "A gene is carried on a sex chromosome."
+      ]
+    },
+    {
+      "q": "In a person with type AB blood, both the A and B alleles are fully and separately expressed. This is an example of _____.",
+      "answer": "codominance",
+      "distractors": [
+        "incomplete dominance",
+        "pleiotropy",
+        "epistasis",
+        "polygenic inheritance",
+        "complete dominance"
+      ]
+    },
+    {
+      "q": "Crossing red-flowered snapdragons with white-flowered snapdragons produces offspring with pink flowers. This is an example of _____.",
+      "answer": "incomplete dominance",
+      "distractors": [
+        "codominance",
+        "pleiotropy",
+        "epistasis",
+        "polygenic inheritance",
+        "sex linkage"
+      ]
+    },
+    {
+      "q": "Hemophilia is a sex-linked disorder. The daughter of a father with hemophilia and a carrier mother has a _____ probability of having hemophilia.",
+      "answer": "50%",
+      "distractors": ["33%", "0%", "25%", "75%", "100%"]
+    },
+    {
+      "q": "Hemophilia is a sex-linked recessive disorder. The son of an unaffected father and a carrier mother has a _____ probability of having hemophilia.",
+      "answer": "50%",
+      "distractors": ["0%", "25%", "33%", "75%", "100%"]
+    },
+    {
+      "q": "A man with hemophilia and a woman who is not a carrier have a daughter. What is the probability that the daughter is a carrier of hemophilia?",
+      "answer": "100%",
+      "distractors": ["0%", "25%", "50%", "75%"]
+    },
+    {
+      "q": "Why are X-linked recessive disorders such as hemophilia much more common in males than in females?",
+      "answer": "Males have only one X chromosome, so a single recessive allele is expressed.",
+      "distractors": [
+        "The hemophilia allele is carried on the Y chromosome.",
+        "Males have two X chromosomes, so they receive twice as many recessive alleles.",
+        "The allele is dominant in males and recessive in females.",
+        "Males inherit their X chromosome from their father.",
+        "Female hormones repair the defective allele."
+      ]
+    },
+    {
+      "q": "Cells that have a number of chromosomes different from the normal number for their species are known as _____.",
+      "answer": "aneuploid",
+      "distractors": ["trisomy", "nanoploid", "diploid", "polyploid", "haploid"]
+    },
+    {
+      "q": "Nondisjunction is the failure of _____.",
+      "answer": "homologous chromosomes or sister chromatids to separate properly during cell division",
+      "distractors": [
+        "DNA to replicate during the S phase",
+        "the nuclear envelope to re-form after telophase",
+        "crossing over to occur during prophase I",
+        "the cytoplasm to divide during cytokinesis",
+        "the sperm and egg to fuse during fertilization"
+      ]
+    },
+    {
+      "q": "An organism with more than two complete sets of chromosomes (such as 3n or 4n) is described as _____.",
+      "answer": "polyploid",
+      "distractors": ["aneuploid", "trisomic", "monosomic", "diploid", "haploid"]
+    },
+    {
+      "q": "A cell that has one extra copy of a single chromosome (2n + 1) is described as _____.",
+      "answer": "trisomic",
+      "distractors": ["monosomic", "triploid", "polyploid", "haploid", "diploid"]
+    },
+    {
+      "q": "Which of the following is an example of polygenic inheritance?",
+      "answer": "skin pigmentation in humans",
+      "distractors": [
+        "pink flowers in snapdragons",
+        "the ABO blood group in humans",
+        "Huntington's disease in humans",
+        "white and purple flower color in peas",
+        "cystic fibrosis in humans",
+        "hemophilia in humans"
+      ]
+    },
+    {
+      "q": "What does the term polygenic inheritance mean?",
+      "answer": "A single characteristic is influenced by the additive effects of two or more genes.",
+      "distractors": [
+        "A single gene affects several different characteristics.",
+        "A single gene has more than two alleles in the population.",
+        "Both alleles are fully expressed in a heterozygote.",
+        "One gene masks the expression of another gene.",
+        "A gene is carried on the X chromosome."
+      ]
+    },
+    {
+      "q": "Polygenic traits such as human height usually show what kind of variation in a population?",
+      "answer": "continuous variation, forming a bell-shaped distribution",
+      "distractors": [
+        "two distinct phenotypes in a 3:1 ratio",
+        "three distinct phenotypes in a 1:2:1 ratio",
+        "four distinct phenotypes in a 9:3:3:1 ratio",
+        "variation that appears only in males",
+        "no variation, because every individual has the same genes"
+      ]
+    },
+    {
+      "q": "A person with two X chromosomes and one Y chromosome would appear to be _____.",
+      "answer": "male",
+      "distractors": ["both male and female", "neither male nor female", "female"]
+    },
+    {
+      "q": "A person with only one X chromosome and no other sex chromosome (XO) would appear to be _____.",
+      "answer": "female",
+      "distractors": ["both male and female", "neither male nor female", "male"]
+    },
+    {
+      "q": "What is the name of the condition in which a person has two X chromosomes and one Y chromosome (XXY)?",
+      "answer": "Klinefelter syndrome",
+      "distractors": [
+        "Turner syndrome",
+        "Down syndrome",
+        "Edwards syndrome",
+        "Cri du chat syndrome",
+        "Fragile X syndrome"
+      ]
+    },
+    {
+      "q": "In humans, what primarily determines whether an embryo develops as male?",
+      "answer": "the presence of a Y chromosome",
+      "distractors": [
+        "having two X chromosomes",
+        "the total number of chromosomes",
+        "the temperature at which the embryo develops",
+        "the absence of any X chromosome",
+        "the mother's hormone levels"
+      ]
+    },
+    {
+      "q": "A sexually reproducing animal has two unlinked genes, one for head shape (H) and one for tail length (T). Its genotype is HhTt. Which of the following genotypes is possible in a gamete from this organism?",
+      "answer": "HT",
+      "distractors": ["tt", "Hh", "HhTt", "T", "HhT", "hTt"]
+    },
+    {
+      "q": "An organism with genotype HhTt, where the two genes are unlinked, can produce how many genetically different kinds of gametes?",
+      "answer": "4",
+      "distractors": ["1", "2", "3", "8", "16"]
+    },
+    {
+      "q": "What does Mendel's law of independent assortment state?",
+      "answer": "Alleles of different genes separate into gametes independently of one another.",
+      "distractors": [
+        "The two alleles for a gene separate so that each gamete receives only one of them.",
+        "Dominant alleles always sort together into the same gamete.",
+        "Each gamete receives both alleles for every gene.",
+        "Offspring show a blend of the traits of both parents.",
+        "Genes on the same chromosome are always inherited separately."
+      ]
+    },
+    {
+      "q": "What does Mendel's law of segregation state?",
+      "answer": "The two alleles for a gene separate so that each gamete receives only one of them.",
+      "distractors": [
+        "Alleles of different genes separate into gametes independently of one another.",
+        "Dominant and recessive alleles are sorted into different organisms.",
+        "Each gamete receives both alleles for every gene.",
+        "Offspring show a blend of the traits of both parents.",
+        "Recessive alleles are lost after one generation."
+      ]
+    },
+    {
+      "q": "Mendel accounted for the observation that traits which had disappeared in the F1 generation reappeared in the F2 generation by proposing that _____.",
+      "answer": "traits can be dominant or recessive, and the recessive traits were obscured by the dominant ones in the F1",
+      "distractors": [
+        "new mutations were frequently generated in the F2 progeny, \"reinventing\" traits that had been lost in the F1",
+        "the mechanism controlling the appearance of traits was different between the F1 and the F2 plants",
+        "the traits were lost in the F1 due to dominance of the parental traits",
+        "members of the F1 generation had only one allele for each trait, but members of the F2 had two alleles for each trait",
+        "the F2 plants inherited the missing traits from the environment"
+      ]
+    },
+    {
+      "q": "Mendel crossed true-breeding purple-flowered pea plants with true-breeding white-flowered plants, and all of the F1 had purple flowers. When the F1 plants self-pollinated, what fraction of the F2 had white flowers?",
+      "answer": "1/4",
+      "distractors": ["none", "1/2", "3/4", "1/3", "1/16"]
+    },
+    {
+      "q": "In Mendel's experiments, the true-breeding parents are called the _____ generation, and their offspring are called the _____ generation.",
+      "answer": "P; F1",
+      "distractors": ["F1; F2", "F0; F1", "P1; P2", "F1; P", "P; F2"]
+    },
+    {
+      "q": "An allele that is fully expressed in a heterozygote and masks the effect of the other allele is called _____.",
+      "answer": "dominant",
+      "distractors": [
+        "recessive",
+        "codominant",
+        "incompletely dominant",
+        "epistatic",
+        "pleiotropic"
+      ]
+    },
+    {
+      "q": "When crossing an organism that is homozygous recessive for a single trait with a heterozygote, what is the chance of producing an offspring with the homozygous recessive phenotype?",
+      "answer": "50%",
+      "distractors": ["0%", "25%", "75%", "100%"]
+    },
+    {
+      "q": "Crossing an individual that shows the dominant phenotype but has an unknown genotype with a homozygous recessive individual is called a _____.",
+      "answer": "testcross",
+      "distractors": [
+        "self-cross",
+        "dihybrid cross",
+        "reciprocal cross",
+        "true-breeding cross",
+        "hybrid cross"
+      ]
+    },
+    {
+      "q": "In a testcross, a purple-flowered plant is crossed with a white-flowered plant (white is recessive), and all of the offspring have purple flowers. What is the genotype of the purple-flowered parent?",
+      "answer": "homozygous dominant (PP)",
+      "distractors": [
+        "heterozygous (Pp)",
+        "homozygous recessive (pp)",
+        "It cannot be determined from these results.",
+        "codominant (PW)"
+      ]
+    },
+    {
+      "q": "When two heterozygotes (Aa x Aa) are crossed, what is the chance that an offspring shows the dominant phenotype?",
+      "answer": "75%",
+      "distractors": ["0%", "25%", "50%", "100%"]
+    },
+    {
+      "q": "Why are individuals with an extra chromosome 21, which causes Down syndrome, more numerous than individuals with an extra chromosome 3 or chromosome 16?",
+      "answer": "Extra copies of the other chromosomes are probably fatal to the developing embryo.",
+      "distractors": [
+        "Chromosome 21 is a sex chromosome, and 3 and 16 are not.",
+        "Nondisjunction of chromosomes 3 and 16 probably occurs much less frequently.",
+        "Down syndrome is not more common, just more serious.",
+        "There are probably more genes on chromosome 21 than on the others.",
+        "Chromosome 21 is the largest human chromosome."
+      ]
+    },
+    {
+      "q": "Down syndrome is usually caused by _____.",
+      "answer": "trisomy 21, an extra copy of chromosome 21",
+      "distractors": [
+        "monosomy 21, a missing copy of chromosome 21",
+        "trisomy 18, an extra copy of chromosome 18",
+        "an extra Y chromosome",
+        "a missing X chromosome",
+        "a recessive allele on the X chromosome"
+      ]
+    },
+    {
+      "q": "The risk of having a child with Down syndrome, which usually results from nondisjunction, increases with _____.",
+      "answer": "the age of the mother",
+      "distractors": [
+        "the father's blood type",
+        "the mother's height",
+        "the season of conception",
+        "the number of X chromosomes in the father",
+        "the mother's diet during pregnancy"
+      ]
+    },
+    {
+      "q": "A karyotype can be used to detect conditions such as Down syndrome. What is a karyotype?",
+      "answer": "a display of an individual's chromosomes arranged in pairs by size and shape",
+      "distractors": [
+        "a map of the DNA sequence of every gene",
+        "a pedigree chart showing inheritance in a family",
+        "a Punnett square predicting the genotypes of offspring",
+        "a list of an individual's phenotypes",
+        "a count of the mutations in a cell"
+      ]
+    }
+  ]
+}
