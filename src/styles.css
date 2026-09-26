@@ -26,6 +26,7 @@ button {
   font: inherit;
   padding: 0.5rem 0.75rem;
   cursor: pointer;
+  appearance: none;
   color: CanvasText;
   background: #f5f5f5;
   border: 1px solid #8a8a8a;
