@@ -1,0 +1,389 @@
+{
+  "id": "star-trek-ds9",
+  "title": "Star Trek: Deep Space Nine",
+  "version": 1,
+  "questions": [
+    {
+      "q": "Who commands the space station Deep Space Nine?",
+      "answer": "Benjamin Sisko",
+      "distractors": [
+        "Jean-Luc Picard",
+        "James T. Kirk",
+        "Kathryn Janeway",
+        "Jonathan Archer",
+        "Christopher Pike"
+      ]
+    },
+    {
+      "q": "Which actor plays Benjamin Sisko?",
+      "answer": "Avery Brooks",
+      "distractors": [
+        "Patrick Stewart",
+        "William Shatner",
+        "Scott Bakula",
+        "Colm Meaney",
+        "René Auberjonois"
+      ]
+    },
+    {
+      "q": "Deep Space Nine is a former Cardassian space station orbiting which planet?",
+      "answer": "Bajor",
+      "distractors": [
+        "Cardassia Prime",
+        "Vulcan",
+        "Qo'noS",
+        "Romulus",
+        "Ferenginar"
+      ]
+    },
+    {
+      "q": "What was Deep Space Nine called when the Cardassians ran it?",
+      "answer": "Terok Nor",
+      "distractors": [
+        "Empok Nor",
+        "Starbase 375",
+        "Regula One",
+        "Utopia Planitia"
+      ]
+    },
+    {
+      "q": "The stable wormhole near Deep Space Nine leads to which quadrant of the galaxy?",
+      "answer": "the Gamma Quadrant",
+      "distractors": [
+        "the Alpha Quadrant",
+        "the Beta Quadrant",
+        "the Delta Quadrant"
+      ]
+    },
+    {
+      "q": "What do the Bajorans call the beings who live inside the wormhole?",
+      "answer": "the Prophets",
+      "distractors": [
+        "the Pah-wraiths",
+        "the Founders",
+        "the Q Continuum",
+        "the Vorta",
+        "the Ancestors"
+      ]
+    },
+    {
+      "q": "What religious title do the Bajorans give Benjamin Sisko?",
+      "answer": "the Emissary",
+      "distractors": [
+        "the Kai",
+        "the Vedek",
+        "the Nagus",
+        "the Intendant",
+        "the Castellan"
+      ]
+    },
+    {
+      "q": "What is the title of Bajor's highest religious leader?",
+      "answer": "the Kai",
+      "distractors": [
+        "the Vedek",
+        "the Emissary",
+        "the Grand Nagus",
+        "the Castellan",
+        "the First Minister"
+      ]
+    },
+    {
+      "q": "Who is the station's Bajoran first officer, a former resistance fighter against the Cardassian occupation?",
+      "answer": "Kira Nerys",
+      "distractors": [
+        "Ro Laren",
+        "Winn Adami",
+        "Leeta",
+        "Ezri Dax",
+        "Tora Ziyal"
+      ]
+    },
+    {
+      "q": "Who is the station's shapeshifting chief of security?",
+      "answer": "Odo",
+      "distractors": [
+        "Worf",
+        "Garak",
+        "Quark",
+        "Tuvok",
+        "Tasha Yar"
+      ]
+    },
+    {
+      "q": "Odo turns out to belong to what species?",
+      "answer": "Changeling",
+      "distractors": [
+        "Vorta",
+        "Jem'Hadar",
+        "Cardassian",
+        "Bajoran",
+        "Trill"
+      ]
+    },
+    {
+      "q": "Quark, who runs the bar on the station's Promenade, belongs to what species?",
+      "answer": "Ferengi",
+      "distractors": [
+        "Cardassian",
+        "Bajoran",
+        "Klingon",
+        "Trill",
+        "Bolian"
+      ]
+    },
+    {
+      "q": "What is the Ferengi code of business maxims called?",
+      "answer": "the Rules of Acquisition",
+      "distractors": [
+        "the Prime Directive",
+        "the Book of Profit",
+        "the Code of Commerce",
+        "the Laws of Latinum",
+        "the Ferengi Articles"
+      ]
+    },
+    {
+      "q": "What is the Ferengi's preferred currency?",
+      "answer": "gold-pressed latinum",
+      "distractors": [
+        "dilithium crystals",
+        "Federation credits",
+        "gold-pressed platinum",
+        "kemocite",
+        "isolinear chips"
+      ]
+    },
+    {
+      "q": "Nog, Quark's nephew, becomes the first Ferengi to do what?",
+      "answer": "join Starfleet",
+      "distractors": [
+        "become Grand Nagus",
+        "command a Dominion ship",
+        "open a bar on Bajor",
+        "join the Bajoran militia",
+        "visit the Gamma Quadrant"
+      ]
+    },
+    {
+      "q": "Which Ferengi becomes Grand Nagus at the end of the series?",
+      "answer": "Rom",
+      "distractors": [
+        "Quark",
+        "Nog",
+        "Zek",
+        "Brunt",
+        "Ishka"
+      ]
+    },
+    {
+      "q": "Jadzia Dax, the station's science officer, is a joined member of what species?",
+      "answer": "Trill",
+      "distractors": [
+        "Betazoid",
+        "Bajoran",
+        "Vulcan",
+        "Andorian",
+        "Bolian"
+      ]
+    },
+    {
+      "q": "Sisko calls Jadzia Dax \"old man\" because a previous host of the Dax symbiont was his mentor. What was that host's name?",
+      "answer": "Curzon Dax",
+      "distractors": [
+        "Ezri Dax",
+        "Torias Dax",
+        "Joran Dax",
+        "Lela Dax",
+        "Tobin Dax"
+      ]
+    },
+    {
+      "q": "Who becomes the Dax symbiont's new host after Jadzia's death?",
+      "answer": "Ezri Dax",
+      "distractors": [
+        "Curzon Dax",
+        "Joran Dax",
+        "Lela Dax",
+        "Audrid Dax",
+        "Tobin Dax"
+      ]
+    },
+    {
+      "q": "Who is the station's chief medical officer?",
+      "answer": "Julian Bashir",
+      "distractors": [
+        "Leonard McCoy",
+        "Beverly Crusher",
+        "Phlox",
+        "Katherine Pulaski",
+        "Christine Chapel"
+      ]
+    },
+    {
+      "q": "Which officer transfers from the Enterprise-D to become Deep Space Nine's chief of operations?",
+      "answer": "Miles O'Brien",
+      "distractors": [
+        "Geordi La Forge",
+        "Reginald Barclay",
+        "Ro Laren",
+        "Wesley Crusher",
+        "Data"
+      ]
+    },
+    {
+      "q": "Which character from Star Trek: The Next Generation joins the Deep Space Nine crew as strategic operations officer starting in season 4?",
+      "answer": "Worf",
+      "distractors": [
+        "Data",
+        "William Riker",
+        "Deanna Troi",
+        "Geordi La Forge",
+        "Beverly Crusher"
+      ]
+    },
+    {
+      "q": "What is the name of Benjamin Sisko's son?",
+      "answer": "Jake",
+      "distractors": [
+        "Nog",
+        "Wesley",
+        "Alexander",
+        "Rom",
+        "Joseph"
+      ]
+    },
+    {
+      "q": "Sisko keeps a ball from which sport on his desk?",
+      "answer": "baseball",
+      "distractors": [
+        "football",
+        "cricket",
+        "golf",
+        "basketball",
+        "parrises squares"
+      ]
+    },
+    {
+      "q": "What is the name of the warship Sisko brings to the station to face the Dominion?",
+      "answer": "USS Defiant",
+      "distractors": [
+        "USS Enterprise",
+        "USS Voyager",
+        "USS Saratoga",
+        "USS Rio Grande",
+        "USS Excelsior"
+      ]
+    },
+    {
+      "q": "Garak, the only Cardassian living on the station, works there as what?",
+      "answer": "a tailor",
+      "distractors": [
+        "a bartender",
+        "a botanist",
+        "a restaurant chef",
+        "a jeweler",
+        "a schoolteacher"
+      ]
+    },
+    {
+      "q": "Before his exile, Garak was an operative of which Cardassian intelligence agency?",
+      "answer": "the Obsidian Order",
+      "distractors": [
+        "the Tal Shiar",
+        "Section 31",
+        "the Central Command",
+        "the Detapa Council",
+        "the Order of the Bat'leth"
+      ]
+    },
+    {
+      "q": "Which Cardassian, the former prefect of Bajor during the occupation, is one of Sisko's main adversaries?",
+      "answer": "Gul Dukat",
+      "distractors": [
+        "Elim Garak",
+        "Damar",
+        "Enabran Tain",
+        "Gul Madred",
+        "Weyoun"
+      ]
+    },
+    {
+      "q": "Who rules the Dominion, the Gamma Quadrant power that becomes the series' main enemy?",
+      "answer": "the Founders",
+      "distractors": [
+        "the Vorta",
+        "the Jem'Hadar",
+        "the Borg",
+        "the Prophets",
+        "the Q Continuum"
+      ]
+    },
+    {
+      "q": "Which Dominion species serves as diplomats and field commanders over the Jem'Hadar soldiers?",
+      "answer": "the Vorta",
+      "distractors": [
+        "the Breen",
+        "the Cardassians",
+        "the Ferengi",
+        "the Karemma",
+        "the Tosk"
+      ]
+    },
+    {
+      "q": "The Dominion keeps its Jem'Hadar soldiers loyal through their dependence on what drug?",
+      "answer": "ketracel-white",
+      "distractors": [
+        "kanar",
+        "raktajino",
+        "synthehol",
+        "Romulan ale",
+        "tricordrazine"
+      ]
+    },
+    {
+      "q": "What is the war that dominates the later seasons of the series called?",
+      "answer": "the Dominion War",
+      "distractors": [
+        "the Klingon Civil War",
+        "the Earth-Romulan War",
+        "the Cardassian Wars",
+        "the Borg Incursion",
+        "the Temporal Cold War"
+      ]
+    },
+    {
+      "q": "In which episode does the crew travel back in time to the events of the original series episode \"The Trouble with Tribbles\"?",
+      "answer": "\"Trials and Tribble-ations\"",
+      "distractors": [
+        "\"Far Beyond the Stars\"",
+        "\"In the Pale Moonlight\"",
+        "\"Little Green Men\"",
+        "\"Past Tense\"",
+        "\"The Visitor\""
+      ]
+    },
+    {
+      "q": "In the episode \"Far Beyond the Stars,\" Sisko experiences life as whom?",
+      "answer": "a 1950s science fiction writer in New York",
+      "distractors": [
+        "a Bajoran farmer during the Cardassian occupation",
+        "a 1960s lounge singer in Las Vegas",
+        "a baseball player in the 1940s",
+        "a Klingon warrior on Qo'noS",
+        "a 21st-century soldier in World War III"
+      ]
+    },
+    {
+      "q": "What happens to Benjamin Sisko at the end of the series?",
+      "answer": "He goes to live among the Prophets in the Celestial Temple.",
+      "distractors": [
+        "He is promoted to admiral and returns to Earth.",
+        "He is killed in the final battle of the Dominion War.",
+        "He becomes Kai of Bajor.",
+        "He takes command of a new starship Enterprise.",
+        "He retires to run his father's restaurant in New Orleans."
+      ]
+    }
+  ]
+}
