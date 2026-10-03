@@ -1,0 +1,269 @@
+{
+  "id": "futurama",
+  "title": "Futurama",
+  "version": 1,
+  "questions": [
+    {
+      "q": "What job does Philip J. Fry have in 1999 before he is frozen?",
+      "answer": "Pizza delivery boy",
+      "distractors": [
+        "Taxi driver",
+        "Cryogenics technician",
+        "Intern",
+        "Janitor",
+        "Cook"
+      ]
+    },
+    {
+      "q": "How does Fry end up in the year 2999?",
+      "answer": "He falls into a cryogenic freezer on New Year's Eve 1999",
+      "distractors": [
+        "He travels through a time machine built by the Professor",
+        "He is abducted by aliens",
+        "He sleeps through a thousand years in a cave",
+        "He is launched into space and returns centuries later",
+        "He is revived from a coma"
+      ]
+    },
+    {
+      "q": "What is the name of the delivery company where Fry, Leela, and Bender work?",
+      "answer": "Planet Express",
+      "distractors": [
+        "Mom's Friendly Delivery",
+        "Panucci's Pizza",
+        "Galaxy Courier",
+        "Applied Cryogenics",
+        "Nimbus Freight"
+      ]
+    },
+    {
+      "q": "Who is the founder of Planet Express and Fry's distant nephew?",
+      "answer": "Professor Hubert J. Farnsworth",
+      "distractors": [
+        "Zapp Brannigan",
+        "Hermes Conrad",
+        "Cubert Farnsworth",
+        "Dr. Zoidberg",
+        "Scruffy"
+      ]
+    },
+    {
+      "q": "What is Leela's job at Planet Express?",
+      "answer": "Captain of the delivery ship",
+      "distractors": [
+        "Accountant",
+        "Cook",
+        "Company doctor",
+        "Intern",
+        "Bureaucrat"
+      ]
+    },
+    {
+      "q": "What distinctive physical feature does Turanga Leela have?",
+      "answer": "One eye",
+      "distractors": [
+        "Three arms",
+        "Green skin",
+        "A tail",
+        "Antennae",
+        "A robotic leg"
+      ]
+    },
+    {
+      "q": "What kind of robot is Bender?",
+      "answer": "A bending unit",
+      "distractors": [
+        "A cooking unit",
+        "A delivery unit",
+        "A medical unit",
+        "A guidance unit",
+        "A security unit"
+      ]
+    },
+    {
+      "q": "What does Bender run on as fuel?",
+      "answer": "Alcohol",
+      "distractors": [
+        "Nuclear waste",
+        "Slurm",
+        "Dark matter",
+        "Electricity only",
+        "Motor oil"
+      ]
+    },
+    {
+      "q": "What is Bender's best-known catchphrase?",
+      "answer": "\"Bite my shiny metal ass!\"",
+      "distractors": [
+        "\"Good news, everyone!\"",
+        "\"Why not Zoidberg?\"",
+        "\"Shut up and take my money!\"",
+        "\"All glory to the Hypnotoad!\"",
+        "\"I'm going to kill all humans!\""
+      ]
+    },
+    {
+      "q": "Which phrase does Professor Farnsworth typically use to open an announcement?",
+      "answer": "\"Good news, everyone!\"",
+      "distractors": [
+        "\"Bite my shiny metal ass!\"",
+        "\"Attention, crew!\"",
+        "\"Sweet zombie Jesus!\"",
+        "\"Hear ye, hear ye!\"",
+        "\"Don't panic, my dears!\""
+      ]
+    },
+    {
+      "q": "What species is Dr. Zoidberg?",
+      "answer": "Decapodian",
+      "distractors": [
+        "Omicronian",
+        "Neptunian",
+        "Amphibiosan",
+        "Nibblonian",
+        "Martian"
+      ]
+    },
+    {
+      "q": "What is Amy Wong's role at Planet Express?",
+      "answer": "Intern",
+      "distractors": [
+        "Captain",
+        "Accountant",
+        "Cook",
+        "Doctor",
+        "Pilot"
+      ]
+    },
+    {
+      "q": "What is Hermes Conrad's job at Planet Express?",
+      "answer": "Bureaucrat and accountant",
+      "distractors": [
+        "Chef",
+        "Pilot",
+        "Doctor",
+        "Janitor",
+        "Security guard"
+      ]
+    },
+    {
+      "q": "What is the name of Leela's pet?",
+      "answer": "Nibbler",
+      "distractors": [
+        "Seymour",
+        "Scruffy",
+        "Hypnotoad",
+        "Cubert",
+        "Bumi"
+      ]
+    },
+    {
+      "q": "Who is the self-important Captain of the Nimbus, often accompanied by Kif Kroker?",
+      "answer": "Zapp Brannigan",
+      "distractors": [
+        "Calculon",
+        "Lrrr",
+        "Richard Nixon",
+        "Morbo",
+        "Hermes Conrad"
+      ]
+    },
+    {
+      "q": "What is the name of Fry's dog, who waits for him for years in the episode \"Jurassic Bark\"?",
+      "answer": "Seymour",
+      "distractors": [
+        "Nibbler",
+        "Scruffy",
+        "Spot",
+        "Brutus",
+        "Bumi"
+      ]
+    },
+    {
+      "q": "Which soft drink is Fry's favorite in the future?",
+      "answer": "Slurm",
+      "distractors": [
+        "Bubble Cola",
+        "Nuka-Cola",
+        "Mom's Root Beer",
+        "Robot Fizz",
+        "Panucci's Soda"
+      ]
+    },
+    {
+      "q": "Who owns Mom's Friendly Robot Company?",
+      "answer": "Mom",
+      "distractors": [
+        "Professor Farnsworth",
+        "The Robot Devil",
+        "Calculon",
+        "Lrrr",
+        "Scruffy"
+      ]
+    },
+    {
+      "q": "Whose preserved head, kept in a jar, becomes President of Earth in the future?",
+      "answer": "Richard Nixon",
+      "distractors": [
+        "Abraham Lincoln",
+        "Ronald Reagan",
+        "John F. Kennedy",
+        "George Washington",
+        "Bill Clinton"
+      ]
+    },
+    {
+      "q": "What city do the main characters live in?",
+      "answer": "New New York",
+      "distractors": [
+        "Old New York",
+        "Neo York",
+        "Mars City",
+        "Futuropolis",
+        "New Amsterdam"
+      ]
+    },
+    {
+      "q": "Who is the ruler of Omicron Persei 8 who frequently threatens Earth?",
+      "answer": "Lrrr",
+      "distractors": [
+        "Morbo",
+        "Zapp Brannigan",
+        "Kif Kroker",
+        "Calculon",
+        "Robot Devil"
+      ]
+    },
+    {
+      "q": "Which robot is a famous soap opera actor?",
+      "answer": "Calculon",
+      "distractors": [
+        "Roberto",
+        "Clamps",
+        "Flexo",
+        "Hedonismbot",
+        "Joey Mousepad"
+      ]
+    },
+    {
+      "q": "Which TV creator is behind Futurama?",
+      "answer": "Matt Groening",
+      "distractors": [
+        "Seth MacFarlane",
+        "Trey Parker",
+        "Mike Judge",
+        "Dan Harmon",
+        "Dave Willis"
+      ]
+    },
+    {
+      "q": "In \"Fear of a Bot Planet\", Fry and Leela must pass a robot test. Which choice does Leela pick?",
+      "answer": "A large, properly formatted data file",
+      "distractors": [
+        "A puppy (the bad kind)",
+        "A bottle of Slurm",
+        "A chocolate cake"
+      ]
+    }
+  ]
+}
