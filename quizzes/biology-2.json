@@ -17,7 +17,14 @@
     {
       "q": "A dihybrid cross between two individuals that are heterozygous for both traits (AaBb x AaBb) produces offspring in what phenotypic ratio?",
       "answer": "9:3:3:1",
-      "distractors": ["3:1", "1:2:1", "1:1:1:1", "9:7", "1:1", "12:3:1"]
+      "distractors": [
+        "3:1",
+        "1:2:1",
+        "1:1:1:1",
+        "9:7",
+        "1:1",
+        "12:3:1"
+      ]
     },
     {
       "q": "A monohybrid cross between two heterozygotes (Aa x Aa) produces offspring in what phenotypic ratio?",
@@ -89,17 +96,34 @@
     {
       "q": "Hemophilia is a sex-linked disorder. The daughter of a father with hemophilia and a carrier mother has a _____ probability of having hemophilia.",
       "answer": "50%",
-      "distractors": ["33%", "0%", "25%", "75%", "100%"]
+      "distractors": [
+        "33%",
+        "0%",
+        "25%",
+        "75%",
+        "100%"
+      ]
     },
     {
       "q": "Hemophilia is a sex-linked recessive disorder. The son of an unaffected father and a carrier mother has a _____ probability of having hemophilia.",
       "answer": "50%",
-      "distractors": ["0%", "25%", "33%", "75%", "100%"]
+      "distractors": [
+        "0%",
+        "25%",
+        "33%",
+        "75%",
+        "100%"
+      ]
     },
     {
       "q": "A man with hemophilia and a woman who is not a carrier have a daughter. What is the probability that the daughter is a carrier of hemophilia?",
       "answer": "100%",
-      "distractors": ["0%", "25%", "50%", "75%"]
+      "distractors": [
+        "0%",
+        "25%",
+        "50%",
+        "75%"
+      ]
     },
     {
       "q": "Why are X-linked recessive disorders such as hemophilia much more common in males than in females?",
@@ -115,7 +139,13 @@
     {
       "q": "Cells that have a number of chromosomes different from the normal number for their species are known as _____.",
       "answer": "aneuploid",
-      "distractors": ["trisomy", "nanoploid", "diploid", "polyploid", "haploid"]
+      "distractors": [
+        "trisomy",
+        "nanoploid",
+        "diploid",
+        "polyploid",
+        "haploid"
+      ]
     },
     {
       "q": "Nondisjunction is the failure of _____.",
@@ -131,12 +161,24 @@
     {
       "q": "An organism with more than two complete sets of chromosomes (such as 3n or 4n) is described as _____.",
       "answer": "polyploid",
-      "distractors": ["aneuploid", "trisomic", "monosomic", "diploid", "haploid"]
+      "distractors": [
+        "aneuploid",
+        "trisomic",
+        "monosomic",
+        "diploid",
+        "haploid"
+      ]
     },
     {
       "q": "A cell that has one extra copy of a single chromosome (2n + 1) is described as _____.",
       "answer": "trisomic",
-      "distractors": ["monosomic", "triploid", "polyploid", "haploid", "diploid"]
+      "distractors": [
+        "monosomic",
+        "triploid",
+        "polyploid",
+        "haploid",
+        "diploid"
+      ]
     },
     {
       "q": "Which of the following is an example of polygenic inheritance?",
@@ -175,12 +217,20 @@
     {
       "q": "A person with two X chromosomes and one Y chromosome would appear to be _____.",
       "answer": "male",
-      "distractors": ["both male and female", "neither male nor female", "female"]
+      "distractors": [
+        "both male and female",
+        "neither male nor female",
+        "female"
+      ]
     },
     {
       "q": "A person with only one X chromosome and no other sex chromosome (XO) would appear to be _____.",
       "answer": "female",
-      "distractors": ["both male and female", "neither male nor female", "male"]
+      "distractors": [
+        "both male and female",
+        "neither male nor female",
+        "male"
+      ]
     },
     {
       "q": "What is the name of the condition in which a person has two X chromosomes and one Y chromosome (XXY)?",
@@ -207,12 +257,25 @@
     {
       "q": "A sexually reproducing animal has two unlinked genes, one for head shape (H) and one for tail length (T). Its genotype is HhTt. Which of the following genotypes is possible in a gamete from this organism?",
       "answer": "HT",
-      "distractors": ["tt", "Hh", "HhTt", "T", "HhT", "hTt"]
+      "distractors": [
+        "tt",
+        "Hh",
+        "HhTt",
+        "T",
+        "HhT",
+        "hTt"
+      ]
     },
     {
       "q": "An organism with genotype HhTt, where the two genes are unlinked, can produce how many genetically different kinds of gametes?",
       "answer": "4",
-      "distractors": ["1", "2", "3", "8", "16"]
+      "distractors": [
+        "1",
+        "2",
+        "3",
+        "8",
+        "16"
+      ]
     },
     {
       "q": "What does Mendel's law of independent assortment state?",
@@ -250,12 +313,24 @@
     {
       "q": "Mendel crossed true-breeding purple-flowered pea plants with true-breeding white-flowered plants, and all of the F1 had purple flowers. When the F1 plants self-pollinated, what fraction of the F2 had white flowers?",
       "answer": "1/4",
-      "distractors": ["none", "1/2", "3/4", "1/3", "1/16"]
+      "distractors": [
+        "none",
+        "1/2",
+        "3/4",
+        "1/3",
+        "1/16"
+      ]
     },
     {
       "q": "In Mendel's experiments, the true-breeding parents are called the _____ generation, and their offspring are called the _____ generation.",
       "answer": "P; F1",
-      "distractors": ["F1; F2", "F0; F1", "P1; P2", "F1; P", "P; F2"]
+      "distractors": [
+        "F1; F2",
+        "F0; F1",
+        "P1; P2",
+        "F1; P",
+        "P; F2"
+      ]
     },
     {
       "q": "An allele that is fully expressed in a heterozygote and masks the effect of the other allele is called _____.",
@@ -271,7 +346,12 @@
     {
       "q": "When crossing an organism that is homozygous recessive for a single trait with a heterozygote, what is the chance of producing an offspring with the homozygous recessive phenotype?",
       "answer": "50%",
-      "distractors": ["0%", "25%", "75%", "100%"]
+      "distractors": [
+        "0%",
+        "25%",
+        "75%",
+        "100%"
+      ]
     },
     {
       "q": "Crossing an individual that shows the dominant phenotype but has an unknown genotype with a homozygous recessive individual is called a _____.",
@@ -297,7 +377,12 @@
     {
       "q": "When two heterozygotes (Aa x Aa) are crossed, what is the chance that an offspring shows the dominant phenotype?",
       "answer": "75%",
-      "distractors": ["0%", "25%", "50%", "100%"]
+      "distractors": [
+        "0%",
+        "25%",
+        "50%",
+        "100%"
+      ]
     },
     {
       "q": "Why are individuals with an extra chromosome 21, which causes Down syndrome, more numerous than individuals with an extra chromosome 3 or chromosome 16?",
@@ -341,6 +426,202 @@
         "a Punnett square predicting the genotypes of offspring",
         "a list of an individual's phenotypes",
         "a count of the mutations in a cell"
+      ]
+    },
+    {
+      "q": "Chargaff found that for DNA _____.",
+      "answer": "the ratio of A to T is close to 1:1 and the ratio of G to C is close to 1:1",
+      "distractors": [
+        "A + T = G + C",
+        "the ratio of A to C is close to 1:1 and the ratio of G to T is close to 1:1",
+        "the ratio of A to G is close to 1:1 and the ratio of T to C is close to 1:1",
+        "A + T = 50% of the total bases"
+      ]
+    },
+    {
+      "q": "The leading and the lagging strands differ in that",
+      "answer": "the leading strand is synthesized in the same direction as the movement of the replication fork, and the lagging strand is synthesized in the opposite direction.",
+      "distractors": [
+        "the leading strand is synthesized by adding nucleotides to the 3' end of the growing strand, and the lagging strand is synthesized by adding nucleotides to the 5' end.",
+        "the lagging strand is synthesized continuously, whereas the leading strand is synthesized in short fragments that are ultimately stitched together.",
+        "the leading strand is synthesized at twice the rate of the lagging strand."
+      ]
+    },
+    {
+      "q": "A new DNA strand elongates only in the 5' to 3' direction because",
+      "answer": "DNA polymerase can only add nucleotides to the free 3' end.",
+      "distractors": [
+        "DNA polymerase begins adding nucleotides at the 5' end of the template.",
+        "Okazaki fragments prevent elongation in the 3' to 5' direction.",
+        "the polarity of the DNA molecule prevents addition of nucleotides at the 3' end.",
+        "replication must progress toward the replication fork."
+      ]
+    },
+    {
+      "q": "During the replication of DNA, _____.",
+      "answer": "both strands of a molecule act as templates",
+      "distractors": [
+        "the cell undergoes mitosis",
+        "only one strand of the molecule acts as a template",
+        "errors never occur",
+        "the reaction is catalyzed by RNA polymerase"
+      ]
+    },
+    {
+      "q": "Monomers for the synthesis of DNA are called _____.",
+      "answer": "nucleotides",
+      "distractors": [
+        "amino acids",
+        "monosaccharides",
+        "fatty acids",
+        "disaccharides"
+      ]
+    },
+    {
+      "q": "What is the basis for the difference in how the leading and lagging strands of DNA molecules are synthesized?",
+      "answer": "DNA polymerase can join new nucleotides only to the 3' end of a growing strand.",
+      "distractors": [
+        "The origins of replication occur only at the 5' end.",
+        "Helicases and single-strand binding proteins work at the 5' end.",
+        "DNA ligase works only in the 3' to 5' direction.",
+        "Polymerase can work on only one strand at a time."
+      ]
+    },
+    {
+      "q": "A point mutation in which a single base pair is inserted or deleted from DNA is called a(n) _____.",
+      "answer": "frame-shift mutation",
+      "distractors": [
+        "translocation mutation",
+        "nonsense mutation",
+        "inversion mutation",
+        "missense mutation"
+      ]
+    },
+    {
+      "q": "Which description of DNA replication is correct?",
+      "answer": "Helicases separate the two strands of the double helix, and DNA polymerases then construct two new strands using each of the original strands as templates.",
+      "distractors": [
+        "The two strands separate, and each one receives a complementary strand of RNA. Then this RNA serves as a template for the assembly of many new strands of DNA.",
+        "The two strands of DNA separate, and restriction enzymes cut up one strand. Then, the DNA polymerase synthesizes two new strands out of the old ones.",
+        "Ligase separates the two strands of the DNA double helix. Then, DNA polymerase synthesizes the leading strand and primase synthesizes the lagging strand.",
+        "Ligase assembles single-stranded codons, then polymerase knits these codons together into a DNA strand."
+      ]
+    },
+    {
+      "q": "Cytosine makes up 42% of the nucleotides in a sample of DNA from an organism. Approximately what percentage of the nucleotides in this sample will be thymine?",
+      "answer": "8%",
+      "distractors": [
+        "16%",
+        "31%",
+        "42%",
+        "It cannot be determined from the information provided."
+      ]
+    },
+    {
+      "q": "Which enzyme catalyzes the elongation of a DNA strand in the 5' to 3' direction?",
+      "answer": "DNA polymerase III",
+      "distractors": [
+        "primase",
+        "DNA ligase",
+        "topoisomerase",
+        "helicase"
+      ]
+    },
+    {
+      "q": "What is a nucleotide?",
+      "answer": "a single unit of a nucleic acid, composed of a phosphate, a 5-carbon sugar, and a purine or a pyrimidine",
+      "distractors": [
+        "a chain of amino acids joined by peptide bonds",
+        "a sugar-phosphate backbone with no base",
+        "a protein that unwinds DNA",
+        "a three-base sequence that codes for an amino acid"
+      ]
+    },
+    {
+      "q": "What is a purine?",
+      "answer": "the larger kind of nucleotide base, with a double-ring structure, such as adenine or guanine",
+      "distractors": [
+        "the smaller kind of nucleotide base, with a single-ring structure, such as cytosine or thymine",
+        "a 5-carbon sugar found in DNA",
+        "an enzyme that joins DNA fragments",
+        "a base found only in RNA"
+      ]
+    },
+    {
+      "q": "What is a pyrimidine?",
+      "answer": "the smaller kind of nucleotide base, with a single-ring structure, such as cytosine, thymine, or uracil",
+      "distractors": [
+        "the larger kind of nucleotide base, with a double-ring structure, such as adenine or guanine",
+        "a 5-carbon sugar found in RNA",
+        "an enzyme that synthesizes primers",
+        "a base found only in DNA"
+      ]
+    },
+    {
+      "q": "What is the double helix?",
+      "answer": "the structure of DNA, in which two complementary polynucleotide strands coil around a common helical axis",
+      "distractors": [
+        "a single polynucleotide strand folded back on itself",
+        "two identical DNA molecules joined at the centromere",
+        "a DNA strand wrapped around histone proteins",
+        "the pairing of mRNA with a ribosome"
+      ]
+    },
+    {
+      "q": "What is the leading strand?",
+      "answer": "the DNA strand that can be synthesized continuously from the origin of replication",
+      "distractors": [
+        "the DNA strand synthesized discontinuously as Okazaki fragments",
+        "the template strand read 5' to 3'",
+        "the strand that is synthesized first in each cell cycle"
+      ]
+    },
+    {
+      "q": "What is the lagging strand?",
+      "answer": "the DNA strand that must be synthesized discontinuously because of the 5'-to-3' directionality of DNA polymerase and the antiparallel nature of DNA",
+      "distractors": [
+        "the DNA strand that is synthesized continuously from the origin of replication",
+        "the strand that DNA polymerase never copies",
+        "the strand synthesized by RNA polymerase"
+      ]
+    },
+    {
+      "q": "What is a mutation?",
+      "answer": "a change in a gene sequence, often resulting from a copying mistake during DNA replication",
+      "distractors": [
+        "a change in the number of cells in an organism",
+        "a change in environment that alters phenotype",
+        "the normal pairing of complementary bases",
+        "a gene that is expressed in every cell"
+      ]
+    },
+    {
+      "q": "What is a point mutation?",
+      "answer": "an alteration of one nucleotide in a chromosomal DNA molecule",
+      "distractors": [
+        "the loss of an entire chromosome",
+        "the swapping of segments between two chromosomes",
+        "the duplication of a whole gene",
+        "a change that occurs only at the origin of replication"
+      ]
+    },
+    {
+      "q": "What is a frameshift mutation?",
+      "answer": "a mutation in which a base is added or deleted, altering the reading frame downstream of the mutation",
+      "distractors": [
+        "a mutation in which one base is replaced by another with no change in reading frame",
+        "a mutation that moves a segment to another chromosome",
+        "a mutation that reverses a segment of a chromosome"
+      ]
+    },
+    {
+      "q": "What is CRISPR?",
+      "answer": "a gene-editing tool made of a guide nucleotide sequence that targets a specific gene sequence and a DNA-cutting enzyme",
+      "distractors": [
+        "an enzyme that unwinds the DNA double helix",
+        "a method of sequencing DNA by synthesis",
+        "a type of mutation that deletes a single base",
+        "a protein that joins Okazaki fragments"
       ]
     }
   ]
