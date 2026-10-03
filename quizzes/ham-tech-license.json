@@ -2194,16 +2194,6 @@
       "group": "T6A"
     },
     {
-      "q": "What type of switch is represented by component 3 in figure T-2?",
-      "answer": "Single-pole single-throw",
-      "distractors": [
-        "Single-pole double-throw",
-        "Double-pole single-throw",
-        "Double-pole double-throw"
-      ],
-      "group": "T6A"
-    },
-    {
       "q": "Which of the following battery chemistries is rechargeable?",
       "answer": "All these choices are correct",
       "distractors": [
@@ -2354,106 +2344,6 @@
       "group": "T6C"
     },
     {
-      "q": "What is component 1 in figure T-1?",
-      "answer": "Resistor",
-      "distractors": [
-        "Transistor",
-        "Battery",
-        "Connector"
-      ],
-      "group": "T6C"
-    },
-    {
-      "q": "What is component 2 in figure T-1?",
-      "answer": "Transistor",
-      "distractors": [
-        "Resistor",
-        "Indicator lamp",
-        "Connector"
-      ],
-      "group": "T6C"
-    },
-    {
-      "q": "What is component 3 in figure T-1?",
-      "answer": "Lamp",
-      "distractors": [
-        "Resistor",
-        "Transistor",
-        "Ground symbol"
-      ],
-      "group": "T6C"
-    },
-    {
-      "q": "What is component 4 in figure T-1?",
-      "answer": "Battery",
-      "distractors": [
-        "Resistor",
-        "Transistor",
-        "Ground symbol"
-      ],
-      "group": "T6C"
-    },
-    {
-      "q": "What is component 6 in figure T-2?",
-      "answer": "Capacitor",
-      "distractors": [
-        "Resistor",
-        "Regulator IC",
-        "Transistor"
-      ],
-      "group": "T6C"
-    },
-    {
-      "q": "What is component 8 in figure T-2?",
-      "answer": "Light emitting diode",
-      "distractors": [
-        "Resistor",
-        "Inductor",
-        "Regulator IC"
-      ],
-      "group": "T6C"
-    },
-    {
-      "q": "What is component 9 in figure T-2?",
-      "answer": "Variable resistor",
-      "distractors": [
-        "Variable capacitor",
-        "Variable inductor",
-        "Variable transformer"
-      ],
-      "group": "T6C"
-    },
-    {
-      "q": "What is component 4 in figure T-2?",
-      "answer": "Transformer",
-      "distractors": [
-        "Variable inductor",
-        "Double-pole switch",
-        "Potentiometer"
-      ],
-      "group": "T6C"
-    },
-    {
-      "q": "What is component 3 in figure T-3?",
-      "answer": "Variable inductor",
-      "distractors": [
-        "Connector",
-        "Meter",
-        "Variable capacitor"
-      ],
-      "group": "T6C"
-    },
-    {
-      "q": "What is component 4 in figure T-3?",
-      "answer": "Antenna",
-      "distractors": [
-        "Transmitter",
-        "Dummy load",
-        "Ground"
-      ],
-      "group": "T6C"
-    },
-    {
       "q": "Which of the following is accurately represented in electrical schematics?",
       "answer": "Component connections",
       "distractors": [
@@ -2550,16 +2440,6 @@
         "Transducer",
         "Multi-pole relay",
         "Transformer"
-      ],
-      "group": "T6D"
-    },
-    {
-      "q": "What is the function of component 2 in figure T-1?",
-      "answer": "Control the flow of current",
-      "distractors": [
-        "Give off light when current flows through it",
-        "Supply electrical energy",
-        "Convert electrical energy into radio waves"
       ],
       "group": "T6D"
     },
