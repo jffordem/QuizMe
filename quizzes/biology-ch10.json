@@ -1,0 +1,535 @@
+{
+  "id": "biology-ch10",
+  "title": "Biology Chapter 10",
+  "version": 1,
+  "questions": [
+    {
+      "q": "What did Gregor Mendel do to study heredity?",
+      "answer": "Performed controlled crosses with pea plants",
+      "distractors": [
+        "Studied chromosomes under a microscope",
+        "Discovered the double-helix structure of DNA",
+        "Bred fruit flies to track eye color",
+        "Proposed the theory of natural selection",
+        "Mapped genes on human chromosomes"
+      ]
+    },
+    {
+      "q": "Where are the reproductive organs of pea plants?",
+      "answer": "Enclosed within their flowers",
+      "distractors": [
+        "In their roots",
+        "Inside their seed pods",
+        "On the undersides of their leaves",
+        "Along their stems",
+        "On separate male and female plants"
+      ]
+    },
+    {
+      "q": "What is the P generation?",
+      "answer": "The parental generation",
+      "distractors": [
+        "The purebred generation",
+        "The progeny generation",
+        "The primary offspring generation",
+        "The first filial generation",
+        "The second filial generation"
+      ]
+    },
+    {
+      "q": "What is the F1 generation?",
+      "answer": "The first filial generation",
+      "distractors": [
+        "The first fertilized generation",
+        "The first female generation",
+        "The final generation",
+        "The second filial generation",
+        "The parental generation"
+      ]
+    },
+    {
+      "q": "What is the F2 generation?",
+      "answer": "The second filial generation",
+      "distractors": [
+        "The second fertilized generation",
+        "The second female generation",
+        "The first filial generation",
+        "The parental generation",
+        "The grandparent generation"
+      ]
+    },
+    {
+      "q": "In Mendel's pea crosses, what is a dominant trait (such as purple flower color)?",
+      "answer": "The trait expressed in the F1 generation",
+      "distractors": [
+        "The trait hidden in the F1 that reappears in the F2",
+        "The trait found only in the P generation",
+        "The trait that appears in exactly half of the F1",
+        "The trait that is most common in the wild",
+        "The trait inherited only from the mother plant"
+      ]
+    },
+    {
+      "q": "In Mendel's pea crosses, what is a recessive trait (such as white flower color)?",
+      "answer": "The trait hidden in the F1 that reappears in the F2",
+      "distractors": [
+        "The trait expressed in the F1 generation",
+        "A trait that disappears permanently after the P generation",
+        "The trait seen in three-quarters of the F2",
+        "A trait caused by a new mutation in the F1",
+        "The trait inherited only from the father plant"
+      ]
+    },
+    {
+      "q": "In Mendel's F2 generation, what was the ratio of dominant (purple) to recessive (white) phenotypes?",
+      "answer": "3:1 (75% purple, 25% white)",
+      "distractors": [
+        "1:1 (50% purple, 50% white)",
+        "1:3 (25% purple, 75% white)",
+        "1:2:1 (25% purple, 50% pink, 25% white)",
+        "9:3:3:1",
+        "All purple, no white"
+      ]
+    },
+    {
+      "q": "What are genes (Mendel's \"factors\")?",
+      "answer": "Units of heredity that parents pass to offspring and that determine traits",
+      "distractors": [
+        "The traits themselves, passed directly from parents to offspring",
+        "Proteins that carry oxygen in the blood",
+        "Whole chromosomes that are copied during mitosis",
+        "The physical appearance of an individual",
+        "Sugars on the surface of red blood cells"
+      ]
+    },
+    {
+      "q": "What does homozygous mean?",
+      "answer": "Having two identical alleles for a gene",
+      "distractors": [
+        "Having two different alleles for a gene",
+        "Having only one allele for a gene",
+        "Having an extra copy of a chromosome",
+        "Showing the recessive phenotype in the F1",
+        "Having alleles that blend together"
+      ]
+    },
+    {
+      "q": "What does heterozygous mean?",
+      "answer": "Having two different alleles for a gene",
+      "distractors": [
+        "Having two identical alleles for a gene",
+        "Having only one allele for a gene",
+        "Having a missing chromosome",
+        "Showing both parents' phenotypes blended together",
+        "Having alleles on different chromosomes"
+      ]
+    },
+    {
+      "q": "What is an allele?",
+      "answer": "An alternative form of a gene",
+      "distractors": [
+        "A complete set of chromosomes",
+        "The observable appearance of an individual",
+        "A pair of identical chromosomes",
+        "A cell produced by meiosis",
+        "A change in chromosome number"
+      ]
+    },
+    {
+      "q": "What is a phenotype?",
+      "answer": "The observable appearance of an individual",
+      "distractors": [
+        "The specific combination of alleles an individual carries",
+        "An alternative form of a gene",
+        "The complete set of DNA in a cell",
+        "A chart of an individual's chromosomes",
+        "A cross used to find an unknown genotype"
+      ]
+    },
+    {
+      "q": "What is a genotype?",
+      "answer": "The specific combination of alleles an individual carries",
+      "distractors": [
+        "The observable appearance of an individual",
+        "An alternative form of a gene",
+        "The number of chromosomes in a gamete",
+        "A trait expressed only in the F1 generation",
+        "A chart of an individual's chromosomes"
+      ]
+    },
+    {
+      "q": "Do the two alleles an individual carries change or blend into each other?",
+      "answer": "No; they stay separate and unchanged, like letters in a mailbox",
+      "distractors": [
+        "Yes; they blend together to form a new allele",
+        "Yes; the dominant allele converts the recessive one",
+        "Yes; they merge during fertilization",
+        "Only in heterozygous individuals",
+        "Only when they are on the same chromosome"
+      ]
+    },
+    {
+      "q": "The possible offspring of a cross between a true-breeding white-flowered plant (pp) and a true-breeding purple-flowered plant (PP) can be visualized with what?",
+      "answer": "A Punnett square",
+      "distractors": [
+        "A pedigree chart",
+        "A karyotype",
+        "A phylogenetic tree",
+        "A gel electrophoresis",
+        "A food web"
+      ]
+    },
+    {
+      "q": "What is the law of segregation?",
+      "answer": "The two alleles for a trait separate when gametes form, so half the gametes carry one allele and half carry the other",
+      "distractors": [
+        "Genes on different chromosomes are inherited independently of one another",
+        "Alleles blend together when gametes form, producing intermediate offspring",
+        "Both alleles for a trait are always passed together into each gamete",
+        "Only the dominant allele for a trait is placed into each gamete",
+        "Genes on the same chromosome are always inherited together"
+      ]
+    },
+    {
+      "q": "What is the law of independent assortment?",
+      "answer": "Genes on different chromosomes are inherited independently of one another",
+      "distractors": [
+        "The two alleles for a trait separate when gametes form, so half the gametes carry one allele and half carry the other",
+        "Genes on the same chromosome are always separated during meiosis",
+        "Each trait is controlled by many genes acting together",
+        "One allele can affect several traits at once",
+        "Dominant alleles are inherited more often than recessive ones"
+      ]
+    },
+    {
+      "q": "In a dihybrid cross, what is the ratio of the four phenotypes in the F2 generation?",
+      "answer": "9:3:3:1",
+      "distractors": [
+        "3:1",
+        "1:2:1",
+        "1:1:1:1",
+        "9:7",
+        "6:4:4:2"
+      ]
+    },
+    {
+      "q": "Each body cell of an individual contains the same set of DNA molecules. What is this set called?",
+      "answer": "The genome",
+      "distractors": [
+        "The genotype",
+        "The phenotype",
+        "The karyotype",
+        "The allele",
+        "The chromosome"
+      ]
+    },
+    {
+      "q": "About how many nucleotides are in the human genome?",
+      "answer": "3 billion",
+      "distractors": [
+        "3 million",
+        "300 million",
+        "30 billion",
+        "46 billion",
+        "20,000"
+      ]
+    },
+    {
+      "q": "How many chromosomes are in a human body cell?",
+      "answer": "46: 23 from the mother and 23 from the father",
+      "distractors": [
+        "23: half from the mother and half from the father",
+        "92: 46 from the mother and 46 from the father",
+        "48: 24 from the mother and 24 from the father",
+        "44: 22 from the mother and 22 from the father",
+        "46: all 46 copied from the mother's egg"
+      ]
+    },
+    {
+      "q": "What do we call a smooth gradation of phenotypes in a population?",
+      "answer": "Continuous variation",
+      "distractors": [
+        "Discrete variation",
+        "Incomplete dominance",
+        "Pleiotropy",
+        "Segregation",
+        "Nondisjunction"
+      ]
+    },
+    {
+      "q": "Height varies continuously in a population of students because it is controlled by many genes. What is such a trait called?",
+      "answer": "Polygenic",
+      "distractors": [
+        "Pleiotropic",
+        "Codominant",
+        "Sex-linked",
+        "Monogenic",
+        "Recessive"
+      ]
+    },
+    {
+      "q": "When a single allele has more than one effect on the phenotype, what is that allele called?",
+      "answer": "Pleiotropic",
+      "distractors": [
+        "Polygenic",
+        "Codominant",
+        "Incompletely dominant",
+        "Recessive",
+        "Homozygous"
+      ]
+    },
+    {
+      "q": "What are two examples of pleiotropic alleles?",
+      "answer": "Sickle cell anemia and cystic fibrosis",
+      "distractors": [
+        "Human height and skin color",
+        "Red and white four o'clock flowers",
+        "ABO blood type and Rh factor",
+        "Down syndrome and Turner syndrome",
+        "Purple and white pea flowers"
+      ]
+    },
+    {
+      "q": "Some pairs of alleles produce a heterozygous phenotype that is intermediate between those of the parents. What is this called?",
+      "answer": "Incomplete dominance",
+      "distractors": [
+        "Codominance",
+        "Complete dominance",
+        "Pleiotropy",
+        "Polygenic inheritance",
+        "Independent assortment"
+      ]
+    },
+    {
+      "q": "What is an example of incomplete dominance?",
+      "answer": "Red, pink, and white Japanese four o'clock flowers",
+      "distractors": [
+        "Purple and white pea flowers",
+        "Type AB blood",
+        "Arctic fox fur color changing with temperature",
+        "Variation in human height",
+        "Sickle cell anemia"
+      ]
+    },
+    {
+      "q": "What is an example of epigenetic modification (the environment affecting how genes are expressed)?",
+      "answer": "An Arctic fox makes fur pigment when it is warm and no pigment when it is cold",
+      "distractors": [
+        "A pea plant has purple flowers because it carries a dominant P allele",
+        "A person with type AB blood has both A and B sugars on their red blood cells",
+        "A four o'clock flower is pink because it is heterozygous for red and white",
+        "A child inherits sickle cell anemia from two carrier parents",
+        "A person has 47 chromosomes because of trisomy 21"
+      ]
+    },
+    {
+      "q": "What are the four ABO blood groups?",
+      "answer": "A, B, AB, and O",
+      "distractors": [
+        "A, B, C, and O",
+        "A, B, AB, and Rh",
+        "A, B, O, and AO",
+        "A, AB, BO, and O",
+        "A, B, C, and D"
+      ]
+    },
+    {
+      "q": "What happens if a type A person receives a transfusion of type B blood?",
+      "answer": "The recipient's immune system recognizes the foreign antigens and attacks the donated blood cells",
+      "distractors": [
+        "Nothing happens, because all ABO blood types are compatible",
+        "The donated blood cells are converted to type A",
+        "The recipient's blood type permanently changes to AB",
+        "The donated blood's immune system attacks the recipient's organs",
+        "The recipient's own red blood cells stop carrying oxygen"
+      ]
+    },
+    {
+      "q": "What is unique about type O blood?",
+      "answer": "It is the universal donor type",
+      "distractors": [
+        "It is the universal recipient type",
+        "Its red blood cells carry both A and B sugars",
+        "It is dominant over types A and B",
+        "It is the rarest blood type",
+        "It can only be given to other type O people"
+      ]
+    },
+    {
+      "q": "Why does donated type O blood cause no immune response in the recipient?",
+      "answer": "Its red blood cells have no A or B sugar antigens on their surface",
+      "distractors": [
+        "Its red blood cells have both A and B sugar antigens on their surface",
+        "Its red blood cells have no nucleus or DNA",
+        "It contains antibodies that switch off the recipient's immune system",
+        "Its red blood cells change type to match the recipient",
+        "It is filtered out of the blood before the immune system sees it"
+      ]
+    },
+    {
+      "q": "Which blood type can receive A or B blood with no immune response?",
+      "answer": "AB, because their red blood cells have both A and B sugars",
+      "distractors": [
+        "O, because their red blood cells have neither sugar",
+        "A, because their red blood cells have the A sugar",
+        "B, because their red blood cells have the B sugar",
+        "O, because their immune system makes no antibodies",
+        "None; every blood type rejects A and B blood"
+      ]
+    },
+    {
+      "q": "What is it called when chromosomes fail to separate correctly during meiosis?",
+      "answer": "Nondisjunction",
+      "distractors": [
+        "Crossing over",
+        "Independent assortment",
+        "Segregation",
+        "Replication",
+        "Fertilization"
+      ]
+    },
+    {
+      "q": "What is aneuploidy?",
+      "answer": "An abnormal number of chromosomes",
+      "distractors": [
+        "A change in a single DNA nucleotide",
+        "A normal set of 46 chromosomes",
+        "Having two identical alleles for a gene",
+        "A chromosome segment that has been flipped",
+        "A trait controlled by many genes"
+      ]
+    },
+    {
+      "q": "What results from trisomy of chromosome 21 (three copies instead of two)?",
+      "answer": "Down syndrome",
+      "distractors": [
+        "Turner syndrome",
+        "Klinefelter syndrome",
+        "Hemophilia",
+        "Cystic fibrosis",
+        "Sickle cell anemia"
+      ]
+    },
+    {
+      "q": "What results when an XX egg (from nondisjunction) is fertilized by an X sperm?",
+      "answer": "XXX syndrome: a female who is often taller than average",
+      "distractors": [
+        "XXY: Klinefelter syndrome",
+        "XO: Turner syndrome",
+        "XYY: a fertile male with typical features",
+        "A nonviable zygote",
+        "Down syndrome"
+      ]
+    },
+    {
+      "q": "What results when an XX egg (from nondisjunction) is fertilized by a Y sperm?",
+      "answer": "XXY: Klinefelter syndrome",
+      "distractors": [
+        "XXX syndrome: a female who is often taller than average",
+        "XO: Turner syndrome",
+        "XYY: a fertile male with typical features",
+        "A nonviable zygote",
+        "Down syndrome"
+      ]
+    },
+    {
+      "q": "What is Klinefelter syndrome?",
+      "answer": "An XXY male who is sterile, has some female body characteristics, and is in some cases intellectually disabled",
+      "distractors": [
+        "An XO female who is sterile, short, and has a webbed neck",
+        "An XYY male who is fertile and has typical features",
+        "An XXX female who is often taller than average",
+        "An inherited condition in which blood clots slowly or not at all",
+        "A condition caused by three copies of chromosome 21"
+      ]
+    },
+    {
+      "q": "What results when an egg with no X chromosome (O) is fertilized by a Y sperm?",
+      "answer": "A nonviable zygote, because it lacks the genes on the X chromosome",
+      "distractors": [
+        "XO: Turner syndrome",
+        "A typical, fertile male",
+        "XYY: a fertile male with typical features",
+        "XXY: Klinefelter syndrome",
+        "A female who is taller than average"
+      ]
+    },
+    {
+      "q": "What results when an egg with no X chromosome (O) is fertilized by an X sperm?",
+      "answer": "XO: Turner syndrome, a sterile female of short stature with a webbed neck and immature sex organs",
+      "distractors": [
+        "A nonviable zygote, because it lacks the genes on the X chromosome",
+        "XXY: Klinefelter syndrome, a sterile male with some female body characteristics",
+        "XXX syndrome: a female who is often taller than average",
+        "XYY: a fertile male with typical features",
+        "A typical, fertile female"
+      ]
+    },
+    {
+      "q": "What results when nondisjunction in the father produces a YY sperm that fertilizes a normal X egg?",
+      "answer": "XYY: a fertile male with typical features",
+      "distractors": [
+        "XXY: Klinefelter syndrome",
+        "XO: Turner syndrome",
+        "XXX syndrome: a female who is often taller than average",
+        "A nonviable zygote",
+        "Down syndrome"
+      ]
+    },
+    {
+      "q": "What are accidental changes in genes called?",
+      "answer": "Mutations",
+      "distractors": [
+        "Alleles",
+        "Adaptations",
+        "Recombinations",
+        "Translations",
+        "Phenotypes"
+      ]
+    },
+    {
+      "q": "Why aren't harmful recessive alleles eliminated from human populations?",
+      "answer": "Heterozygous carriers don't show the disorder, so they pass the allele on",
+      "distractors": [
+        "Natural selection favors all recessive alleles",
+        "Recessive alleles mutate back into dominant alleles each generation",
+        "Recessive alleles are only found on the Y chromosome",
+        "People with the disorder always have more children",
+        "Dominant alleles protect recessive alleles from mutation"
+      ]
+    },
+    {
+      "q": "What is hemophilia?",
+      "answer": "An inherited condition in which blood clots slowly or not at all",
+      "distractors": [
+        "An inherited condition in which red blood cells become sickle-shaped",
+        "An inherited condition in which thick mucus clogs the lungs",
+        "A bacterial infection of the blood",
+        "A condition caused by three copies of chromosome 21",
+        "An inherited inability to see certain colors"
+      ]
+    },
+    {
+      "q": "What is a test cross?",
+      "answer": "Crossing an individual with a dominant phenotype but unknown genotype with a homozygous recessive individual",
+      "distractors": [
+        "Crossing two heterozygous individuals to produce an F2 generation",
+        "Crossing an individual with an unknown genotype with a homozygous dominant individual",
+        "Crossing two true-breeding individuals with the same phenotype",
+        "Letting an F1 plant pollinate itself",
+        "Crossing two homozygous recessive individuals"
+      ]
+    },
+    {
+      "q": "Humans have ___ pairs of autosomes and ___ pair(s) of sex chromosomes.",
+      "answer": "22 and 1",
+      "distractors": [
+        "23 and 1",
+        "21 and 2",
+        "44 and 2",
+        "22 and 2",
+        "23 and 0"
+      ]
+    }
+  ]
+}

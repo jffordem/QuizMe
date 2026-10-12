@@ -1,0 +1,464 @@
+{
+  "id": "biology-ch11",
+  "title": "Biology Chapter 11",
+  "version": 1,
+  "questions": [
+    {
+      "q": "DNA is a long, chainlike molecule made up of subunits called what?",
+      "answer": "Nucleotides",
+      "distractors": [
+        "Amino acids",
+        "Fatty acids",
+        "Monosaccharides",
+        "Chromosomes",
+        "Codons"
+      ]
+    },
+    {
+      "q": "Which DNA bases are purines?",
+      "answer": "A (adenine) and G (guanine)",
+      "distractors": [
+        "C (cytosine) and T (thymine)",
+        "A (adenine) and T (thymine)",
+        "G (guanine) and C (cytosine)",
+        "A (adenine) and C (cytosine)",
+        "T (thymine) and U (uracil)"
+      ]
+    },
+    {
+      "q": "Which DNA bases are pyrimidines?",
+      "answer": "C (cytosine) and T (thymine)",
+      "distractors": [
+        "A (adenine) and G (guanine)",
+        "A (adenine) and T (thymine)",
+        "G (guanine) and C (cytosine)",
+        "G (guanine) and T (thymine)",
+        "A (adenine) and U (uracil)"
+      ]
+    },
+    {
+      "q": "What is the shape of the DNA molecule?",
+      "answer": "A double helix",
+      "distractors": [
+        "A single helix",
+        "A triple helix",
+        "A flat sheet",
+        "A closed ring",
+        "A branched chain"
+      ]
+    },
+    {
+      "q": "In DNA, which base pairs with A (adenine)?",
+      "answer": "T (thymine)",
+      "distractors": [
+        "G (guanine)",
+        "C (cytosine)",
+        "U (uracil)",
+        "A (adenine)"
+      ]
+    },
+    {
+      "q": "In DNA, which base pairs with G (guanine)?",
+      "answer": "C (cytosine)",
+      "distractors": [
+        "A (adenine)",
+        "T (thymine)",
+        "U (uracil)",
+        "G (guanine)"
+      ]
+    },
+    {
+      "q": "Who took the X-ray diffraction photograph that revealed DNA's helical structure?",
+      "answer": "Rosalind Franklin",
+      "distractors": [
+        "James Watson",
+        "Francis Crick",
+        "Gregor Mendel",
+        "Erwin Chargaff",
+        "Linus Pauling"
+      ]
+    },
+    {
+      "q": "Who deduced that the two strands of a DNA molecule pair with each other through hydrogen bonds between their bases?",
+      "answer": "Watson and Crick",
+      "distractors": [
+        "Rosalind Franklin",
+        "Gregor Mendel",
+        "Hershey and Chase",
+        "Meselson and Stahl",
+        "Erwin Chargaff"
+      ]
+    },
+    {
+      "q": "How many hydrogen bonds hold a G-C base pair together?",
+      "answer": "3",
+      "distractors": [
+        "1",
+        "2",
+        "4",
+        "6"
+      ]
+    },
+    {
+      "q": "How many hydrogen bonds hold an A-T base pair together?",
+      "answer": "2",
+      "distractors": [
+        "1",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "q": "What is the copying of DNA before cell division called?",
+      "answer": "DNA replication",
+      "distractors": [
+        "Transcription",
+        "Translation",
+        "Mutation",
+        "Recombination",
+        "Meiosis"
+      ]
+    },
+    {
+      "q": "What enzyme builds the new strands during DNA replication?",
+      "answer": "DNA polymerase",
+      "distractors": [
+        "DNA ligase",
+        "RNA polymerase",
+        "Helicase",
+        "Amylase",
+        "Reverse transcriptase"
+      ]
+    },
+    {
+      "q": "What does DNA polymerase do?",
+      "answer": "Reads each strand and adds the complementary nucleotide (A-T, C-G) to build a new strand",
+      "distractors": [
+        "Seals gaps between DNA fragments with covalent bonds",
+        "Removes the RNA primers after replication is finished",
+        "Unwinds the double helix by breaking hydrogen bonds",
+        "Copies DNA into messenger RNA",
+        "Cuts DNA at specific sequences to destroy a gene"
+      ]
+    },
+    {
+      "q": "What is one thing DNA polymerase cannot do?",
+      "answer": "Begin a new strand; it can only add to an existing strand",
+      "distractors": [
+        "Add nucleotides in the 5' to 3' direction",
+        "Pair A with T and C with G",
+        "Copy the leading strand",
+        "Work at the replication fork",
+        "Read a DNA template strand"
+      ]
+    },
+    {
+      "q": "What starts each new DNA strand, on both the leading and lagging strands?",
+      "answer": "A primer",
+      "distractors": [
+        "A ligase",
+        "A promoter",
+        "A codon",
+        "A telomere",
+        "A ribosome"
+      ]
+    },
+    {
+      "q": "Where are new strands of DNA made during replication?",
+      "answer": "At the replication fork",
+      "distractors": [
+        "At the ribosome",
+        "At the centromere",
+        "At the ends of the chromosome only",
+        "In the cytoplasm, outside the nucleus",
+        "At the cell membrane"
+      ]
+    },
+    {
+      "q": "During replication, which new strand is built continuously toward the replication fork?",
+      "answer": "The leading strand",
+      "distractors": [
+        "The lagging strand",
+        "The template strand",
+        "The primer strand",
+        "The parental strand",
+        "The messenger strand"
+      ]
+    },
+    {
+      "q": "During replication, which new strand is built in short pieces moving away from the replication fork?",
+      "answer": "The lagging strand",
+      "distractors": [
+        "The leading strand",
+        "The template strand",
+        "The primer strand",
+        "The parental strand",
+        "The messenger strand"
+      ]
+    },
+    {
+      "q": "What must happen before newly made DNA molecules wind back into a double helix?",
+      "answer": "The primers must be removed and the lagging-strand pieces joined together",
+      "distractors": [
+        "The leading strand must be cut into short pieces",
+        "The new strands must be copied into RNA",
+        "The two old strands must pair back with each other",
+        "All the hydrogen bonds must be replaced by covalent bonds",
+        "New primers must be added to the ends of each strand"
+      ]
+    },
+    {
+      "q": "Which enzyme seals the gaps between DNA pieces on the lagging strand?",
+      "answer": "DNA ligase",
+      "distractors": [
+        "DNA polymerase",
+        "Helicase",
+        "Primase",
+        "RNA polymerase",
+        "Lipase"
+      ]
+    },
+    {
+      "q": "About how many new mutations does a human accumulate from one generation to the next?",
+      "answer": "100-200",
+      "distractors": [
+        "1-2",
+        "10-20",
+        "1,000-2,000",
+        "About 1 million",
+        "None"
+      ]
+    },
+    {
+      "q": "The human mutation rate works out to about how many mutations per base pair each generation?",
+      "answer": "One mutation in every 30 million base pairs",
+      "distractors": [
+        "One mutation in every 100 base pairs",
+        "One mutation in every 30 thousand base pairs",
+        "One mutation in every 3 million base pairs",
+        "One mutation in every 3 billion base pairs",
+        "One mutation in every 300 billion base pairs"
+      ]
+    },
+    {
+      "q": "Do prokaryotes have a nucleus?",
+      "answer": "No",
+      "distractors": [
+        "Yes",
+        "Only during cell division",
+        "Only some prokaryotes do",
+        "Yes, but it has no membrane"
+      ]
+    },
+    {
+      "q": "What is a change in the genetic message (the base sequence of one or more genes) called?",
+      "answer": "A mutation",
+      "distractors": [
+        "A replication",
+        "A translation",
+        "A primer",
+        "An allele",
+        "A codon"
+      ]
+    },
+    {
+      "q": "The slow, steady accumulation of mutations over many generations results in what?",
+      "answer": "Evolution",
+      "distractors": [
+        "Cancer in every individual",
+        "Extinction of the species",
+        "Identical offspring",
+        "DNA replication",
+        "Cell division"
+      ]
+    },
+    {
+      "q": "The genes in DNA carry the instructions for making what?",
+      "answer": "Proteins",
+      "distractors": [
+        "Lipids",
+        "Carbohydrates",
+        "Cell membranes",
+        "Minerals",
+        "Vitamins"
+      ]
+    },
+    {
+      "q": "Mutations that change a gene's message are most often what?",
+      "answer": "Detrimental (harmful)",
+      "distractors": [
+        "Beneficial",
+        "Always lethal",
+        "Reversed in the next generation",
+        "Helpful to survival",
+        "Passed only to somatic cells"
+      ]
+    },
+    {
+      "q": "Which of these is an example of a mutation?",
+      "answer": "A T nucleotide appears where a G nucleotide should be",
+      "distractors": [
+        "DNA polymerase pairs A with T and C with G",
+        "DNA ligase seals the lagging-strand pieces",
+        "A primer starts a new strand at the replication fork",
+        "A cell copies its DNA before dividing",
+        "Two DNA strands are held together by hydrogen bonds"
+      ]
+    },
+    {
+      "q": "What are the cells that give rise to gametes (eggs and sperm) called?",
+      "answer": "Germ-line cells",
+      "distractors": [
+        "Somatic cells",
+        "Stem cells",
+        "Red blood cells",
+        "Prokaryotic cells",
+        "Nerve cells"
+      ]
+    },
+    {
+      "q": "What are all the other cells of the body (not germ-line cells) called?",
+      "answer": "Somatic cells",
+      "distractors": [
+        "Germ-line cells",
+        "Gametes",
+        "Zygotes",
+        "Prokaryotic cells",
+        "Primer cells"
+      ]
+    },
+    {
+      "q": "What in germ-line tissue is of enormous biological importance because it provides the raw material for evolutionary change by natural selection?",
+      "answer": "Mutations",
+      "distractors": [
+        "Primers",
+        "Somatic cells",
+        "DNA ligase",
+        "Hydrogen bonds",
+        "Proteins"
+      ]
+    },
+    {
+      "q": "Somatic mutations in lung cells (often caused by cigarette smoke) are the principal cause of what?",
+      "answer": "Lung cancer",
+      "distractors": [
+        "Down syndrome",
+        "Cystic fibrosis",
+        "Sickle cell anemia",
+        "Asthma passed on to offspring",
+        "Hemophilia"
+      ]
+    },
+    {
+      "q": "What is a point mutation?",
+      "answer": "A change of only one or a few base pairs in a gene's coding sequence",
+      "distractors": [
+        "An insertion or deletion that throws the reading of the gene out of register",
+        "The loss or gain of an entire chromosome",
+        "A swap of large segments between two chromosomes",
+        "A copy of the entire genome",
+        "A change in the number of genes on the X chromosome"
+      ]
+    },
+    {
+      "q": "What is a frameshift mutation?",
+      "answer": "An insertion or deletion that throws the reading of the gene out of register",
+      "distractors": [
+        "A change of only one or a few base pairs that keeps the reading in register",
+        "The loss or gain of an entire chromosome",
+        "A swap of large segments between two chromosomes",
+        "A mutation that occurs only in somatic cells",
+        "A change that turns a gene's DNA into RNA"
+      ]
+    },
+    {
+      "q": "How do many point mutations occur?",
+      "answer": "From DNA damage caused by mutagens such as cigarette smoke, radiation, or chemicals",
+      "distractors": [
+        "From DNA ligase sealing the lagging strand",
+        "From eating foods that contain DNA",
+        "From chromosomes failing to separate during meiosis",
+        "From primers being left in the finished DNA",
+        "From too many hydrogen bonds between bases"
+      ]
+    },
+    {
+      "q": "Genetic change through mutation and recombination provides the raw material for what?",
+      "answer": "Evolution",
+      "distractors": [
+        "DNA replication",
+        "Protein digestion",
+        "Photosynthesis",
+        "Cell respiration",
+        "Hydrogen bonding"
+      ]
+    },
+    {
+      "q": "What does CRISPR stand for?",
+      "answer": "Clustered regularly interspaced short palindromic repeats",
+      "distractors": [
+        "Copied replicating identical sequences of protein RNA",
+        "Chromosome repair in somatic pairing regions",
+        "Cellular recombination of inserted spliced primer repeats",
+        "Complementary regions inside single-paired ribonucleotides",
+        "Coded replication in synthetic polymerase reactions"
+      ]
+    },
+    {
+      "q": "What is CRISPR used for?",
+      "answer": "Targeting any gene for modification or destruction, or replacing one gene with another",
+      "distractors": [
+        "Copying DNA before cell division",
+        "Sealing gaps in the lagging strand",
+        "Taking X-ray photographs of DNA",
+        "Counting the chromosomes in a cell",
+        "Measuring the mutation rate of a population"
+      ]
+    },
+    {
+      "q": "What are PERVs?",
+      "answer": "Porcine endogenous retroviruses",
+      "distractors": [
+        "Primate endogenous retroviruses",
+        "Porcine enzyme replication vectors",
+        "Polymerase error repair variants",
+        "Pig embryo reproductive vessels",
+        "Point-mutation enzyme repair viruses"
+      ]
+    },
+    {
+      "q": "Why have scientists used CRISPR to remove PERVs from pig genomes?",
+      "answer": "To make pig organs safer to transplant into humans",
+      "distractors": [
+        "To make pigs grow larger for food",
+        "To make pigs resistant to cold weather",
+        "To give pigs human blood types",
+        "To stop pigs from mutating",
+        "To create pigs with no DNA in their organs"
+      ]
+    },
+    {
+      "q": "What is the structure of a DNA nucleotide?",
+      "answer": "A deoxyribose sugar, a phosphate group, and one of four bases (A, T, C, or G)",
+      "distractors": [
+        "A ribose sugar, a phosphate group, and one of four bases (A, U, C, or G)",
+        "A deoxyribose sugar, an amino group, and one of four bases (A, T, C, or G)",
+        "A glucose sugar, a phosphate group, and one of twenty amino acids",
+        "A glycerol molecule, a phosphate group, and two fatty acids",
+        "A deoxyribose sugar and two phosphate groups, with no base"
+      ]
+    },
+    {
+      "q": "In which direction are nucleotides added to a growing DNA strand?",
+      "answer": "5' to 3'",
+      "distractors": [
+        "3' to 5'",
+        "In both directions at once",
+        "From the center outward",
+        "In a random direction",
+        "1' to 5'"
+      ]
+    }
+  ]
+}
