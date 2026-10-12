@@ -1,0 +1,118 @@
+{
+  "id": "biology-ch12",
+  "title": "Biology Chapter 12",
+  "version": 1,
+  "questions": [
+    {
+      "q": "Which of the following statements is true?",
+      "answer": "Each amino acid in a protein is coded for by three bases in the DNA.",
+      "distractors": [
+        "Each DNA base codes for three amino acids.",
+        "It takes three genes to code for one protein.",
+        "Each triplet has many different meanings.",
+        "Each gene codes for three proteins."
+      ]
+    },
+    {
+      "q": "In transcription, how many of the DNA strands are used as the template?",
+      "answer": "Only one of the DNA strands",
+      "distractors": [
+        "Both DNA strands at the same time",
+        "Both DNA strands, taking turns",
+        "Neither; RNA is copied from another RNA",
+        "Neither; the template is a protein"
+      ]
+    },
+    {
+      "q": "In transcription, what acts as the initial binding site for RNA polymerase?",
+      "answer": "The promoter region",
+      "distractors": [
+        "The enhancer region",
+        "The ribosome",
+        "The start codon",
+        "The anticodon",
+        "The replication fork"
+      ]
+    },
+    {
+      "q": "The number of nucleotide bases \"read\" together on the mRNA to designate each amino acid is _____; this unit is called a(n) _____.",
+      "answer": "three ... codon",
+      "distractors": [
+        "three ... triose",
+        "two ... dipeptide",
+        "one ... amino acid",
+        "two ... anticodon"
+      ]
+    },
+    {
+      "q": "During translation in a eukaryotic cell _____.",
+      "answer": "polypeptides are synthesized at ribosomes, according to instructions carried by mRNA",
+      "distractors": [
+        "ribosomes move into the nucleus",
+        "tRNA carries amino acid molecules to the nucleus, where they are added to a growing polypeptide chain",
+        "ribosomes move out of the nucleus",
+        "mRNA is synthesized by the bonding of free nucleotides to the bases on the template strand of DNA"
+      ]
+    },
+    {
+      "q": "The function of tRNA during protein synthesis is to _____.",
+      "answer": "deliver amino acids to their proper site during protein synthesis",
+      "distractors": [
+        "transcribe mRNA",
+        "process mRNA",
+        "attach mRNA to the small subunit of the ribosome",
+        "guide ribosome subunits out of the nucleus through nuclear pores"
+      ]
+    },
+    {
+      "q": "In a eukaryotic cell, transcription takes place _____.",
+      "answer": "in the nucleus",
+      "distractors": [
+        "on free ribosomes",
+        "on the cell membrane",
+        "in the rough endoplasmic reticulum",
+        "in the cytoplasm"
+      ]
+    },
+    {
+      "q": "What is a key difference in gene expression between eukaryotic and prokaryotic cells?",
+      "answer": "In prokaryotic cells, the mRNA transcript is immediately available as mRNA without processing.",
+      "distractors": [
+        "In eukaryotic cells, transcribed RNA sequences function as termination signals.",
+        "RNA polymerases are involved only in initiation in eukaryotes.",
+        "Prokaryotes do not contain ribosomes.",
+        "In prokaryotes, proteins are assembled directly from DNA."
+      ]
+    },
+    {
+      "q": "In a eukaryote, activating transcription factors may stimulate gene expression by binding to a DNA site called a(n) _____.",
+      "answer": "enhancer",
+      "distractors": [
+        "histone",
+        "promoter",
+        "operon",
+        "silencer"
+      ]
+    },
+    {
+      "q": "Which of the following summaries of protein synthesis is correct?",
+      "answer": "Messenger RNA is made on a DNA template, and then amino-acid-bearing transfer RNAs bind to it through codon-anticodon pairing.",
+      "distractors": [
+        "DNA strands separate in the nucleus to form mRNA. mRNA leaves the nucleus and is transcribed into tRNA on ribosomes.",
+        "Transfer RNAs line up on a ribosome, and amino acids bind to them with hydrogen bonds.",
+        "DNA exchanges its thymine units with uracil in polymerase. This activates polymerase, and it starts joining amino acids together.",
+        "DNA transposons leave the nucleus, are transported to a ribosome, and catalyze the polymerization of amino acids in a protein."
+      ]
+    },
+    {
+      "q": "What is the proper order of these events in the expression of a eukaryotic gene? (1) translation, (2) RNA processing, (3) transcription, (4) modification of protein",
+      "answer": "3, 2, 1, 4",
+      "distractors": [
+        "1, 2, 4, 3",
+        "1, 2, 3, 4",
+        "2, 3, 4, 1",
+        "4, 2, 3, 1"
+      ]
+    }
+  ]
+}
