@@ -1,0 +1,104 @@
+{
+  "id": "biology-ch13",
+  "title": "Biology Chapter 13",
+  "version": 1,
+  "questions": [
+    {
+      "q": "DNA synthesized using an RNA template is called _____.",
+      "answer": "cDNA",
+      "distractors": [
+        "a palindrome",
+        "a restriction enzyme",
+        "a plasmid",
+        "reverse transcriptase"
+      ]
+    },
+    {
+      "q": "The human genome is thought to contain about how many genes?",
+      "answer": "20,000–25,000",
+      "distractors": [
+        "4,000–6,000",
+        "100,000–110,000",
+        "13,000–15,000",
+        "1,000–2,000"
+      ]
+    },
+    {
+      "q": "Alu elements _____.",
+      "answer": "are derived from or related to transposable elements",
+      "distractors": [
+        "are present in all mammals",
+        "are found only in the human genome",
+        "encode their own transposase",
+        "make up nearly 50% of the human genome"
+      ]
+    },
+    {
+      "q": "In genetic engineering, \"sticky end\" refers to _____.",
+      "answer": "short bits of single-stranded DNA left at the end of DNA molecules cut by restriction enzymes",
+      "distractors": [
+        "the site on mRNA that sticks to the DNA during transcription",
+        "a technique for finding a gene of interest within a nucleus without destroying the cell",
+        "the ability of plasmids to stick to a bacterial cell wall and thus be taken up into the bacterium"
+      ]
+    },
+    {
+      "q": "Gene therapy involves _____.",
+      "answer": "adding a functioning version of a defective gene to the cells of an individual",
+      "distractors": [
+        "replacing organs affected with genetic disorders by transplants",
+        "allowing individuals to follow the natural progression of a genetic disorder, accompanied by psychological counseling, then drug treatment when the condition becomes life-threatening",
+        "no serious ethical questions"
+      ]
+    },
+    {
+      "q": "In the polymerase chain reaction (PCR) technique, a heating phase and a cooling phase alternate. An original sample of DNA would have to pass through how many total rounds of heating and cooling before a sample is increased eight times in quantity?",
+      "answer": "three",
+      "distractors": [
+        "eight",
+        "two",
+        "four",
+        "six"
+      ]
+    },
+    {
+      "q": "The efficiency of cloning, and the ability to generate healthy cloned animals, has been largely hampered by the difficulty of _____.",
+      "answer": "completely eliminating epigenetic effects such as DNA methylation",
+      "distractors": [
+        "transforming donor cells with genes encoding proteins required for normal embryonic development",
+        "physically removing the nucleus from the egg cell that will ultimately receive the donor cell nucleus",
+        "inducing recombination in differentiated donor cells in order to restore the full genomic complement",
+        "implanting the clone into the surrogate mother"
+      ]
+    },
+    {
+      "q": "An enzyme that cuts DNA at a symmetrical sequence of bases is called _____.",
+      "answer": "a restriction enzyme",
+      "distractors": [
+        "ligase",
+        "a palindrome",
+        "cDNA",
+        "reverse transcriptase"
+      ]
+    },
+    {
+      "q": "_____ can give rise to any type of cell whereas _____ can give rise to a subset of cell types.",
+      "answer": "Embryonic stem cells ... adult stem cells",
+      "distractors": [
+        "Adult stem cells ... embryonic stem cells",
+        "Adult stem cells ... totipotent cells",
+        "Totipotent cells ... nerve cells",
+        "Heterozygous cells ... homozygous cells"
+      ]
+    },
+    {
+      "q": "Researchers continue to develop new methods for improved gene therapies. A relatively new vector - something that can insert a healthy gene of interest into another organism - used by scientists is AAV. What kind of organism is AAV?",
+      "answer": "Virus",
+      "distractors": [
+        "Bacterium",
+        "Plasmid",
+        "Cell"
+      ]
+    }
+  ]
+}
