@@ -99,6 +99,281 @@
         "Plasmid",
         "Cell"
       ]
+    },
+    {
+      "q": "What is a GMO?",
+      "answer": "A genetically modified organism",
+      "distractors": [
+        "A genetically matched organism",
+        "A generally mutated organism",
+        "A gene-mapped organism",
+        "A germ-free modified organism",
+        "A genome-measured organism"
+      ]
+    },
+    {
+      "q": "What is a \"Frankenfood\"?",
+      "answer": "A disapproving slang term for genetically modified foods",
+      "distractors": [
+        "A disapproving slang term for heavily processed junk food",
+        "A scientific term for food grown from cloned animals",
+        "A slang term for food made from several different plants grafted together",
+        "A regulatory term for food that failed safety testing",
+        "A slang term for organic food grown without pesticides"
+      ]
+    },
+    {
+      "q": "What is a genome?",
+      "answer": "The full set of genetic information of an organism: all of its genes and other DNA",
+      "distractors": [
+        "Only the protein-coding genes of an organism, not its other DNA",
+        "The set of all proteins an organism makes",
+        "A single chromosome carrying an organism's most important genes",
+        "The physical traits an organism shows",
+        "The DNA found in an organism's mitochondria"
+      ]
+    },
+    {
+      "q": "What are four major types of noncoding human DNA?",
+      "answer": "Noncoding DNA within genes, structural DNA, repeated and duplicated sequences, transposable elements",
+      "distractors": [
+        "Noncoding DNA within genes, structural DNA, repeated and duplicated sequences, messenger RNA",
+        "Exons, structural DNA, repeated and duplicated sequences, transposable elements",
+        "Noncoding DNA within genes, ribosomes, repeated and duplicated sequences, transposable elements",
+        "Promoters, codons, plasmids, transfer RNA",
+        "Exons, operons, codons, anticodons"
+      ]
+    },
+    {
+      "q": "About what percentage of the human genome is protein-coding DNA?",
+      "answer": "1–1.5%",
+      "distractors": [
+        "10–15%",
+        "About 25%",
+        "About 50%",
+        "About 75%",
+        "About 98%"
+      ]
+    },
+    {
+      "q": "What is the significance of the sequence GAATTC?",
+      "answer": "A restriction enzyme cuts DNA there, so any DNA cut at it gets matching sticky ends that DNA ligase can join",
+      "distractors": [
+        "It is the start codon, so every gene in every organism begins with it",
+        "It is the promoter sequence where RNA polymerase binds in every organism",
+        "It marks the end of a gene, where transcription stops",
+        "DNA ligase cuts DNA there, leaving blunt ends that cannot be rejoined",
+        "It is a stop codon that ends translation in every organism"
+      ]
+    },
+    {
+      "q": "What are restriction enzymes?",
+      "answer": "Bacterial enzymes that cut DNA at specific short sequences, a kind of molecular surgery",
+      "distractors": [
+        "Enzymes that seal pieces of DNA together, like molecular glue",
+        "Enzymes that copy RNA back into DNA",
+        "Enzymes that copy DNA during the polymerase chain reaction",
+        "Enzymes that stop a cell from dividing",
+        "Enzymes that add methyl groups to DNA to silence genes"
+      ]
+    },
+    {
+      "q": "What is complementary DNA (cDNA)?",
+      "answer": "Laboratory-made DNA that is reverse-transcribed from an mRNA template",
+      "distractors": [
+        "The second strand of any naturally occurring DNA double helix",
+        "Laboratory-made RNA that is transcribed from a DNA template",
+        "DNA copied from a protein's amino acid sequence",
+        "A circular piece of DNA found naturally in bacteria",
+        "DNA taken directly from a cell's chromosomes, introns included"
+      ]
+    },
+    {
+      "q": "What is DNA fingerprinting?",
+      "answer": "A process used to compare samples of DNA",
+      "distractors": [
+        "A process used to make millions of copies of DNA",
+        "A process used to insert a gene into another organism",
+        "A process used to read the fingerprints on a DNA sample tube",
+        "A process used to turn off specific genes",
+        "A process used to copy RNA back into DNA"
+      ]
+    },
+    {
+      "q": "What is PCR?",
+      "answer": "The polymerase chain reaction, a process that amplifies a DNA segment to many millions of copies",
+      "distractors": [
+        "The protein chain reaction, a process that links amino acids into proteins",
+        "The polymerase chain reaction, a process that cuts DNA at specific sequences",
+        "The plasmid cloning reaction, a process that inserts genes into bacteria",
+        "The polymerase chain reaction, a process that translates mRNA into protein",
+        "The primer cutting reaction, a process that removes introns from RNA"
+      ]
+    },
+    {
+      "q": "What is a subunit vaccine?",
+      "answer": "A vaccine containing only purified pieces of a pathogen, such as proteins or sugars, not the whole organism",
+      "distractors": [
+        "A vaccine containing the whole pathogen in a weakened but live form",
+        "A vaccine containing the whole pathogen, killed by heat or chemicals",
+        "A vaccine that delivers a plasmid carrying a pathogen gene into body cells",
+        "A vaccine made of antibodies taken from another person's blood",
+        "A vaccine that uses a harmless virus to carry a pathogen's genes"
+      ]
+    },
+    {
+      "q": "What is a piggyback vaccine?",
+      "answer": "A vaccine that uses a harmless virus to carry genes for a pathogen's surface proteins into the body",
+      "distractors": [
+        "A vaccine given at the same time as another vaccine in one shot",
+        "A vaccine containing the whole pathogen in a weakened but live form",
+        "A vaccine containing only purified proteins from a pathogen",
+        "A vaccine that is given to the mother to protect her unborn baby",
+        "A vaccine made of antibodies taken from another animal"
+      ]
+    },
+    {
+      "q": "What is a DNA vaccine?",
+      "answer": "A vaccine that delivers an engineered piece of DNA, usually a plasmid, carrying instructions for a pathogen protein",
+      "distractors": [
+        "A vaccine that changes a person's genome to make them immune for life",
+        "A vaccine containing the whole pathogen in a weakened but live form",
+        "A vaccine containing only purified proteins from a pathogen",
+        "A vaccine made of antibodies that bind to a pathogen's DNA",
+        "A vaccine that uses restriction enzymes to destroy a virus's DNA"
+      ]
+    },
+    {
+      "q": "The first cancer vaccine was for what type of cancer?",
+      "answer": "Prostate",
+      "distractors": [
+        "Breast",
+        "Lung",
+        "Skin (melanoma)",
+        "Leukemia",
+        "Colon"
+      ]
+    },
+    {
+      "q": "A gram-positive soil bacterium that produces crystal proteins (endotoxins) fatal to specific plant-eating insects is called _____.",
+      "answer": "Bacillus thuringiensis (Bt)",
+      "distractors": [
+        "Escherichia coli",
+        "Agrobacterium tumefaciens",
+        "Staphylococcus aureus",
+        "Streptococcus pneumoniae",
+        "Salmonella"
+      ]
+    },
+    {
+      "q": "What is glyphosate?",
+      "answer": "A powerful biodegradable herbicide that kills most actively growing plants",
+      "distractors": [
+        "An insecticide protein produced by a soil bacterium",
+        "A fertilizer that speeds up the growth of crop plants",
+        "A gene that makes crop plants resistant to drought",
+        "An enzyme that cuts DNA at specific sequences",
+        "A fungicide that protects crops from mold"
+      ]
+    },
+    {
+      "q": "About what percentage of soybeans grown in the United States are genetically modified?",
+      "answer": "About 90%",
+      "distractors": [
+        "Less than 5%",
+        "About 10%",
+        "About 25%",
+        "About 50%",
+        "About 70%"
+      ]
+    },
+    {
+      "q": "What was the first mammal cloned from an adult cell?",
+      "answer": "A sheep named Dolly",
+      "distractors": [
+        "A frog named Kermit",
+        "A mouse named Whiskers",
+        "A cow named Daisy",
+        "A monkey named George",
+        "A dog named Rover"
+      ]
+    },
+    {
+      "q": "Reprogramming of gene expression without changing the DNA sequence (for example, by DNA methylation) is part of what field?",
+      "answer": "Epigenetics",
+      "distractors": [
+        "Genomics",
+        "Proteomics",
+        "Eugenics",
+        "Transgenics",
+        "Mendelian genetics"
+      ]
+    },
+    {
+      "q": "What is a limitation of animal cloning?",
+      "answer": "Almost no cloned animals have lived a normal life span",
+      "distractors": [
+        "Cloned animals are always genetically different from the donor",
+        "Cloning only works with plant cells, not animal cells",
+        "Cloning requires DNA from two parent animals",
+        "Cloned animals are always born sterile",
+        "Cloned animals always look different from the donor"
+      ]
+    },
+    {
+      "q": "Embryonic stem cells are able to form any body tissue and even an entire adult animal. What are these stem cells called?",
+      "answer": "Totipotent",
+      "distractors": [
+        "Unipotent",
+        "Differentiated",
+        "Somatic",
+        "Haploid",
+        "Heterozygous"
+      ]
+    },
+    {
+      "q": "What is a difference between embryonic and adult stem cells?",
+      "answer": "An adult stem cell forms only one kind of tissue; it is not totipotent",
+      "distractors": [
+        "An embryonic stem cell forms only one kind of tissue; it is not totipotent",
+        "Adult stem cells can form an entire new animal, but embryonic stem cells cannot",
+        "Adult stem cells have no DNA, but embryonic stem cells do",
+        "Embryonic stem cells cannot divide, but adult stem cells can",
+        "There is no difference; both can form any tissue"
+      ]
+    },
+    {
+      "q": "What is pluripotency?",
+      "answer": "The ability of a single cell to divide and differentiate into any of the 200+ cell types of the mature body",
+      "distractors": [
+        "The ability of a cell to form only one kind of tissue",
+        "The ability of a cell to divide forever without ever differentiating",
+        "The ability of a mature cell to fuse with another cell",
+        "The ability of an organism to reproduce without a mate",
+        "The ability of a cell to carry more than two copies of each chromosome"
+      ]
+    },
+    {
+      "q": "What is AAV?",
+      "answer": "Adeno-associated virus",
+      "distractors": [
+        "Adenine-activated vector",
+        "Antibody-associated vaccine",
+        "Amino acid variant",
+        "Attenuated animal virus",
+        "Adeno-amplified vector"
+      ]
+    },
+    {
+      "q": "How is AAV used in medicine?",
+      "answer": "As a harmless vector that delivers a working copy of a gene into a patient's cells",
+      "distractors": [
+        "As a live vaccine that gives immunity to the common cold",
+        "As an antibiotic that kills bacteria resistant to other drugs",
+        "As a restriction enzyme that cuts out defective genes",
+        "As a harmless bacterium that produces insulin inside the gut",
+        "As a tag that makes cancer cells glow under a microscope"
+      ]
     }
   ]
 }
