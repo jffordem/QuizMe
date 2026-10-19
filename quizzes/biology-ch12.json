@@ -113,6 +113,258 @@
         "2, 3, 4, 1",
         "4, 2, 3, 1"
       ]
+    },
+    {
+      "q": "The DNA sequence in a gene is transcribed into an RNA sequence. This stage is called _____.",
+      "answer": "transcription",
+      "distractors": [
+        "translation",
+        "replication",
+        "RNA processing",
+        "splicing",
+        "gene silencing"
+      ]
+    },
+    {
+      "q": "Transcription begins when RNA polymerase binds to a special nucleotide sequence called a(n) _____.",
+      "answer": "promoter",
+      "distractors": [
+        "enhancer",
+        "operator",
+        "start codon",
+        "anticodon",
+        "intron"
+      ]
+    },
+    {
+      "q": "What is the central dogma?",
+      "answer": "The one-way flow of genetic information in a cell: DNA to RNA to protein",
+      "distractors": [
+        "The one-way flow of genetic information in a cell: protein to RNA to DNA",
+        "The one-way flow of genetic information in a cell: RNA to DNA to protein",
+        "The rule that each gene codes for exactly one amino acid",
+        "The rule that A pairs with T and C pairs with G in DNA",
+        "The idea that proteins copy themselves without DNA"
+      ]
+    },
+    {
+      "q": "What is translation?",
+      "answer": "Ribosomes decoding mRNA to build a chain of amino acids (a polypeptide)",
+      "distractors": [
+        "RNA polymerase copying a DNA sequence into mRNA",
+        "DNA polymerase copying DNA to make two DNA molecules",
+        "Removing introns and joining exons in a pre-mRNA",
+        "Breaking down mRNA so a gene is silenced",
+        "Folding a finished protein inside the nucleus"
+      ]
+    },
+    {
+      "q": "The use of information in DNA to direct the production of particular polypeptides is called _____.",
+      "answer": "gene expression",
+      "distractors": [
+        "DNA replication",
+        "alternative splicing",
+        "RNA interference",
+        "mutation",
+        "gene regulation"
+      ]
+    },
+    {
+      "q": "The RNA copy of a gene that the cell uses to produce a polypeptide is called _____.",
+      "answer": "messenger RNA (mRNA)",
+      "distractors": [
+        "transfer RNA (tRNA)",
+        "ribosomal RNA (rRNA)",
+        "small interfering RNA (siRNA)",
+        "complementary DNA",
+        "an anticodon"
+      ]
+    },
+    {
+      "q": "The enzyme that transcribes DNA into RNA is a large and very sophisticated protein called _____.",
+      "answer": "RNA polymerase",
+      "distractors": [
+        "DNA polymerase",
+        "helicase",
+        "ligase",
+        "reverse transcriptase",
+        "ribosomal protein"
+      ]
+    },
+    {
+      "q": "Which RNA nucleotide pairs with adenine (A)?",
+      "answer": "U (uracil)",
+      "distractors": [
+        "T (thymine)",
+        "G (guanine)",
+        "C (cytosine)",
+        "A (adenine)"
+      ]
+    },
+    {
+      "q": "The rules that govern how mRNA codons are translated into amino acids are called the _____.",
+      "answer": "genetic code",
+      "distractors": [
+        "central dogma",
+        "base-pairing rules",
+        "reading frame",
+        "operon",
+        "proteome"
+      ]
+    },
+    {
+      "q": "What is a codon?",
+      "answer": "A sequence of three nucleotides that codes for one amino acid or a start/stop signal",
+      "distractors": [
+        "A sequence of three nucleotides on tRNA that pairs with mRNA",
+        "A sequence of two nucleotides that codes for one amino acid",
+        "A single nucleotide that codes for one amino acid",
+        "A DNA site where RNA polymerase binds to start transcription",
+        "A section of RNA that is removed before translation"
+      ]
+    },
+    {
+      "q": "What is a ribosome?",
+      "answer": "The polypeptide-making factory of the cell",
+      "distractors": [
+        "The energy-producing powerhouse of the cell",
+        "The control center that stores the cell's DNA",
+        "The packaging and shipping center of the cell",
+        "The enzyme that copies DNA into RNA",
+        "The membrane that controls what enters the cell"
+      ]
+    },
+    {
+      "q": "What is tRNA?",
+      "answer": "A small RNA molecule that brings amino acids to the ribosome, matching them to mRNA codons",
+      "distractors": [
+        "The RNA copy of a gene that carries instructions out of the nucleus",
+        "The RNA that makes up the structure of the ribosome",
+        "A small RNA molecule that silences genes by breaking down mRNA",
+        "An enzyme that joins nucleotides to make RNA",
+        "A noncoding sequence that is removed from pre-mRNA"
+      ]
+    },
+    {
+      "q": "What is an anticodon?",
+      "answer": "A sequence of three nucleotides on tRNA that pairs with a complementary mRNA codon",
+      "distractors": [
+        "A sequence of three nucleotides on mRNA that codes for an amino acid",
+        "A codon that signals the end of translation",
+        "A sequence of three amino acids at the start of a protein",
+        "A DNA sequence where RNA polymerase binds",
+        "A noncoding sequence removed from pre-mRNA"
+      ]
+    },
+    {
+      "q": "What does an anticodon do?",
+      "answer": "Pairs with a matching mRNA codon by complementary base pairing, like a key in a lock",
+      "distractors": [
+        "Signals RNA polymerase where to start transcription",
+        "Joins neighboring amino acids with peptide bonds",
+        "Cuts introns out of the pre-mRNA",
+        "Carries the gene's instructions out of the nucleus",
+        "Tells the ribosome to stop translating"
+      ]
+    },
+    {
+      "q": "What is the product of DNA replication?",
+      "answer": "Two DNA duplexes",
+      "distractors": [
+        "mRNA",
+        "Polypeptides",
+        "tRNA",
+        "One DNA duplex and one RNA strand",
+        "Ribosomes"
+      ]
+    },
+    {
+      "q": "What is the product of transcription?",
+      "answer": "mRNA",
+      "distractors": [
+        "Two DNA duplexes",
+        "Polypeptides",
+        "Amino acids",
+        "Ribosomes",
+        "Anticodons"
+      ]
+    },
+    {
+      "q": "What is the product of translation?",
+      "answer": "Polypeptides",
+      "distractors": [
+        "mRNA",
+        "Two DNA duplexes",
+        "tRNA",
+        "Nucleotides",
+        "Introns"
+      ]
+    },
+    {
+      "q": "What is an exon?",
+      "answer": "A section of a gene that remains in the mature mRNA after non-coding pieces are removed",
+      "distractors": [
+        "A non-coding section of a gene that is removed from the pre-mRNA",
+        "A DNA site where RNA polymerase first binds",
+        "A cluster of genes transcribed as a single unit",
+        "A sequence of three nucleotides on tRNA",
+        "A DNA site, far from a gene, where activators bind"
+      ]
+    },
+    {
+      "q": "What is an intron?",
+      "answer": "An extraneous, non-coding nucleotide sequence that is removed from the pre-mRNA",
+      "distractors": [
+        "A coding sequence that remains in the mature mRNA",
+        "A DNA site where RNA polymerase first binds",
+        "A sequence of three nucleotides that codes for an amino acid",
+        "A protein that turns off a gene",
+        "A cluster of genes transcribed as a single unit"
+      ]
+    },
+    {
+      "q": "What is alternative splicing?",
+      "answer": "Joining exons from one pre-mRNA in different combinations so one gene can code for several proteins",
+      "distractors": [
+        "Copying both DNA strands so one gene makes two mRNAs",
+        "Silencing a gene by breaking down its mRNA before translation",
+        "Transcribing a cluster of genes together as one unit",
+        "Reading the same mRNA in a different direction to make a new protein",
+        "Swapping genes between chromosomes during meiosis"
+      ]
+    },
+    {
+      "q": "What is an operon?",
+      "answer": "A segment of DNA containing a cluster of genes that are transcribed as a unit",
+      "distractors": [
+        "A single gene that codes for several different proteins",
+        "A section of a gene that is removed before translation",
+        "A DNA site, far from a gene, where activators bind",
+        "A small RNA that turns off a gene",
+        "The site on a ribosome where tRNA binds"
+      ]
+    },
+    {
+      "q": "What is an enhancer?",
+      "answer": "A DNA site, which can be far from the gene, where eukaryotic activators bind",
+      "distractors": [
+        "The DNA site right next to a gene where RNA polymerase first binds",
+        "A prokaryotic cluster of genes transcribed as a unit",
+        "A protein that blocks RNA polymerase from transcribing a gene",
+        "A section of a gene that remains in the mature mRNA",
+        "A codon that signals translation to start"
+      ]
+    },
+    {
+      "q": "What is RNA interference?",
+      "answer": "A natural process that silences specific genes by breaking down their mRNA before it can make proteins",
+      "distractors": [
+        "A natural process that boosts gene expression by making extra copies of mRNA",
+        "A mutation that permanently deletes a gene from the DNA",
+        "A process that joins exons in different combinations",
+        "A process where RNA is copied back into DNA",
+        "A repressor protein binding to an operon to block transcription"
+      ]
     }
   ]
 }
